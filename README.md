@@ -3,6 +3,7 @@ These are files containing translations of Cell Lab in various languages, for mo
 
 # How do I contribute?
 You must join [the Discord server](https://discord.gg/yRYwEkakpc), and ask in a channel to join this project, specifiying which language you want work on
+And <i>read the guide below</i>, it's mandatory, and important.
 
 # Guide
 
