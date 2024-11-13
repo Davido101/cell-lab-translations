@@ -541,8 +541,9 @@ M2 → M2
     <string name="val_dep_mass">Cell mass</string>
     <string name="val_dep_nitro_reserve">NH&lt;sub>&lt;small>3&lt;/small>&lt;/sub> reserve [0–1]</string>
     <string name="val_dialog_signal_substance_dependence">Cell state dependence</string>
+    <!-- The 2 strings below are for the cell diagnostics tool. e.g. "Mutations: False/True" -->
     <string name="value_false">False</string>
-    <string name="value_true">True</string>
+    <string name="value_true">True</string> 
     <string name="video_link">&lt;a href=https://www.youtube.com/channel/UCKw7QHCr7XV2_NbrX3a1C4Q>YouTube&lt;/a></string>
     <string name="videos_link">"&lt;a href=https://www.youtube.com/playlist?list=PLvFmZuOkX-KE4zYLhdNDBGZgXBexRjUvO>Bart Wisialowski's walkthrough videos&lt;/a>"</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
