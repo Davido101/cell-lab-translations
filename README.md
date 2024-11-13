@@ -18,6 +18,6 @@ And <i>read the guide below</i>, it's mandatory, and important.
 ## Modding: This is how you add this to your mod
 Adding this to your mod is super simple
 
-First, you will have to go to your `res` folder
-Next, you will have to plop in every `values` folder, replacing your current ones
+First, you will have to go to your `res` folder<br>
+Next, you will have to plop in every `values` folder, replacing your current ones<br>
 Finally, you will have to replace your `arrays.xml` file with the one here. Or, if you've already modified it and don't want to lose your changes, only replace the `language_ids` and `language_names` fields
