@@ -80,20 +80,26 @@
         <item>Genome</item>
     </string-array>
     <string-array name="language_ids">
+        <item>de</item>
         <item>en</item>
         <item>es</item>
+        <item>fa</item>
         <item>ko</item>
+        <item>it</item>
         <item>pl</item>
-        <item>ru</item>
         <item>pt</item>
+        <item>ru</item>
     </string-array>
     <string-array name="language_names">
+        <item>Deutsch</item>
         <item>English</item>
         <item>Español</item>
+        <item>Farsi</item>
         <item>한반도 공용어</item>
+        <item>Italiano</item>
         <item>Polski</item>
-        <item>Русский</item>
         <item>Português</item>
+        <item>Русский</item>
     </string-array>
     <string-array name="level_strings">
         <item>Tutorial I</item>
