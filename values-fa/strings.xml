@@ -17,15 +17,19 @@
     <string name="abc_shareactionprovider_share_with_application">‏اشتراک‌گذاری با %s</string>
     <string name="abc_toolbar_collapse_description"></string>
     <string name="about_acknowledgements"></string>
-    <string name="about_rate_button">!به ما در پلی ستر امتیاز دهید</string>
-    <string name="about_text"></string>
+    <string name="about_rate_button">!به ما در پلی ستور امتیاز دهید</string>
+    <string name="about_text">‎.درست کرده‎Petter Säterskog بازی را
+درست کرده اند Petter و ‎Alast, bwisialo, Nayus چالش ها را 
+ترجمه فارسی از بهراد شریفی
+:اگر گیر کردی
+	</string>
     <string name="about_version_text">نسخه</string>
-    <string name="accept"></string>
+    <string name="accept">قبول</string>
     <string name="acknowledgement"></a></string>
     <string name="advanced_settings_cell_count">بالاتدین تعداد سلول</string>
-    <string name="advanced_settings_info"></string>
-    <string name="advanced_settings_radius">سایز</string>
-    <string name="advances_settings_food_count">حد غذا</string>
+    <string name="advanced_settings_info"> در صورت تنظیم نادرست ممکن است برنامه آرام اجرا شود یا کرش کند ‎.این تنظیمات برای استفاده پیشرفته است</string>
+    <string name="advanced_settings_radius">سایز شعاع</string>
+    <string name="advances_settings_food_count">مقدار غدا</string>
     <string name="app_name">آزمایشگاه سلول</string>
     <string name="button_more">...</string>
     <string name="button_refresh">رفرش</string>
@@ -42,9 +46,9 @@
     <string name="cell_info_mutations"></string>
     <string name="cell_info_nitro"></string>
     <string name="cell_info_select"></string>
-    <string name="cell_info_speed"></string>
+    <string name="cell_info_speed"بر ساعت‎μm %.0f :سرعت></string>
     <string name="cell_info_swim_force"></string>
-    <string name="cell_info_tag"></string>
+    <string name="cell_info_tag">:نوع</string>
     <string name="cell_info_tag_challenge"></string>
     <string name="cell_info_tag_contaminate"></string>
     <string name="cell_info_tag_hybrid"></string>
