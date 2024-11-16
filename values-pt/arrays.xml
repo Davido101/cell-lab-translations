@@ -8,154 +8,193 @@
         <item></item>
     </string-array>
     <string-array name="cell_type_abbreviations">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Fg</item>
+        <item>Fl</item>
+        <item>Ft</item>
+        <item>Dv</item>
+        <item>Lp</item>
+        <item>Qt</item>
+        <item>Bo</item>
+        <item>Gl</item>
+        <item>Vr</item>
+        <item>Ni</item>
+        <item>Es</item>
+        <item>Sn</item>
+        <item>Mi</item>
+        <item>Nr</item>
+        <item>Sc</item>
+        <item>St</item>
+        <item>Gm</item>
+        <item>Cl</item>
     </string-array>
     <string-array name="cell_type_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Fagócito</item>
+        <item>Flagelócito</item>
+        <item>Fotócito</item>
+        <item>Devorócito</item>
+        <item>Lipócito</item>
+        <item>Queratinócito</item>
+        <item>Boiocito</item>
+        <item>Gluócito</item>
+        <item>Virócito</item>
+        <item>Nitrócito</item>
+        <item>Estereócito</item>
+        <item>Sensoriócito</item>
+        <item>Miócito</item>
+        <item>Neurócito</item>
+        <item>Secrócito</item>
+        <item>Estemócito</item>
+        <item>Gameta</item>
+        <item>Cilícito</item>
     </string-array>
     <string-array name="cell_type_names_plural">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Fagócitos</item>
+        <item>Flagelócitos</item>
+        <item>Fotócitos</item>
+        <item>Devorócitos</item>
+        <item>Lipócitos</item>
+        <item>Queratinócitos</item>
+        <item>Boiocitos</item>
+        <item>Gluócitos</item>
+        <item>Virócitos</item>
+        <item>Nitrócitos</item>
+        <item>Estereócitos</item>
+        <item>Sensoriócitos</item>
+        <item>Miócitos</item>
+        <item>Neurócitos</item>
+        <item>Secrócitos</item>
+        <item>Estemócitos</item>
+        <item>Gametas</item>
+        <item>Cilícitos</item>
     </string-array>
     <string-array name="challenge_tabs">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Objetivo</item>
+        <item>Microscópio</item>
+        <item>Genoma</item>
     </string-array>
     <string-array name="level_strings">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Tutorial 1</item>
+        <item>Introdução ao microscópio</item>
+        <item></item>
+        <item></item>
+        <item>Tutorial 2</item>
+        <item>Introdução ao editor de Genoma</item>
+        <item></item>
+        <item></item>
+        <item>Algas</item>
+        <item>"Use o editor de genoma para criar uma espécie que prospere no ambiente deste desafio.
+
+Quando estiver pronto, coloque uma célula no substrato abaixo do microscópio e descongele-a para ver se pode se reproduzir.
+São necessárias 100 células para completar este desafio."</item>
+        <item>"A célula padrão será suficiente para este desafio. Todas as células precisam de energia e os fotócitos disponíveis neste desafio obtêm energia da luz solar.
+
+A luz solar incide na área brilhante no topo deste substrato."</item>
+        <item>Toque na área clara na parte superior da placa de Petri para adicionar uma célula padrão e alterar a temperatura a ser observada.</item>
+        <item>Algas II</item>
+        <item>"Desta vez o objetivo é fazer uma espécie que consiga se multiplicar até pelo menos 150 células no mesmo substrato do desafio anterior.
+
+Este desafio e muitos outros não são necessários para prosseguir no jogo. Você pode resolvê-lo mais tarde, se achar difícil no momento."</item>
+        <item>Células menores tendem a vir em números maiores. A propriedade "Divisão de massa" pode ser útil agora.</item>
+        <item></item>
+        <item>Algas III</item>
+        <item>Este substrato possui uma viscosidade muito menor que os anteriores. Você pode projetar uma espécie que sobreviva a isso?</item>
+        <item>Uma propriedade útil no editor de genoma é "Produzir adesina".</item>
+        <item></item>
+        <item>Macrófagos</item>
+        <item>"Outro tipo de célula agora está disponível, o Fagócito. Ele pode comer os pequenos pontos marrons que você pode ter visto aparecer quando as células morrem. Comer esses pedaços de nutrientes os faz crescer.
+
+Nenhuma fonte de luz está presente neste desafio, mas pedaços de nutrientes estão sendo espalhados no substrato. Você pode fazer uma espécie se multiplicar até 300 células?"</item>
+        <item>Basta colocar alguns fagócitos com configurações padrão no substrato e esperar para ver. Daqui a pouco você deverá ter 300 células.</item>
+        <item></item>
+        <item>Macrófagos II</item>
+        <item>"Você consegue 650 células no mesmo substrato de antes?
+
+Agora você tem acesso aos Flagelócitos no laboratório experimental, mas neste desafio ainda trabalhamos com as mesmas restrições do desafio anterior para ver se conseguimos otimizar nosso organismo sem Flagelócitos.
+
+Você sempre pode pular este desafio e ir diretamente para o desafio 9, onde poderá usar Flagelócitos, se quiser."</item>
+        <item>"As propriedades "Ângulo de Divisão" e "Divisão de massa" podem ser úteis para resolver esse desafio. As células se espalham com mais eficiência se a divisão não for em uma linha reta."</item>
+        <item></item>
+        <item>Cores</item>
+        <item>"Neste desafio você tem 100h para obter 5 células vermelhas e 5 amarelas. Único problema, você não pode colocar nenhuma célula. Você, no entanto, tem acesso à ferramenta de reforço de células. Esta ferramenta permite fazer as células crescerem e se dividirem.
+
+Você consegue descobrir quais células aumentar para obter o número correto de células de cada cor?"</item>
+        <item></item>
+        <item></item>
+        <item>Reprodução</item>
+        <item>"Encontramos um glóbulo vermelho lindo e saboroso na natureza. Gostaríamos de ter mais para melhorar a cantina do instituto, mas como tem uma política rigorosa que proíbe OGM (Organismos geneticamente modificados), não podemos recriar isto copiando-o para o editor do genoma.
+Você pode produzir mais desta célula usando alguma estratégia de criação tradicional?"</item>
+        <item>Use a ferramenta mover para ajudar esta célula</item>
+        <item></item>
+        <item>Coexistência</item>
+        <item>Você consegue obter mais de 400 células durante 50 horas neste substrato apenas adicionando uma célula inicial?</item>
+        <item>Você precisará que sua célula inicial seja dividida em duas células com funções diferentes.</item>
+        <item></item>
+        <item>Tutorial 3</item>
+        <item>Introdução ao Design Genético</item>
+        <item></item>
+        <item></item>
+        <item>Macrófagos III</item>
+        <item>"Vamos tentar usar sua nova célula, o Flagelócito, para este desafio. Esta célula não consegue obter energia do ambiente, mas pode nadar! Observe que esta célula morre imediatamente se estiver ligada a outra célula, de modo que a calda fique obstruída.
+
+A viscosidade deste substrato é maior do que no desafio anterior de "Macrófagos". Mesmo assim, você pode fazer uma espécie se multiplicar até 420 células?"</item>
+        <item>"Para resolver este desafio você precisará que o ciclo de vida do seu organismo inclua três modos diferentes.
+
+Marcar "\Contaminar com células aleatórias" no modo experimental e executar por um tempo pode lhe dar algumas idéias sobre como resolver esse desafio. "</item>
+        <item>"Faça com que o modo 1 seja dividido entre os modos 2 e 3.
+Faça com que o modo 3 seja dividido entre 3 e 1.
+Sejam os modos 1 e 3 os fagócitos e o modo 2 os flagelócitos.
+Marque "Produzir adesina" para o modo 1.
+
+Observe que esta é uma entre muitas maneiras diferentes de resolver esse desafio."</item>
+        <item>Macrófagos IV</item>
+        <item>"O ambiente deste desafio é menos amigável que o anterior. Mesmo assim, você consegue 300 células?
+
+Isso requer uma otimização séria de suas células. Observe que você não precisa resolver todos os desafios para progredir no jogo. "</item>
+        <item>"Está tendo problemas para resolver alguns dos desafios e precisa de inspiração? Deixe a evolução fazer o trabalho por você! Vá até a aba "Desafios" do menu principal e pressione longamente este desafio para abri-lo no modo experimental. Coloque a solução encontrada para o desafio Macrófagos III no substrato (você pode salvar e carregar genomas no editor de genoma).
+
+Agora inicie a simulação e você deverá ter algumas células se multiplicando no ambiente. Se você aumentar agora o nível de radiação de 0 para um pouco acima de 0, as células começarão a sofrer mutações e logo você terá mais células do que inicialmente, uma vez que elas se adaptaram ao seu ambiente. Assim que atingirem o limite exigido, você poderá copiar uma célula para o editor de genoma, salvá-la e usá-la neste desafio."</item>
+        <item></item>
+        <item>Luz solar</item>
+        <item>A fonte de luz agora está se movendo ao redor do substrato, de forma muito parecida com o sol. Seu objetivo é projetar células que possam multiplicar até 130 células com esta fonte de luz rotativa.</item>
+        <item>Você precisará fazer uma célula que possa nadar ao redor da borda do substrato, seguindo a luz. Talvez você possa modificar um pouco sua solução do desafio "Macrófagos III"?</item>
+        <item></item>
+        <item>Carniceiro</item>
+        <item>A única fonte de energia neste substrato é o sol. Mesmo assim, é possível criar uma espécie viável sem usar fotócitos?</item>
+        <item>Os fotócitos atuais deixam pequenos pedaços de nutrientes quando morrem. Você pode criar uma espécie que viva deles?</item>
+        <item></item>
+        <item>Semente</item>
+        <item>"Um novo tipo de célula está agora disponível, o Lipócito. Esta célula contém gordura e pode, portanto, armazenar mais energia do que outras células. Essas células também consomem muito pouca energia.
+
+Este substrato não contém nenhuma fonte de energia. Mesmo assim, você consegue manter 16 células vivas nele por 50h?"</item>
+        <item>Use um Lipócito com divisão de massa muito baixa e espere.</item>
+        <item></item>
+        <item>Luz solar II</item>
+        <item>A fonte de luz agora está se movendo mais rápido. Seu objetivo é projetar células que possam multiplicar até 500 células com essa fonte de luz ambulante.</item>
+        <item>Suas células nunca conseguem nadar rápido o suficiente para acompanhar o sol. Em vez disso, acumule energia quando a luz for abundante para usar em tempos sombrios.</item>
+        <item>"Faça um verme longo composto por fotócitos e lipócitos. Uma maneira é ter:
+
+Modo 1: Fotócitos, divisão em 2,3
+Modo 2: Lipócitos, não se dividirão
+Modo 3: Fotócitos, divisão em 1,1
+
+Faça adesina para todos eles."</item>
+        <item>Macrófagos V</item>
+        <item>As células agora morrem quando atingem a borda do substrato. Você pode fazer uma espécie mantendo uma contagem de células acima de 150 por 100h?</item>
+        <item>"Está tendo problemas para resolver alguns dos desafios e precisa de inspiração? Deixe a evolução fazer o trabalho por você! Vá para a aba "Desafios" do menu principal e pressione longamente este desafio para abri-lo no modo experimental. Coloque a solução encontrada para o desafio Macrófagos III no substrato (você pode salvar e carregar genomas no editor de genoma).
+
+Agora inicie a simulação e você deverá ter algumas células se multiplicando no ambiente. Se você aumentar agora o nível de radiação de 0 para um pouco acima de 0, as células começarão a sofrer mutações e logo você terá mais células do que inicialmente, uma vez que elas se adaptaram ao seu ambiente. Assim que atingirem o limite exigido, você poderá copiar uma célula para o editor de genoma, salvá-la e usá-la neste desafio."</item>
+        <item></item>
+        <item>Dizimação</item>
+        <item>Sua equipe de pesquisa desenvolveu um novo tipo de célula que você precisa testar. O Devorócito suga nutrientes de outras células ao tocá-las. Você pode diminuir o número de células neste substrato para menos de 300?</item>
+        <item></item>
+        <item></item>
+        <item>Reprodução II</item>
+        <item>Nossa micropipeta está em manutenção portanto não podemos inserir novas células no momento. De qualquer forma, você consegue obter 100 glóbulos vermelhos nesta placa de Petri?</item>
+        <item>Há algum mutagênico presente neste substrato, use-o a seu favor.</item>
+        <item></item>
+        <item>Infestação</item>
+        <item>Você esqueceu uma amostra na incubadora por uma semana e algumas novas espécies se desenvolveram. Eles espalharam esporos com muita eficiência e infestaram todas as suas amostras. Você pode criar um método para removê-los?</item>
+        <item>Passe mais tempo usando o microscópio do que projetando um genoma.</item>
         <item></item>
         <item></item>
         <item></item>
@@ -390,7 +429,17 @@
     <string-array name="tut_text_2">
         <item></item>
         <item></item>
-        <item></item>
+        <item>"Good job!
+
+That is all we need to know about the preview for now. Now some genetics!
+
+All cells in the human body have the same DNA, but muscle and brain cells behave very differently. This is referred to as different"&lt;i> modes&lt;/i>" of a cell in our lab.
+
+The genome editor can handle 40 different modes. Each mode has its own properties.
+
+One mode is edited at a time in the genome editor and to change what mode is currently being edited we use the selector "Edit mode".
+
+Now let's edit the mode called M5."</item>
         <item></item>
         <item></item>
         <item></item>
@@ -409,57 +458,89 @@
         <item></item>
     </string-array>
     <string-array name="tut_text_4">
+        <item>"In this tutorial we learn the basics of cell signaling.
+
+We have 4 different cell signaling molecules at our disposal. We call these S1, S2, S3 and S4.
+
+The behavior of some cells are affected by the concentrations of these within the cell. In Cell Lab we refer to the affected behaviors as"&lt;i> programmable&lt;/i>". Some types of cells produce these signaling molecules. One of them is the Neurocyte.
+
+Let M1 be a Neurocyte and let it split into a basic two-celled swimmer:
+M1 = Neurocyte, make adhesin
+                                        child 1 = M2, child 2 = M3
+M2 = Flagellocyte
+M3 = Phagocyte"</item>
         <item></item>
+        <item>"You found it :)
+
+Here you can set the swim force to depend on the cell state instead of being a fixed value. In particular, set the input to be signal substance"&lt;b> S1&lt;/b>".
+
+There are two types of dependences on the input, a linear function and a step function.
+
+Choose the first equation which is the linear dependence. This only depends on the parameters a and b. Set a=4 and b=0.
+
+Now the swim force will be high when the S1 concentration is high, and low when the S1 concentration is low."</item>
         <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>"Você deverá ver seu neurócito inicial se dividir em um nadador, mas ele não deve nadar. Isso ocorre porque a concentração de S1 é 0.
+
+Queremos que nosso neurócito M1 produza algum S1. Os neurócitos têm quatro vias diferentes para a produção de substâncias sinalizadoras. Cada um pode ser configurado para produzir qualquer uma das quatro substâncias sinalizadoras.
+
+Vá para as configurações do modo M1 e veja o final. Você verá uma lista de configurações de saída. Estas configurações são assim como a força de nado, também programáveis. Por enquanto usamos um valor fixo. Defina o primeiro canal para S1 e aumente a quantidade da primeira saída para o máximo.
+
+Agora coloque novamente o Neurócito M1 em seu substrato."</item>
+        <item>"Legal!
+
+Seu nadador deveria ter nadado por um curto período se tempo e depois parado. A razão pela qual ele para é pelas moléculas sinalizadoras que sobraram do decaimento inicial dos neurócitos. Isso significa que a concentração vai rapidamente para 0 se eles não estiverem sendo produzidos continuamente.
+
+Vamos mudar a cabeça do nadador (M3) para um Neurócito. Em seguida, vá para as configurações de saída do M3 e pressione o botão de predefinição do oscilador."</item>
+        <item>"Esta predefinição definirá os quatro caminhos de saída de uma forma inteligente, de modo que as concentrações de duas substâncias sinalizadoras começarão a oscilar.
+
+selecione 1 conexão de adesina no neurócito, pois seu neurócito tem uma conexão, defina os canais para S1 e S2 e ajuste o período de oscilação para 1h. Agora coloque um neurócito M1 novamente no substrato e veja como o nadador se comporta!"</item>
+        <item>"Agora você deve ver sua célula nadar e parar, nadar e parar, e assim por diante, até morrer. Muito elegante! As moléculas sinalizadoras do neurócito se difundem através da conexão de adesina até o flagelócito. Isso acontece com todas as células, exceto os lipócitos. Os lipócitos podem, portanto, ser usados de forma semelhante à forma como as células gliais funcionam em animais.
+
+Você terminou o tutorial e está pronto para um pouco de neurociência!"</item>
     </string-array>
     <string-array name="tut_title_1">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Bem-vindo ao Cell Lab!</item>
+        <item>Alterando a ampliação</item>
+        <item>Navegação</item>
+        <item>Micropipeta</item>
+        <item>Temperatura</item>
+        <item>Incubação</item>
+        <item>Rastreamento de células</item>
+        <item>Extração de DNA</item>
+        <item>Extração de DNA</item>
+        <item>Esterilização</item>
+        <item>Parabéns!</item>
     </string-array>
     <string-array name="tut_title_2">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Bem-vindo(a)!</item>
+        <item>Visão geral</item>
+        <item>Modos de célula</item>
+        <item>Modo Inicial</item>
+        <item>Descrições de propriedades</item>
+        <item>Encontrando Propriedades</item>
+        <item>Modos Filha</item>
+        <item>Modos Neto</item>
+        <item>Feche o Círculo</item>
+        <item>Insira no microscópio</item>
+        <item>Parabéns!</item>
     </string-array>
     <string-array name="tut_title_3">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Bem-vindo ao tutorial de design genético!</item>
+        <item>Configurando a geração de células 1</item>
+        <item>Configurando tipos de células da geração 1</item>
+        <item>Impedir que a célula de propulsão se divida</item>
+        <item>Feche o círculo</item>
+        <item>Salve seu trabalho</item>
     </string-array>
     <string-array name="tut_title_4">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Bem-vindo ao tutorial de sinalização celular!</item>
+        <item>Programar força de natação</item>
+        <item>Definir dependência</item>
+        <item>Teste-o!</item>
+        <item>Produza algum S1</item>
+        <item>Usar predefinição</item>
+        <item>Neurócito oscilante</item>
+        <item>Tutorial concluído!</item>
     </string-array>
 </resources>
