@@ -9,7 +9,7 @@ And <i>read the guide below</i>, it's mandatory, and important.
 
 ## Contributing: You <b><i>MUST</i></b> follow these rules if you wish to contribute.
 
-- Only modify the file for the language you have been assigned to
+- Only modify the files for the language you have been assigned to
 - Translate as well as possible
 - If you're not sure about a translation, leave it blank
 - If you're changing or replacing someone else's translation, you MUST communicate what you've changed and why
