@@ -48,24 +48,24 @@
         <item>Silliyuvar</item>
     </string-array>
     <string-array name="cell_type_names_plural">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Yiyenyuvarlar</item>
+        <item>Yüzeryuvarlar</item>
+        <item>Fotoyuvarlar</item>
+        <item>Dikenyuvarlar</item>
+        <item>Yağyuvarlar</item>
+        <item>Duvaryuvarlar</item>
+        <item>Boşyuvarlar</item>
+        <item>Yapışanyuvarlar</item>
+        <item>Virüsyuvarlar</item>
+        <item>Nitroyuvarlar</item>
+        <item>Kulakyuvarlar</item>
+        <item>Hisciyuvarlar</item>
+        <item>Kasyuvarlar</item>
+        <item>Nöroyuvarlar</item>
+        <item>Salgıyuvarlar</item>
+        <item>Kökenyuvarlar</item>
+        <item>Gametyuvarlar</item>
+        <item>Silliyuvarlar</item>
     </string-array>
     <string-array name="challenge_tabs">
         <item></item>
