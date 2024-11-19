@@ -369,15 +369,15 @@
         <item></item>
     </string-array>
     <string-array name="modes">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Dondur</item>
+        <item>Gözlemle</item>
+        <item>İnkübe</item>
+        <item>Yavaş Gözlemle</item>
     </string-array>
     <string-array name="play_tabs">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Ayarlar</item>
+        <item>Mikroskop</item>
+        <item>Genom</item>
     </string-array>
     <string-array name="tut_text_1">
         <item></item>
