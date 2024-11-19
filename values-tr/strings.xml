@@ -106,9 +106,9 @@
     <string name="dialog_sterilize_title"></string>
     <string name="dialog_text_save_genome"></string>
     <string name="dialog_titlte_save_genome">Genine isim ver</string>
-    <string name="difficulty_level_0">Üniversiteli</string>
+    <string name="difficulty_level_0">Lisans</string>
     <string name="difficulty_level_1">Doktora</string>
-    <string name="difficulty_level_2">Deli bilim adamı</string>
+    <string name="difficulty_level_2">Deli Bilim Adamı</string>
     <string name="difficulty_level_3">İnsanüstü AI</string>
     <string name="donate_appeal"></string>
     <string name="donate_reminder"></string>
@@ -250,8 +250,8 @@
     <string name="osc_preset_title"></string>
     <string name="osc_preset_to"></string>
     <string name="oscillator_preset_period"></string>
-    <string name="play_button_hint"></string>
-    <string name="play_button_spoiler"></string>
+    <string name="play_button_hint">İpucu</string>
+    <string name="play_button_spoiler">Spoiler</string>
     <string name="play_button_tut_pop_up"></string>
     <string name="play_store"></string>
     <string name="popup_text_need_help"></string>
