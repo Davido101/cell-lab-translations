@@ -8,13 +8,13 @@
         <item></item>
     </string-array>
     <string-array name="cell_type_abbreviations">
+        <item>Fa</item>
         <item>Yü</item>
-        <item>Yi</item>
         <item>Fo</item>
         <item>Di</item>
         <item>Yğ</item>
         <item>Du</item>
-        <item>Bo</item>
+        <item>Ba</item>
         <item>Yp</item>
         <item>Vi</item>
         <item>Nt</item>
@@ -25,16 +25,16 @@
         <item>Sa</item>
         <item>Kö</item>
         <item>Gm</item>
-        <item>Si</item>
+        <item>Tr</item>
     </string-array>
     <string-array name="cell_type_names">
-        <item>Yiyenyuvar</item>
+        <item>Fagoyuvar</item>
         <item>Yüzeryuvar</item>
         <item>Fotoyuvar</item>
         <item>Dikenyuvar</item>
         <item>Yağyuvar</item>
         <item>Duvaryuvar</item>
-        <item>Boşyuvar</item>
+        <item>Balonyuvar</item>
         <item>Yapışkanyuvar</item>
         <item>Virüsyuvar</item>
         <item>Nitroyuvar</item>
@@ -42,19 +42,19 @@
         <item>Hisciyuvar</item>
         <item>Kasyuvar</item>
         <item>Nöroyuvar</item>
-        <item>Salgıyuvar</item>
+        <item>Salgıcıyuvar</item>
         <item>Kökenyuvar</item>
         <item>Gametyuvar</item>
-        <item>Silliyuvar</item>
+        <item>Terliksiyuvar</item>
     </string-array>
     <string-array name="cell_type_names_plural">
-        <item>Yiyenyuvarlar</item>
+        <item>Fagoyuvarlar</item>
         <item>Yüzeryuvarlar</item>
         <item>Fotoyuvarlar</item>
         <item>Dikenyuvarlar</item>
         <item>Yağyuvarlar</item>
         <item>Duvaryuvarlar</item>
-        <item>Boşyuvarlar</item>
+        <item>Balonyuvarlar</item>
         <item>Yapışkanyuvarlar</item>
         <item>Virüsyuvarlar</item>
         <item>Nitroyuvarlar</item>
@@ -62,10 +62,10 @@
         <item>Hisciyuvarlar</item>
         <item>Kasyuvarlar</item>
         <item>Nöroyuvarlar</item>
-        <item>Salgıyuvarlar</item>
+        <item>Salgıcıyuvarlar</item>
         <item>Kökenyuvarlar</item>
         <item>Gametyuvarlar</item>
-        <item>Silliyuvarlar</item>
+        <item>Terliksiyuvarlar</item>
     </string-array>
     <string-array name="challenge_tabs">
         <item></item>
