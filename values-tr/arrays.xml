@@ -68,23 +68,28 @@
         <item>Terliksiyuvarlar</item>
     </string-array>
     <string-array name="challenge_tabs">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Hedef</item>
+        <item>Mikroskop</item>
+        <item>Genom</item>
     </string-array>
     <string-array name="level_strings">
+        <item>Öğretici I</item>
+        <item>Mikroskopu Tanıtma</item>
         <item></item>
         <item></item>
+        <item>Öğretici II</item>
+        <item>Genom Düzenleyicisini Tanıtma</item>
         <item></item>
         <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Alg</item>
+        <item>"Genom düzenleyicisini kullanarak bu mücadele ortamında hayatta kalabilen bir tür yarat.
+        
+        Hazır olduğunda mikroskopta görünen petri kabının içine hücreni koy. Ardından dondurmayı kaldır ki hücrelerini hareket ederken görebilesin.
+        Bu mücadeleyi tamamlamak için 100 canlı hücreye ihtiyacın var."</item>
+        <item>"Varsayılan hücren bu mücadeleyi tamamlamak için yeterli olucaktır. Bütün hücreler hayatta kalabilmek için enerjiye ihtiyaç duyarlar. Fotoyuvarlar ihtiyaçları duydukları bu enerjiyi güneş ışığından alırlar.
+        
+        Güneş ışığını petri kabının üstündeki o parlak alandan görebilirsin."</item>
+        <item>Petri kabının üst kısmındaki güneş ışığı alan alana bir tane varsayılan hücrenden koy. Ardından sıcaklığı gözlemleye getir.</item>
         <item></item>
         <item></item>
         <item></item>
