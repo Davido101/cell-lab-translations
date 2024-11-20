@@ -13,13 +13,13 @@
         <item>Fo</item>
         <item>Di</item>
         <item>Yğ</item>
-        <item>Du</item>
+        <item>Zı</item>
         <item>Ba</item>
         <item>Yp</item>
         <item>Vi</item>
         <item>Nt</item>
-        <item>Ku</item>
-        <item>Hi</item>
+        <item>Du</item>
+        <item>Al</item>
         <item>Ks</item>
         <item>Nö</item>
         <item>Sa</item>
@@ -29,17 +29,17 @@
     </string-array>
     <string-array name="cell_type_names">
         <item>Fagoyuvar</item>
-        <item>Yüzeryuvar</item>
+        <item>Yüzücüyuvar</item>
         <item>Fotoyuvar</item>
-        <item>Dikenyuvar</item>
+        <item>Dikenliyuvar</item>
         <item>Yağyuvar</item>
-        <item>Duvaryuvar</item>
+        <item>Zırhlıyuvar</item>
         <item>Balonyuvar</item>
         <item>Yapışkanyuvar</item>
         <item>Virüsyuvar</item>
         <item>Nitroyuvar</item>
-        <item>Kulakyuvar</item>
-        <item>Hisciyuvar</item>
+        <item>Duyucuyuvar</item>
+        <item>Alıcıyuvar</item>
         <item>Kasyuvar</item>
         <item>Nöroyuvar</item>
         <item>Salgıcıyuvar</item>
@@ -49,17 +49,17 @@
     </string-array>
     <string-array name="cell_type_names_plural">
         <item>Fagoyuvarlar</item>
-        <item>Yüzeryuvarlar</item>
+        <item>Yüzücüyuvarlar</item>
         <item>Fotoyuvarlar</item>
-        <item>Dikenyuvarlar</item>
+        <item>Dikenliyuvarlar</item>
         <item>Yağyuvarlar</item>
-        <item>Duvaryuvarlar</item>
+        <item>Zırhlıyuvarlar</item>
         <item>Balonyuvarlar</item>
         <item>Yapışkanyuvarlar</item>
         <item>Virüsyuvarlar</item>
         <item>Nitroyuvarlar</item>
-        <item>Kulakyuvarlar</item>
-        <item>Hisciyuvarlar</item>
+        <item>Duyucuyuvarlar</item>
+        <item>Alıcıyuvarlar</item>
         <item>Kasyuvarlar</item>
         <item>Nöroyuvarlar</item>
         <item>Salgıcıyuvarlar</item>
