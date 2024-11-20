@@ -54,6 +54,8 @@
         <item>Gamete</item>
         <item>Ciliocyte</item>
     </string-array>
+    <!-- These are used for challenges with an upper limit on how many cells of a certain type can be present in a genome -->
+    <!-- Example: "Devorocytes: 50 (0 - 100)" -->
     <string-array name="cell_type_names_plural">
         <item>Phagocytes</item>
         <item>Flagellocytes</item>
