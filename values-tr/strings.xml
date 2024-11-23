@@ -194,7 +194,7 @@
     <string name="genome_editor_density">Yoğunluk</string>
     <string name="genome_editor_edit_mode">Düzenlenen hücre:</string>
     <string name="genome_editor_green">Yeşil:</string>
-    <string name="genome_editor_is_initial">Köken al:</string>
+    <string name="genome_editor_is_initial">Öncü:</string>
     <string name="genome_editor_keep_adhesin">Adhesini koru:</string>
     <string name="genome_editor_make_adhesin">Adhesin yap:</string>
     <string name="genome_editor_mirror">Aynala:</string>
