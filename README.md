@@ -9,6 +9,7 @@ And <i>read the guide below</i>, it's mandatory, and important.
 
 ## Contributing: You <b><i>MUST</i></b> follow these rules if you wish to contribute.
 
+- Translate yourself, do not use any online tools as anything more than a reference. This implies you must be proficient in the language at the same level as a native person
 - Only modify the files for the language you have been assigned to
 - Translate as well as possible
 - If you're not sure about a translation, leave it blank
