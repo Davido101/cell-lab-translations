@@ -13,7 +13,7 @@
     <string name="abc_searchview_description_search">جستجو</string>
     <string name="abc_searchview_description_submit">ارسال عبارت جستجو</string>
     <string name="abc_searchview_description_voice">جستجوی شفاهی</string>
-    <string name="abc_shareactionprovider_share_with">اشتراک‌گذاری با</string>
+    <string name="abc_shareactionprovider_share_with">اشتراک‌گذاری با</string> <!-- test -->
     <string name="abc_shareactionprovider_share_with_application">‏اشتراک‌گذاری با %s</string>
     <string name="abc_toolbar_collapse_description"></string>
     <string name="about_acknowledgements"></string>
