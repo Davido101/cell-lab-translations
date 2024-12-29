@@ -148,35 +148,45 @@
         <item>"Bu mücadele ortamı bir öncekine göre daha zorlu. Buna rağmen 300 hücreye ulaşabilir misin?
         
         Bu mücadele hücrelerin üzerinde ciddi oynamalar yapmanı gerektiriyor. Unutma ki bütün mücadeler oyunda ilerlemek için yapılmak zorunda değil!"</item>
-        <item>Bazı mücadeleleri çözmekte zorluk mu yaşıyorsun? Birazcık ilah mı gerek? O halde evrimin senin yerine çalışmasını sağla! Hemen geri \"Mücadeleler"\ ekranınına dön. Ardından bu mücadelenin üzerine uzunca basılı tutarak bu mücadeleyi deneyler bölümündeki kendi labında aç. Makrofajlar III mücadelesini tamamlamanı sağlıyan canlı türünü petri kabına koy.(genom düzenleyiciden genomları kaydedip başka yerde tekrar yükleyebilirsin.)
+        <item>Bazı mücadeleleri çözmekte zorluk mu yaşıyorsun? Birazcık ilah mı gerek? O halde evrimin senin yerine çalışmasını sağla! Hemen geri \"Mücadeleler"\ ekranınına dön.  Ardından bu mücadelenin üzerine uzunca basılı tut. Bu şekilde bu mücadeledenin petri kabını aynen deneyler bölümünde kendi labına aktarıp ve açabilirsin. Makrofajlar III mücadelesini tamamlamanı sağlıyan canlı türünü petri kabına koy.(genom düzenleyiciden genomları kaydedip başka yerde tekrar yükleyebilirsin.)
         
         Şimdi, Simülasyonu başlat! Hücrelerin petri kabının içinde üremeye başlayacaklardır, peşi sıra radyasyon seviyesini 0'dan azıcık yüksek bir değere çek. Bu her hücre bölündüğünde genomlarında rasgele mutasyonlara sebep olacaktır. Bu mutasyonlar sayesinde yavaşça senin ürettiğin canlı türü evrimleşip o ortama kendi kendine daha iyi adapte olmaya başlayacaktır. Ortama yeterince adapte olup artık mücadeleyi tamamlayabilecekleri seviyeye geldikleri zaman genomlarını kaydet ve mücadeleye koy. Bırak işini evrim yapsın!"</item>
         <item></item>
         <item>Güneş ışığı</item>
+        <item>Işık kaynağı, güneşe benzer biçimde döngüsel olarak, şimdi petri kabında dönüyor. Hedefin bu dönen ışıklı ortamda 130 hücreye kadar çoğalabilen bir organizma tasarlamak.</item>
+        <item>Petri kabının duvarı boyunca yüzüp ışığı takip edebilen bir organizma tasarlaman lazım. Bir tane daha ipucu vereyim, tasarlacağın organizma birazcık \"Macrophages III\" gibi olsa belki işe yarayabilir.</item>
+        <item></item>
+        <item>Leşçil</item>
+        <item>Bu ekosistemdeki tek enerji kaynağı güneş. Sen yine de hiç fotoyuvar kullanmadan hayatta kalabilen bir organizma tasarlayabilir misin?</item>
+        <item>Ölen fotoyuvarlar arkalarında leşler bırakıyor. Bu leşlerle beslenebilen bie organizma tasarlayabilir misin?</item>
+        <item></item>
+        <item>Tohum</item>
+        <item>"Yeni bir hücre tipine artık erişebilirsin: Yağyuvarlar. Bu hücreler ,adları üzerine, yağ hücreleri yani yağ depolayabiliyorlar. Bu şekilde diğer hücre tiplerine göre içlerinde çok daha fazla enerji depolayabiliyorlar. Ayrıca yağyuvarlar yaşamak için oldukça az enerji tüketirler.
+        
+        Bu petri kabında hücrelerinin enerji elde edebilecekleri hiçbir şey yok. Buna rağmen sen yine de 16 hücreyi 50 sa hayatta tutabilir misin?"</item>
+        <item>Yapman gereken tek şey çok küçük bir bölünme kütlesine sahip bir yağyuvarı petri kabına koymak ve beklemek.</item>
+        <item></item>
+        <item>Güneş Işığı II</item>
+        <item>Işık şimdi daha da hızlı dönüyor! Bakalım bu ortamda hayatta kalıp 500 hücreye kadar çoğalabilecek bir organizma yapabilecek misin?</item>
+        <item>Maalesef hücrelerin bu ışık kaynağına asla yetişecek kadar hızlı hareket edemez. Onun yerine gerçek bitkilerin stratejisini uygulaman lazım: Aydınlık zamanlarda besin depolayıp karanlık vakitlerde kullanmak!</item>
+        <item>"Fotoyuvar ve yağyuvar içeren uzun bir soluncan yapman lazım. Mesela:
+        
+        Hücre 1: Hücre 2 ve 3'e bölünen bir fotoyuvar olsun.
+        Hücre 2: Bölünmeyen bir yağyuvar olsun.
+        Hücre 3: Hücre 1 ve 1'e bölünen bir fotoyuvar olsun.
+        
+        Ayrıca hepsi de adhesin bağı yapsın".</item>
+        <item>Makrofaj V</item>
+        <item>Artık petri kabının duvarlarına değen her hücre ölücek. Böyle bir ortamda 100 sa boyunca toplam hücre sayısını 150'nin üstünde tutabilen bir organizma tasarlayabilir misin?</item>
+        <item>"Selamlar! Bazı mücadeleleri çözmekte zorlanıyor musunuz? Size birazcık ilham mı lazım? Doğru yerdesiniz! Yapmanız gereken tek şey evrimin bütün o ağır işleri sizin yerinize yapmasını sağlamak! Hemen geri \"Mücadeleler"\ ekranınına dönün. Ardından bu mücadelenin üzerine uzunca basılı tutun. Bu şekilde bu mücadeledenin petri kabını aynen deneyler bölümünde kendi labına aktarıp ve açabilirsin. Makrofajlar III mücadelesini çözmenize yardımcı olan organizmayı hemen buraya koyun! (Genom düzenleyicisindeki genomları kaydetip sonra başka yere yükleyebilirsin)
+        
+        Şimdi sadece radyasyonu çok azcık arttırıp, similasyonunu hızlandırıp bekle. Radyasyon yüzüne hücrelerin yavaşça rasgele mutasyonlar geçirecektir, işe yaramaz mutasyonlar hücreleri öldürecek bu sayede işe yararlar otomatik olarak seçilecektir. Bu yavaşça hücrelerin ortama daha iyi adapte olmasını sağlayacaktır. İstenen limitleri karşıladıklarında sadece genomlarını kopyala ve bu mücadelede kullan."</item>
+        <item></item>
+        <item>Katliam</item>
+        <item>Labımızda yeni bir hücre tipi geliştirdik: Dikenliyuvar. Bu hücrelerin dikenleri diğer hücrelerin hücre zarında delikler açıyor. Ardından dikenlerini pipet gibi kullanarak onları tabiri caizse emerek yiyor. Bu petri kabındaki hücre sayısını 300'e kadar düşürebilir misin?</item>
         <item></item>
         <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Üretme II</item>
         <item></item>
         <item></item>
         <item></item>
