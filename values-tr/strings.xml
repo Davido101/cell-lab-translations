@@ -221,7 +221,7 @@
     <string name="main_menu_tab_genomes">Gen Bankası</string>
     <string name="main_menu_tab_settings">Ayarlar</string>
     <string name="menu_item_delete">Sil</string>
-    <string name="menu_item_load_from_microscope">Mikroskoptan örneği al</string>
+    <string name="menu_item_load_from_microscope">Mikroskoptan yükle</string>
     <string name="menu_item_rename">Yeniden adlandır…</string>
     <string name="menu_item_share">Paylaş…</string>
     <string name="mobile_food"></string>
