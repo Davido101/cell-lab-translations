@@ -42,7 +42,7 @@
         <item>Alıcıyuvar</item>
         <item>Kasyuvar</item>
         <item>Nöroyuvar</item>
-        <item>Salgıcıyuvar</item>
+        <item>Salgıyuvar</item>
         <item>Kökenyuvar</item>
         <item>Gametyuvar</item>
         <item>Terliksiyuvar</item>
@@ -62,7 +62,7 @@
         <item>Alıcıyuvarlar</item>
         <item>Kasyuvarlar</item>
         <item>Nöroyuvarlar</item>
-        <item>Salgıcıyuvarlar</item>
+        <item>Salgıyuvarlar</item>
         <item>Kökenyuvarlar</item>
         <item>Gametyuvarlar</item>
         <item>Terliksiyuvarlar</item>
@@ -309,18 +309,26 @@
         <item></item>
         <item></item>
         <item>Sindirim</item>
+        <item>"Normalde labındaki hücreleri beslemekte kullandığın besinlerin hepsi bitmiş. Çaresizlikten öğle yemeğinde yediğin dönerden arta kalanlarla hücrelerini beslemen lazım. Ama ne yazık ki fagoyuvarların ham haldeki yağı yiyemiyorlar.
+        
+        Şanslısın ki molküler biyoloji labındaki arkadaşların salgıyuvar diye yeni bir hücre tipi üretmiş. Üretilen salgıyuvar lipaz adında bir enzim salgılayabiliyor, bu sayede fagoyuvarların beslenemediği yağı birimlerine yani fagoyuvarların yiyebildiği yağ asitlerine parçalayabiliyor."</item>
         <item></item>
         <item></item>
+        <item>Sindirim II</item>
+        <item>"Genetiği değiştirilmiş ve güneş ışığından biyo yakıt üreten bir organizma grubu bu petri kabında yaşıyor.
+        
+        Biyo yakıt üretimini baltala- öhm, azaltmak için ölen yağ yuvarlardan çıkan yağ ile baslenebilen bir organizma yapabilir misin?"</item>
         <item></item>
         <item></item>
+        <item>Popülasyon Darboğazı</item>
+        <item>"Bu petri kabında yeni bir hücre tipi olan gametleri kullanarak eşeyli üreyen bir grup organizma var. Gametler olması gerekenin yarısı kadar kromozona sahip oldukları için kendi başlarına bölünemiyorlar.
+        
+        Ancak gametler başka uygun gametlerle birleşip, döllenip, yeni bir hücre oluşturabiliyor. Bu sayede bu petri kabındaki organizmaların yaşam döngülerini devam ettirebiliyorlar. Eşeyli üreme sayesinde organizmaların sahip olduğu faydalı özellikler popülasyon içinde hızlıca yayılabiliyor.
+        
+        Ne yazık ki, ben bu arkadaşların üzerine biraz kahve döktüğüm için bir popülasyon darboğazına girdiler. Şimdi bunun yüzüne hızlı yüzme geni ortadan kaybolmuş halde. Bu organizmaların genetik havuzuna bu hızlı yüzme genini tekrardan sokabilir misin?" </item>
         <item></item>
         <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Adaptasyon</item>
         <item></item>
         <item></item>
         <item></item>
