@@ -247,7 +247,7 @@
     <string name="osc_preset_adhesin_connections"></string>
     <string name="osc_preset_channels"></string>
     <string name="osc_preset_tip"></string>
-    <string name="osc_preset_title">Titreşim Ayarı</string>
+    <string name="osc_preset_title">Titreşim Ayarlama</string>
     <string name="osc_preset_to"></string>
     <string name="oscillator_preset_period">Periyot</string>
     <string name="play_button_hint">İpucu</string>
