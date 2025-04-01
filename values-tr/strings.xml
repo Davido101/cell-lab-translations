@@ -225,9 +225,9 @@
     <string name="menu_item_rename">Yeniden adlandır…</string>
     <string name="menu_item_share">Paylaş…</string>
     <string name="mobile_food"></string>
-    <string name="muscle_bend"></string>
-    <string name="muscle_contract"></string>
-    <string name="muscle_lift"></string>
+    <string name="muscle_bend">Kas bükülmesi</string>
+    <string name="muscle_contract">Kas kasılması</string>
+    <string name="muscle_lift">Kas kaldırması</string>
     <string name="nano_gram_abbreviation"></string>
     <string name="nutrient_coating"></string>
     <string name="objective_black_initial_cells"></string>
