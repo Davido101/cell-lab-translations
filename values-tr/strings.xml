@@ -146,7 +146,7 @@
     <string name="ge_neuro_output_amount_tip_2"></string>
     <string name="ge_neuro_output_tip_1"></string>
     <string name="ge_neuro_output_tip_2"></string>
-    <string name="ge_osc_preset_button"></string>
+    <string name="ge_osc_preset_button">Titreşim ayarlama…</string>
     <string name="ge_output_amount"></string>
     <string name="ge_output_channel"></string>
     <string name="ge_smell_blue"></string>
@@ -247,9 +247,9 @@
     <string name="osc_preset_adhesin_connections"></string>
     <string name="osc_preset_channels"></string>
     <string name="osc_preset_tip"></string>
-    <string name="osc_preset_title"></string>
+    <string name="osc_preset_title">Titreşim Ayarı</string>
     <string name="osc_preset_to"></string>
-    <string name="oscillator_preset_period"></string>
+    <string name="oscillator_preset_period">Periyot</string>
     <string name="play_button_hint">İpucu</string>
     <string name="play_button_spoiler">Spoiler</string>
     <string name="play_button_tut_pop_up"></string>
