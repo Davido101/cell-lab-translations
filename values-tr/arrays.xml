@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aa_mode_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Yok</item>
+        <item>1.5 × 1.5 Süper Örnekleme</item>
+        <item>2 × 2 Süper Örnekleme</item>
+        <item>3 × 3 Süper Örnekleme</item>
+        <item>4 × 4 Süper Örnekleme</item>
     </string-array>
     <string-array name="cell_type_abbreviations">
         <item>Fa</item>
@@ -29,7 +29,7 @@
     </string-array>
     <string-array name="cell_type_names">
         <item>Fagoyuvar</item>
-        <item>Yüzücüyuvar</item>
+        <item>Yüzeryuvar</item>
         <item>Fotoyuvar</item>
         <item>Dikenliyuvar</item>
         <item>Yağyuvar</item>
@@ -49,7 +49,7 @@
     </string-array>
     <string-array name="cell_type_names_plural">
         <item>Fagoyuvarlar</item>
-        <item>Yüzücüyuvarlar</item>
+        <item>Yüzeryuvarlar</item>
         <item>Fotoyuvarlar</item>
         <item>Dikenliyuvarlar</item>
         <item>Yağyuvarlar</item>
@@ -108,8 +108,8 @@
         <item></item>
         <item>Makrofajlar II</item>
         <item>"Geçenkinin tıpkısının aynısı olan bu kapta bu sefer 650 hücreye ulaşabilir misin?
-        Şu an deneyler bölümündeki kendi labında yüzücüyuvarlara erişimin var ama bu mücadelede senden ,aynı geçenki mücadeledeki gibi, sadece fagoyuvar kullanarak oluşturacağın organizmayı ne kadar optimize edebiliceğini görmek istiyoruz.
-        Tabii ki eğer dilediğince yüzücüyuvar kullanmak istiyorsan her zaman 9. mücadeleye atlayabilirsin.</item>
+        Şu an deneyler bölümündeki kendi labında yüzeryuvarlara erişimin var ama bu mücadelede senden ,aynı geçenki mücadeledeki gibi, sadece fagoyuvar kullanarak oluşturacağın organizmayı ne kadar optimize edebiliceğini görmek istiyoruz.
+        Tabii ki eğer dilediğince yüzeryuvar kullanmak istiyorsan her zaman 9. mücadeleye atlayabilirsin.</item>
         <item>Genom ayarlarından "Bölünme açısı" ve "Bölünme kütlesi" sana bu mücadeleyi çözmende yardımcı olabilir. Hücreler çizgi şeklinde yavrulamadıkları zaman etrafa daha verimli dağılıp yayılabilirler.</item>
         <item></item>
         <item>Renkler</item>
@@ -132,7 +132,7 @@
         <item></item>
         <item></item>
         <item>Makrofajlar III</item>
-        <item>"Bu mücadelede yeni bir hücre tipini, yüzücüyuvarı, kullanmaya çalışacaksın. Bu hücre kendi başına enerji üretemiyor, beslenemiyor. Yapabildiği tek şey yüzmek! Eğer bu hücrenin kuruğu yanında tutunduğu hücreye sıkışırsa anında hayatını kaybediyor, bunu genom düzenliyicide görebilirsin. Aman ha, sakın kuruğunu bir yere kıstırmasına izin verme!
+        <item>"Bu mücadelede yeni bir hücre tipini, yüzeryuvarı, kullanmaya çalışacaksın. Bu hücre kendi başına enerji üretemiyor, beslenemiyor. Yapabildiği tek şey yüzmek! Eğer bu hücrenin kuruğu yanında tutunduğu hücreye sıkışırsa anında hayatını kaybediyor, bunu genom düzenliyicide görebilirsin. Aman ha, sakın kuruğunu bir yere kıstırmasına izin verme!
         
         Bu mücadele ortamının viskozitesi önceki "\Makrofajlar\" mücadelesinden daha fazla. Buna rağmen 420 hücreye kadar üreyebilecek bir canlı türü yapabilir misin?"</item>
         <item>"Bu mücadeleyi tamamlamak için yapacağın organizmanın yaşam döngüsü 3 aşamadan oluşmalı.
@@ -140,7 +140,7 @@
         Deneyler bölümündeki laboratuvarında \"Rasgele hücreler içer\" seçeneğine tıklayıp aktive edersen, ardından da petri kabını bir süre çalışır durumda gözlemlersen belki aklına bu mücadeleyi çözmek için bir fikir gelir."</item>
         <item>"Hücre 1'in hücre 2 ve 3'e bölünmesini sağla
         Hücre 3'ün hücre 3 ve 1'e bölünmesini sağla
-        Hücre 1 ve 3'ü fagoyuvar, 2'yi ise yüzücüyuvar yap.
+        Hücre 1 ve 3'ü fagoyuvar, 2'yi ise yüzeryuvar yap.
         Hücre 1'i düzenlerken oradaki \"Adhesin yap\" seçeneğine tıkla.
         
         Unutma ki bu yöntem bu mücadeleyi çözmenin yollarından sadece biri."</item>
@@ -198,8 +198,8 @@
         <item>Meslektaşların senin dikenliyuvarına dayanabilen yeni bir organizma geliştirmişler. Bu organizmalarda bulunan zırhlıyuvarlar kendilerini ve onlara doğrudan bağlanmış olan hücre kardeşlerini dikenliyuvarların zulmünden koruyabiliyor.
         
         Bu huzurlu ekosistemin sonunu getirebilecek bir organizma üretebilir misin? En az 420 hücreye kadar çoğalması gerek.</item>
-        <item>Şu 3 hücre tipini içeren yüzen bir organizma yap: merkezde bir zırhlıyuvar, arkada bir yüzücüyuvar ve en önde bir fagoyuvar</item>
-        <item>"Hücre 1,3 ve 5'i fagoyuvar yap. Hücre 2'yi yüzücüyuvar ve hücre 4'ü zırhlıyuvar yap. Hücre 1 ve 3'de \"Adhesin yap\" bölmesine tıkla
+        <item>Şu 3 hücre tipini içeren yüzen bir organizma yap: merkezde bir zırhlıyuvar, arkada bir yüzeryuvar ve en önde bir fagoyuvar</item>
+        <item>"Hücre 1,3 ve 5'i fagoyuvar yap. Hücre 2'yi yüzeryuvar ve hücre 4'ü zırhlıyuvar yap. Hücre 1 ve 3'de \"Adhesin yap\" bölmesine tıkla
         
         Hücre 1'in hücre 2 ve 3'e bölünmesini sağla(bu sıralamada). Artık normal bir yüzücü organizmamız var.
         Hücre 3'ün hücre 4 ve 5'e bölünmesini sağla. Artık yüzcü organizmamız dikenliyuvarlara karşı bağışıklıklı.
@@ -217,7 +217,7 @@
         <item>Balonyuvarlarının yoğunluk değerlerini düşürmen lazım.</item>
         <item></item>
         <item>Yüzücüler II</item>
-        <item>Petri kabı hala dikine duruyor olsa da içindeki sıvının yoğunduluğu hücrelerin içindeki sıvıyla neredeyse aynı. Bu yüzden bu petri kabında hücreler batmıyor. Böyle bir ortamda yüzücüyuvar kullanmadan 400 hücreye kadar çoğalabilecek bir organizma yapabilir misin?</item>
+        <item>Petri kabı hala dikine duruyor olsa da içindeki sıvının yoğunduluğu hücrelerin içindeki sıvıyla neredeyse aynı. Bu yüzden bu petri kabında hücreler batmıyor. Böyle bir ortamda yüzeryuvar kullanmadan 400 hücreye kadar çoğalabilecek bir organizma yapabilir misin?</item>
         <item></item>
         <item></item>
         <item>Parazit</item>
@@ -277,10 +277,10 @@
         <item>Enfeksiyon</item>
         <item>"Virüsyuvarlar adlarından da anlaşılabileceği gibi virüsler tarafından enfekte olmuş hücrelerdir. Eğer virüsyuvar herhangi bir zırhlıyuvar tarafından korunmayan bir hücreye temas ederse temas ettiği o hücreyi de enfekte edebilir. Enfekte olan hücreye virüsyuvar kendi genomundan bazı parçaları kopyalattırır. Doğada da zaten virüsler böyle davranıyor.
         
-        Genomun hangi parçasının kopyalanacağı genom editöründeki \"Virüsün kopyaladığı:"\ özelliğiyle belirleniyor. Unutmaki tüm genomu da kopyalayamıyor. Sadece 2 nesil kopyalanabiliyor. Yani 1+2+4 çocuklar ve torunları. Şunu da unutma: türler arasında aynı numaralı hücrelerin genlerini değiştiriyor. Mesela 2 numarayı kopyala dersen diğer türlerdeki 2 numaralıları enfekte edip senin kendi 2 numarana çeviriyor.
+        Genomun hangi parçasının kopyalanacağı genom düzenleyicisindeki \"Virüsün kopyaladığı:"\ özelliğiyle belirleniyor. Unutmaki tüm genomu da kopyalayamıyor. Sadece 2 nesil kopyalanabiliyor. Yani 1+2+4 çocuklar ve torunları. Şunu da unutma: türler arasında aynı numaralı hücrelerin genlerini değiştiriyor. Mesela 2 numarayı kopyala dersen diğer türlerdeki 2 numaralıları enfekte edip senin kendi 2 numarana çeviriyor.
         
         Bu mücadeledeki amacın her şeyi virüsyuvarlarla yok edip petri kabını temizlemek. Bol şans."</item>
-        <item>Mikroskoptaki hücrelerden birine dokun, ardından genom editöründeki \"Yükle"\ seçeneğinden \"Mikroskoptan yükle"\ye tıkla. Organizmanı tasarlamadan önce kurbanını incele.</item>
+        <item>Mikroskoptaki hücrelerden birine dokun, ardından genom düzenleyicisindeki \"Yükle"\ seçeneğinden \"Mikroskoptan yükle"\ye tıkla. Organizmanı tasarlamadan önce kurbanını incele.</item>
         <item></item>
         <item>Labirent</item>
         <item>"Labımızın halka açık etkinlikler programı için dünyanın en küçük labirentini tasarladık.
@@ -290,7 +290,7 @@
         <item></item>
         <item>Enfeksiyon II</item>
         <item>Virüsler çoğunlukla çok spesifik bir canlıyı enfekte etmek için çok spesifik şekillerde evrimleşmişlerdir. Sen de bu tatlış yüzücü organizmaların kökünü kazıyıp petri kabını steril edebilecek bir virüs geliştirebilir misin?</item>
-        <item>Mikroskoptaki hücrelerden birine dokun, ardından genom editöründeki \"Yükle"\ seçeneğinden \"Mikroskoptan yükle"\ye tıkla. Organizmanı tasarlamadan önce kurbanını incele.</item>
+        <item>Mikroskoptaki hücrelerden birine dokun, ardından genom düzenleyicisindeki \"Yükle"\ seçeneğinden \"Mikroskoptan yükle"\ye tıkla. Organizmanı tasarlamadan önce kurbanını incele.</item>
         <item></item>
         <item>İletişimsiz Virüsler</item>
         <item>"Virüs tarafında enfekte edilmesi sırası burada önemli çünkü her virüs bir öncekinin üzerine gen yazıyor.
@@ -305,7 +305,7 @@
         <item>Gen Terapisi</item>
         <item>"Gen terapisi sağlık sektöründe bozulmuş genleri yenileriyle değiştirmek için kullanılan bir yöntem. Bu yeni genler genelde hücrelere vektör olarak virüsler kullanılarak aktarılır. Bu virüsler hücreye zarar vermeden sadece istenen geni teslim etmek amacıyla tasarlanır.
         
-        Petri kabına bir bak, fagoyuvarlar ile yüzücüyuvarların renk kombini berbat! Şu anda yüzücüyuvarların genlerine erişimimiz yok ama yine de bir şekilde bu iğrneçliği bitirip göze hoş gelecek bir organizma üretmeliyiz. Şu hilkat garibelerine gen terapisi yapıp renklerini göze güzel gelicek şekilde düzeltebilir misin? 200 sa'den fazla yaşamaları lazım"</item>
+        Petri kabına bir bak, fagoyuvarlar ile yüzeryuvarların renk kombini berbat! Şu anda yüzeryuvarların genlerine erişimimiz yok ama yine de bir şekilde bu iğrneçliği bitirip göze hoş gelecek bir organizma üretmeliyiz. Şu hilkat garibelerine gen terapisi yapıp renklerini göze güzel gelicek şekilde düzeltebilir misin? 200 sa'den fazla yaşamaları lazım"</item>
         <item></item>
         <item></item>
         <item>Sindirim</item>
@@ -376,79 +376,95 @@
         <item>Bu petri kabı öncekinden daha bile kuru halde ve üzerine gerekli hücre limiti daha yüksek. Hala bunun da üstesinden gelebilir misin?</item>
         <item>Bu kaba göre daha iyi koşullara sahip bir petri kabı kullanarak evrimin senin işini yapmasını sağlayabilirsin, bir akşamlığına çalıştırmaya bırak :)</item>
         <item></item>
-        <item>Korkunç Koşullar</item>
+        <item>Kıt Koşullar</item>
+        <item>"Artık iki yeni hücre tipine erişimin var: alıcıyuvar ve duyucuyuvar. Bunlar besin parçacıklarını ve hücrelerin içerdiği renk pigmentlerini algılayabiliyorlar. Alıcıyuvar algıladığı molekülün derişimine, ne kadar fazla olduğuna, göre belli bir girdi sinyali verebiliyor. Duyucuyuvar ise uyarıcının sağda mı solda mı olduğu algılayıp ona göre sinyal verebiliyor, adeta bir çift kulak gibi.
+        
+        Bu petri kabı adeta kıtlık içinde, besin çok az. Böylesine kıt bir ortamda bile hayatta kalabilen bir organizma tasarlayabilir misin?"</item>
+        <item>Duyucuyuvarı besinin yerini algılamak için, kasyuvarı da besine doğru yönünü ayarlamak için kullan. Organizmanın içindeki hücrelerin konumlandırılmasına dikkat et.</item>
+        <item>"Yeterli besine ulaştığında dört hücreli lineer, dümdüz, bir oraganizmaya bölünebilecek basit bir yüzücü yap. Yüzeryuvar-kasyuvar-duyucuyuvar-fagoyuvar. Kasyuvarını, duyuyuvarın algıladığı besin kokusunun geldiği yöne doğru bükülebilecek şekilde ayarlamayı unutma.
+        
+        Kasyuvarın dönme tepkisini ayarlamak burada çok önemle, biraz deneme yanılma ile ayarlaman lazım.
+        
+        Öndeki fagoyuvarın basit yüzücülere bölünmesini sağla, tabii ki pek çoğu başta ata organizma gibi yiyeceğin yönünü ve yerini algılayamayacaklar ve bu yüzden öleceklerdir ama bazı şanslı olanlar yeterli kadar besin bulucaklar ve bu sayede gelişip besinlerin yerini algılayabilen bireyler haline geleceklerdir. Organizmanın üreme işini de bu sayede halledebilirsin.
+        
+        Adhesin bağını güçlü olması ve bölünme kütlelerini düzgün ayarlamak burada çok önemli.
+        
+        Unutma ki bu yöntem bu meydan okumayı tamamlamanın bir sürü yolundan sadece biri."</item>
+        <item>Kıt Koşullar II</item>
+        <item>Burada hayatta kalabilecek bir organizmayı kasyuvar kullanmadan tasarlayabilir misin?</item>
         <item></item>
         <item></item>
+        <item>Düz Dünya</item>
+        <item>"Bu petri kabı oldukça kaygan ve duvarları yok. Yani hücreler petri kabından düşüp kolayca ölebiliyor.
+        
+        Sen yine de 300 hücreye ulaşabilir misin?"</item>
         <item></item>
         <item></item>
+        <item>Kıt Koşullar III</item>
+        <item>Organizmanı iyice optimize edip bu petri kabında 600 hücreye ulaştırabilir misin?</item>
         <item></item>
         <item></item>
+        <item>Sindirim III</item>
+        <item>Bu mücadele Sindirim'e çok benziyor, tek fark besin daha az. Bol şans :)</item>
         <item></item>
         <item></item>
+        <item>Yırtıcı</item>
+        <item>50 hücreye kadar üreyebilcek ve avlarını en çok 300 hücreye düşerene kadar avlayabilecek yırtıcı bir organizma yapabilir misin?</item>
         <item></item>
         <item></item>
+        <item>Aldatmaca</item>
+        <item>"Artık salgıyuvara tamamen erişimin var. Bü hücre tipi etrafına çeşit çeşit moleküller salgılayabiliyor.
+        
+        Bu barışçıl otçul organizmaları tuzağına çekip onlarla beslenenen parazitik bir organizma tasarlayabilir misin?"</item>
+        <item>Yapışkanyuvar burada işine yarayacaktır. Belki organizmanın hareket etmesini sağlayacak bazı özellikler de ekliyebilirsin.</item>
+        <item></item>
+        <item>Yemek Siparişi</item>
+        <item>"Şu kırmızı yırtıcının çevresinde hiç yiyebileceği bir şey yok. Ona teslim edebilir misin?"</item>
         <item></item>
         <item></item>
+        <item>Hareket Et!</item>
+        <item>"Bu petri kabı yüksek tuzluluk ve düşük viskoziteye(akışma dirençliliğine) sahip. Ayrıca besin demetleri de kocaman. Akıllı yüzücü organizmalar için adeta bir cennet! Ne yazık ki bura için yüzeryuvar kullanamıyoruz.
+        
+        Hala daha böyle bir ortamda bolluk bereket içinde yaşıyan bir organizma yapabilir misin?"</item>
+        <item>Mitotic propulsion( mitotik hareket) dediğimiz bir yöntem burada oldukça işe yarar.</item>
+        <item></item>
+        <item>İmha Etme</item>
+        <item>Bazı mayın üreten organizmalar bu petri kabında yaşıyor. Onlara kendi ilaçlarından tattırıp bu haşeratları yok edip petri kabını temizleyebilir misin? İşin sonunda petri kabı tertemiz olmalı.</item>
         <item></item>
         <item></item>
+        <item>Ayrımcılık</item>
+        <item>"Bu petri kabında bir mavi bir de kırmızı organizmalar yaşıyor. Kırmızı olanları sevmiyorum, çok çirkinler. Bu yüzden onları yok edebilir misin? Ama aman, sakın diyeyim, kıymetli mavilerime dokunma! İşin bitince de petri kabında sadece mavişlerimi görmek istiyorum, başka bir organizma değil!"</item>
         <item></item>
         <item></item>
+        <item>Kaçınma</item>
+        <item>Baştaki, ortadaki hücre sayısını en az 100sa boyunca düşük tutarak burada 150 hücreye kadar erişebilen bir organizma tasarlayabilir misin?</item>
         <item></item>
         <item></item>
+        <item>Kaçınma II</item>
+        <item>Bu sefer baştaki hücreler hareket ediyor. Yine bu hücrelerin sayısını en az 200sa düşük tutarak kendi organizmanı 200 hücreye kadar ulaştırabilir misin?</item>
         <item></item>
         <item></item>
+        <item>Nanobot</item>
+        <item>"Şu an elimizde deri kanseri olan bir hastaya ait deri örneği bulunuyor. Şimdi öyle bir organizma yapmalısın ki derideki kanserli hücreleri imha etsin ama geri kalan deriyi sağlam bıraksın. Yapabilir misin?"</item>
         <item></item>
         <item></item>
+        <item>Çöl</item>
+        <item>Bu petri kabı neredeyse tamamen kurumuş halde ve besin maddesi de inanılmaz az. 200 hücreye kadar çıkabilir misin?</item>
         <item></item>
         <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Çöl II</item>
+        <item>Aynı petri kabı ama 600 hücre bu sefer.</item>
         <item></item>
         <item></item>
     </string-array>
     <string-array name="log_interval_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Kaydetme yok</item>
+        <item>Her 12 dk</item>
+        <item>Her 1 sa</item>
+        <item>Her 5 sa</item>
+        <item>Her 25 sa</item>
+        <item>Her 125 sa</item>
+        <item>Her 625 sa</item>
     </string-array>
     <string-array name="modes">
         <item>Dondur</item>
@@ -462,34 +478,156 @@
         <item>Genom</item>
     </string-array>
     <string-array name="tut_text_1">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>"Laboratuvar(Kısaca lab) aletlerine daha aşina olman için sana iki öğretici bölüm hazırladık. Merak etme güvenlik protokolleri sana sonra başka bir gün öğretilecek.
+        
+        Bu ilk öğretici sana mikroskop nasıl kullanılır onu öğretecek.
+        
+        Lütfen mikroskoba giderek başla."</item>
+        <item>"Aferin!
+        
+        Şu anda gördüğün şey senin için hazırladığımız petri kabı.
+        
+        Parmaklarını çimdikler gibi yaparak mikroskobunun büyütme miktarını arttırabilirsin.
+        
+        Öncelikle lütfen büyütme miktarını 300x'e kadar getir."</item>
+        <item>"Fevkalade!
+        
+        Şimdi petri kabını kaydır ki şu tepedeki güneş ışığı ile aydınlanmış alana bakalım. Biraz daha yakınlaştırmayı unutma, ekranını da az kaplasın.
+        
+        Basitçe parmaklarını kaydırarak bunu yapabilirsin."</item>
+        <item>"Maşallah önceden kullanmış gibisin!
+        
+        Bu mikroskopa bir mikromanipülatör bağlı halde. Bu sayede petri kabına genetik labımızdan aldığımız hücreleri yerleştirebiliyoruz.
+        
+        Daha yeni geliştirdiğimiz bir hücreyi petri kabının güneş vuran tarafına koyabilir misin?
+        
+        Sadece tıklaman yeterli."</item>
+        <item>"Gördün mü? Çok kolay!
+        
+        Binbir marifetli mikroskopumuz aynı zamanda petri kabının sıcaklığını kontrol etmeye yarayan bir mekanizması da var. Sağ üstten termometreye tıkla ve sıcaklığı \"Gözlemle\"ye getir. Bu sıcaklıkta hücreler gözlerimizle gözleyebileceğimiz kadar ağır bir hızla yaşıyor."</item>
+        <item>"Şimdi hücrelerin çoğaldığını görebiliyor olman lazım. Eğer bu olmadıysa güneşin vurduğu bölgeye birkaç tane daha hücre yerleştir.
+        
+        Şimdi biz bu hücreleri bir süre inkübe etmeliyiz. Bu sayede hücrelerimiz denge haline ulaşabilecekler.
+        
+        Sıcaklığı yükselterek \"İnkübe\"ye getir."</item>
+        <item>"Şimdi bir sürü hücren olmalı!
+        
+        Bu durumdayken onları takip etmek çok zor ama en azından mikroskopumuzun bir de görsel takip sistemi var. Gözlemci seçili hücreyi ekrana yansıtır ve gözlemi korumak için petri kabını bile hareket ettirir.
+        
+        Sıcaklığı tekrar \"Gözlemle\"ye getir ve bir hücreye onu gözlemlemek için dokun."</item>
+        <item>"Şahane!
+        
+        Bazen çalışmak için doğadan veya burunlarımızın içinden bazı hücreleri topluyoruz. Genom düzenleyicisinde bu hücreleri incelemek için DNA'larını mikropipet kullanarak çıkartıyoruz. Hadi ben bahsetmişken, hemen şu an petri kabımızdaki bir hücrenin DNA'sını çıkartalım.
+        
+        Petri kabına bir mutajen koymuştuk. Bu yüzden kaptaki hücreler mutasyon geçirmiş olmalı. Görsel takip sistemini kullanarak bir hücreyi seç ve gözlemle. Bunu yapmadan önce petri kabını dondurmayı unutma."</item>
+        <item>Tekrardan aferin! Bir sonraki adımda genom düzenleyicisine git. \"GENOM\"a tıkla ve \"yükle\"ye bas.
+        
+        Ardından \"mikroskoptan yükle\" seçeneğine tıkla. Bu şekilde mikropipet gözlemlenen hücrenin DNA'sını otamatik olarak çıkartacaktır. Ardından yine otamatik olarak eşleştirme yapacak ve DNA bilgilerinin karşılıklarını dijital ortamda olan genom düzenleyicisine gönderecektir."</item>
+        <item>"Mükemmel! Şimdi mutant hücrenin genomu, genom editörünün içinde elimizde.
+        
+        Son görevin petri kabını sterilize etmek. Merak etme, bu seferlik elini kirletmene gerek yok! Otamatik temizleyicimiz var. Bu şekilde petri kabını, sonraki deneyler için hazır hale getirebilirsin. Yukarıdaki sıfırlama tuşuna, petri kabı ve üzerine işaret eden turuncu oklu tuş, basman yeterli.
+        
+        İyi şanslar! Elini oto-temizleyiciye sokmamayı unutma, kopar valla!"</item>
+        <item>"Mikroskop eğitim programını tamamlamış bulunmaktasın. Bir şekeri hak ettin!
+        
+        Bir sonraki eğitimin genom düzenleyicisi programı. Sol üstteki arkaya bakan oka tıklayarak ilk eğitimden çık."</item>
     </string-array>
     <string-array name="tut_text_2">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>"Bu öğretici bölüm sana genom düzenleyicisini nasıl kullanacağın konusunda rehberlik edicek.
+        
+        Lütfen genom düzenleyici labına giderek başlayalım."</item>
+        <item>"Çok iyi!
+        
+        Şu an gördüğün şey genom düzenleyici. Kendisi iki bölümden oluşuyor:
+        \u0009- Öngesterim Ekranı
+        \u0009- Hücre Düzenleyici
+        
+        Öngösterim Ekranını tanımakla başlayalım. Bu ekran sayesinde organizmanın hangi yaşta hangi durumda olacağını görebilirisin.
+        
+        Ekranın altındaki kaydırmalı barın hareketleri sayesinde ekran, hangi yaşta görmek istiyorsan organizmanı o yaştaki öngösterimini sana gösterir.
+        
+        Şimdi barı hareket ettirerek 2.0 sa'de organizmanın öngösterimini izle."</item>
+        <item>"Harika iş!
+        
+        Öngösterim Ekranı hakkında bilmemiz gerek her şey şimdilik bu kadardı. Şimdi genetik vakti!
+        
+        İnsan vücudundaki her hücre aynı DNA'ya sahiptir ama kas ve beyin hücreleri birbirinden çok farklıdır. Çünkü aynı DNA birden fazla hücre tipini kodlar. Bizim Labımızda da böyle.
+        
+        Genom düzenleyici 40 farklı hücreye kadar işlem yapabilir. Genom düzenleyicide aynı anda sadece bir hücre düzenlenebilir. Düzenlenen hücreyi değiştirmek için biz \"Düzenlenen Hücre\" butonunu kullanıyoruz.
+        
+        Hadi şimdi H5 adındaki hücreyi düzenleyelim. H1 den düzenlenen hücreyi H5'e getir."</item>
+        <item>"Şimdi altta gördüğün her ayar sadece H5'in özelliklerini tanımlıyor. Merak ediyorsundur belki, şu anda öngösterim ekranında gözükenler hangisi? Onlar da mı H5 oldu?
+        
+        Hayır, onlar H1. Çünkü H1 şu anda varsayılan olarak öncü modunda. Öngösterim ekranındaki similasyonlar hep öncü olan hücreyle başlar.
+        
+        Şimdi H5'i \"Öncü\" butonuna tıklayarak öncü yap."</item>
+        <item>"Aferin!
+        
+        Her hücrede bir çok farklı özellik var, sadece bu öğretici bölümde ne yazık ki hepsini işleyemeyiz. Bu yüzden bir kısmını kendin deneyerek öğrenmen lazım. Eğer genom düzenleyicisindeki özellikler hakkında daha fazla şey öğrenmek istiyorsan sadece altıçizili özellik isimlerine tıklaman yeterli.
+        
+        Şimdi \"Kırmızı:\" yazan özelliği açıklayan metni oku. Görmek için belki aşağı kaydırman gerekebilir."</item>
+        <item>"Müthiş!
+        
+        Şimdi diğer iki renklerle alakalı özelliği bul ve H5'ini tamamen kırmızı yap."</item>
+        <item>"Şahane!
+        
+        Eğer öngösterim ekranının altındaki barı sağ sola kaydırırsan hücrelerinin bölündüğünü görebilirsin. Genom düzenleyicide bir çok özellik bölünmenin nasıl olacağını kontrol eder.
+        
+        İki önemli özellik yavru hücrelerin hangi hücreye bölüneceğini kontrol eden \"Çocuk 1: hücre\" ve \"Çocuk 2: hücre\" ayarları.
+        
+        Bunları şöyle ayarla ki H5 bölündüğünde:
+        \u0009 Çocuk 1: H6
+        \u0009 Çocuk 2: H7."</item>
+        <item>"Harika!
+        
+        Artık iki farklı hücre görüyor olman lazım. Biri H6 biri de H7.
+        
+        Öngösterim saatini 4.0 sa'e çıkar ve bu hücrelerin neylere bölündüğüne bak."</item>
+        <item>İyi iş!
+        
+        Şu an 4 hücre görüyor olman lazım. İki tanesi H6, solda, ve iki tanesi H7, sağda. Aile ağacı şu an şöyle gözüküyor:
+        \u0009\u0009      5           zaman: 0.0 sa
+        \u0009\u0009    /  \\ 
+        \u0009\u0009   6    7        zaman: 2.0 sa
+        \u0009\u0009 / \\    / \\ 
+        \u0009\u00096  6  7  7    zaman: 4.0 sa
+        
+        Şimdi aile ağacını şuna çevir:
+        
+        \u0009\u0009      5 
+        \u0009\u0009    /  \\ 
+        \u0009\u0009   6    7 
+        \u0009\u0009 / \\    / \\ 
+        \u0009\u00095  5  5  5
+        
+        Bunu \"Çocuk 1: Hücre=H5\" ve \"Çocuk 2: Hücre=H5\" yaparak halledebilirsin.
+        
+        İpucu: Sürekli \"Düzenlenen Hücre:\"ye tıklayarak değiştirmek yerine kısaca öngösterim ekranındaki hücrelere tıklayabilirsin. Bu sayede kolayca ve hızlıca düzenlediğin hücreyi değiştirebilirisin."</item>
+        <item>"Süpersin!
+        
+        Şimdi öncü hücren olan H5 önce H6 ve H7'ye bölünüyor ardından onlar da tekrardan H5'e bölünüyor. Böylece yaşam döngüleri devam ediyor.
+        
+        Şimdi bu yaptığın organizmayı mikroskopta petri kabına yerleştir. Böylece üç farklı tipteki ama aynı genomu paylaşan hücrelerinin gelişimini izle."</item>
+        <item>"Bir şekeri hak ettin yine!
+        
+        Genom Düzenleyicisi eğitim programını tamamlamış bulunmaktasın, artık labımızda çalışabilecek yeterliliktesin!
+        
+        Araştırmalarında başarılar!"</item>
     </string-array>
     <string-array name="tut_text_3">
-        <item></item>
-        <item></item>
+        <item>"Bu öğretici bölüm sana nasıl basit yüzücü bir organizma tasarlayıp yapacağını öğretecek.
+        
+        Öncelikle genom düzenleyicisine git ve H1'in bir fagoyuvar olduğundan emin ol. Ayrıca bölündüğünde adhesin bağı yaptığından da emin ol. Ardından önizleme sayacını 0.8 sa'e getir."</item>
+        <item>"Şahane iş!
+        
+        Unutma, eğer daha iyi anlamak istiyorsan adhesin yap özelliğine tıklarak çıkan metni okuyabilirsin.
+        
+        Şu an iki tane tıpatıp aynı hücrenin birbirine bağlanmış halde durduğunu görüyor olman lazım. Her ikisi de H1 modunda çünkü öncü hücre olan H1 şu an aynı modda olan iki hücreye bölünüyor.
+        
+        Bunu değiştirmemiz lazım. Soldaki hücre H2 modunda, sağdaki ise H3 modunda olmalı.
+        Bunu yapmak için H1'i düzenlememiz yeter:
+        Çocuk: 1'i H2
+        Çocuk: 2'yi H3 yap."</item>
         <item></item>
         <item></item>
         <item></item>
@@ -506,30 +644,30 @@
         <item></item>
     </string-array>
     <string-array name="tut_title_1">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Hücre Labı'na Hoşgeldin!</item>
+        <item>Büyütmeyi Değiştirme</item>
+        <item>Navigasyon</item>
+        <item>Mikropipet</item>
+        <item>Sıcaklık</item>
+        <item>İnkübasyon</item>
+        <item>Hücre İzleme</item>
+        <item>DNA Çıkartma</item>
+        <item>DNA Çıkartma</item>
+        <item>Sterilizasyon</item>
+        <item>Tebrikler!</item>
     </string-array>
     <string-array name="tut_title_2">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Hoşgeldin!</item>
+        <item>Genel Bakış</item>
+        <item>Hücre Modları</item>
+        <item>Öncü Hücre</item>
+        <item>Özellik Tanımları</item>
+        <item>Özellikleri Bulma</item>
+        <item>Çocuk Hücreler</item>
+        <item>Torun Hücreler</item>
+        <item>Döngüyü Tamamlama</item>
+        <item>Mikroskopta İnceleme</item>
+        <item>Tebrikler!</item>
     </string-array>
     <string-array name="tut_title_3">
         <item></item>
