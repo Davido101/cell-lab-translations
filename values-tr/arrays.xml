@@ -628,20 +628,69 @@
         Bunu yapmak için H1'i düzenlememiz yeter:
         Çocuk: 1'i H2
         Çocuk: 2'yi H3 yap."</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>"Harika!
+        
+        Şu anda farklı renklerde iki farklı hücre görüyor olman lazım. Soldaki hücrenin organizmamıza hareketlilik kazandırması lazım, sağdaki ise besin elde etmekten sorumlu olmalı.
+        H3'ün bir fagoyuvar olduğundan emin ol.
+        Ardından H2'yi düzenle ve onu bir yüzeryuvar yap.</item>
+        <item>"Mükemmel!
+        
+        Artık bir yüzücün var! İstersen gerçekten yüzüyor mu diye mikroskop üstünden deneyebilirsin.
+        Organizmamızın sorunsuz yüzebilmesi için yüzeryuvarın asla bölünmediğinden emin olmalıyız. Kendisi arkadan daima itki kuvveti sağlamalı. Bunun için H2'nin bölünme kütlesini maksimuma getir."</item>
+        <item>Harikulade!
+        
+        Şimdi önizleme ekranının saatini 2.0 sa'e getirebilirsin. Burada H3'den bir sporun bölünüp çıktığını göreceksin. Bu sporun öncü H1 olmasını istiyoruz. Bu şekilde yaşam döngüsü tamamlanmış olucak.
+        
+        H3'ün 2. çocuğunun H1 olucağı şekilde genomunu düzenle."</item>
+        <item>"İşte bu, tekrar sana şeker verirdim ama bu sefer şekerim bitti!
+        
+        Yüzücü organizman şu anda tamamlanmış olmalı! Mikroskopunda deneyebilirsin! Bu genomu ileriki mücadelelerde kullanmak için kaydetmen akıllıca olur."</item>
     </string-array>
     <string-array name="tut_text_4">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>"Bu öğretici bölümde hücre sinyalleşmesini öğreneceğiz.
+        
+        Hücrelerimizin sinyalleşme için kullanabildiği şu anda elimizde dört farklı molekül var: S1, S2, S3 ve S4.
+        
+        Bu moleküllerin hücre içindeki miktarları bazı hücrelerin nasıl davranabileceğini etkileyebiliyor. Biz Hücre Labı'nda bu tür durumları kısaca "&lt;i> programlanabilir&lt;/i>" diye izah ediyoruz. Bazı hücre tipleri, mesela nöroyuvar, bu sinyal moleküllerinden üretebiliyor.
+        
+        H1'i bir nöroyuvar yap. Ardından onu basit 2 hücreli yüzer bir organizmaya bölünecek şekilde ayarla:
+        H1 = Nöroyuvar, adhesin yapsın
+        \u0009\u0009\u0009\u0009\u0009çocuk 1 = H2, çocuk 2 = H3 
+        H2 = yüzeryuvar
+        H3 = Fagoyuvar"</item>
+        <item>"Harika iş!
+        
+        Yüzüş kuvveti yüzeryuvar için programlanabilir bir özelliktir. Yüzüş kuvvetinin yanındaki üç noktaya gel ve tıkla."</item>
+        <item>"Bulabildin demek :)
+        
+        Buradan yüzüş kuvvetini sabit bir değer yerine zamanla hücrenin ve organizmanın durumuna göre değişebilecek bir değere ayarlayabilirsin. Şimdilik burası için, girdi sinyalini "&lt;b> S1&lt;/b>" molekülüne ayarla.
+        
+        Girdinin burada bağlı olduğu iki farklı değeri var. a, yani doğrusal fonksiyonun kat sayısı ve b, sabit sayı.
+        
+        İlk seçenekteki doğrusal denklemi girdi olarak seç. Bu sayede doğrusal girdi değerleri elde edebilirsin. Çünkü denklemin sonucu sadece a ve b değerlerine bağlı. a=4 ve b=0 yap. Bu sayede elde edilen her uyartı 4 ile çarpılıp girdi olarak verilecek. Mesela 3 birim uyarı alınca 12, 5 birim alınca 20 olarak girdi vericek. Tabii ki bu sayılar tamamen farazi.Kısaca bunları basit fonksiyon mantığında düşün.
+        
+        Şimdi bu değerleri bu şekilde ayarladığın için ne zaman S1 miktarı fazla olursa o zaman yüzme kuvveti fazla, ne zaman S1 az olursa o zaman da yüzme kuvveti az olucak."</item>
+        <item>"Fevkalade!
+        
+        Şimdi yüzücümüzü mikroskopta deniyelim. Sıcaklığı gözlemleye getir ve öncümüz, H1 olan nöroyuvarımızı petri kabına koy."</item>
+        <item>"Şu anda öncü nöroyuvarının iki hücreye bölündüğünü ama yüzeryuvarının hiç kıpırdamadığını görmüş olmalısın. Bunun sebebi şu anda S1 molekülü miktarın 0.
+        
+        H1 nöroyuvarının biraz S1 üretmesi lazım. Nöroyuvarların sinyal molekülü üretmek için dört farklı girdisi, kompartımanı, kanalı vardır. Daha matematiksel olucaksak nöroyuvar maksimum dört farklı değişkene tanımlandırılabilir. Her bir kanal dört farklı sinyal molekülünden herhangi birini üretebilecek şekilde ayarlanabilir.
+        
+        H1'in ayarlarına git ve en dibe bak. Bir çıktı ayarı listesi göreceksin. Bu ayarlar, aynı yüzüş kuvveti gibi, yine programlanabilir. Şimdilik sabit bir değer kullanacağız. İlk kanalı S1'e ayarla ve çıktı, molekül üretim miktarını, maksimuma çıkar.
+        
+        Şimdi tekrardan, petri kabına H1'ini yerleştir."</item>
+        <item>"Şahane!
+        
+        Şimdi yüzücün giderek yavaşlayıp duracağı şekilde bir süre yüzmüş olmalı. Bunun sebebi öncü nöroyuvarın ürettiği sinyal molekülünün zamanla bozunması ve en nihayetinde geriye hiç kalmaması. Yani eğer sürekli bir sinyal molekülü üretimi olmazsa hızla miktarı 0'a düşer.
+        
+        Hadi gidip yüzücünün kafasındaki fagoyuvarı bir nöroyuvara çevirelim. H3'ü nöroyuvar yaptıktan sonra gidip ayarlarından alttaki periyot butonuna tıkla."</item>
+        <item>"Burası belli aralıklarla dört kanaldaki üretimi sıfırlar, bunu öyle akıllıca yapar ki adeta iki farklı uyartı molekülünün periyodik olarak salınmasına izin verir.
+        
+        1 adhesin bağlantısı seçeneğini seç çünkü nöroyuvarın sadece bir adhesin bağı yapıyor. Kanalları S1 ve S2'ye periyodu ise 1 saate ayarla. Ardından H1'i tekrardan petri kabına koy ve bu sefer nasıl davrandığını incele."</item>
+        <item>"Gördüğün gibi organizman bir yüzüyor bir duruyor, bir yüzüyor bir duruyor. Nöroyuvarın ürettiği sinyal moleküller adhesin bağı üzerinden yüzeryuvara gidiyor. Yağyuvarlar dışında bu her hücre tipinde gerçekleşir. Bu yüzden yağyuvarlar aynı gerçek hayvanlardaki glia hücreleri gibi nöronları izole etmek ve korumak için kullanılabilir.
+        
+        Bu Öğretici bölümü bitirdin ve artık biraz nörobilim yapmaya da hazırsın! Kolay gelsin!</item>
     </string-array>
     <string-array name="tut_title_1">
         <item>Hücre Labı'na Hoşgeldin!</item>
@@ -670,21 +719,21 @@
         <item>Tebrikler!</item>
     </string-array>
     <string-array name="tut_title_3">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Genetik Tasarım Öğretici Bölümüne Hoşgeldin!</item>
+        <item>İlk Hücre Jenerasyonunu Ayarlama</item>
+        <item>İlk Hücre Jenerasyonundaki Hücre Tiplerini Ayarlama</item>
+        <item>İttirici Hücrenin Bölünmesini Engelleme</item>
+        <item>Döngüyü Tamamlama</item>
+        <item>Çalışmanı Kaydetme</item>
     </string-array>
     <string-array name="tut_title_4">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Hücre Sinyalleşmesi Öğretici Bölümüne Hoşgeldin!</item>
+        <item>Yüzüş Kuvvetini Programlamak</item>
+        <item>Değerleri Ayarlama</item>
+        <item>Dene Bakalım!</item>
+        <item>Birazcık S1 Üretelim</item>
+        <item>Periyotu Kullan</item>
+        <item>Periyotlu Nöroyuvar</item>
+        <item>Öğretici Bölüm Bitti!</item>
     </string-array>
 </resources>
