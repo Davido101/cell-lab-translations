@@ -187,9 +187,9 @@
     <string name="genome_editor_button_load">Yükle</string>
     <string name="genome_editor_button_save">Kaydet</string>
     <string name="genome_editor_cell_type">Hücre tipi:</string>
-    <string name="genome_editor_child_1">1. Çocuk</string>
+    <string name="genome_editor_child_1">Çocuk 1</string>
     <string name="genome_editor_child_1_angle">1. Çocuğun açısı:</string>
-    <string name="genome_editor_child_2">2. Çocuk</string>
+    <string name="genome_editor_child_2">Çocuk 2</string>
     <string name="genome_editor_child_2_angle">2. Çocuğun açısı:</string>
     <string name="genome_editor_density">Yoğunluk</string>
     <string name="genome_editor_edit_mode">Düzenlenen hücre:</string>
