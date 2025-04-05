@@ -26,7 +26,7 @@
     <string name="advanced_settings_info">Gelişmiş ayarlar. Bu ayarları değiştirmek istenmeyen şekilde Cell Lab'ın yavaş çalışmasına ve hatta çökmesine sebep olabilir.</string>
     <string name="advanced_settings_radius">Petri kabı çapı [mm]</string>
     <string name="advances_settings_food_count">Maksimum besin miktarı</string>
-    <string name="app_name">Cell Lab</string>
+    <string name="app_name">Hücre Labı</string>
     <string name="button_more"></string>
     <string name="button_refresh">Yenile</string>
     <string name="cell_info_S_production"></string>
