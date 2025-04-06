@@ -124,8 +124,8 @@
         <item>Hareket ettirme aletini(optik cımbızı) kullanarak bu hücrenin üremesine yardımcı ol.</item>
         <item></item>
         <item>Barış içinde yaşama</item>
-        <item>Sadece 1 öncü hücre ekleyerek 50 sa içerinde 400 hücreye ulaşabilir misin?</item>
-        <item>Öncü hücrenin bölünüp iki farklı tipte, iki farklı işe yarayan iki hücreye ayrılmasına ihtiyacın var.</item>
+        <item>Sadece 1 ilkin hücre ekleyerek 50 sa içerinde 400 hücreye ulaşabilir misin?</item>
+        <item>İlkin hücrenin bölünüp iki farklı tipte, iki farklı işe yarayan iki hücreye ayrılmasına ihtiyacın var.</item>
         <item></item>
         <item>Öğretici III</item>
         <item>Genleri Tasarlamayı Öğrenelim</item>
@@ -558,9 +558,9 @@
         Hadi şimdi H5 adındaki hücreyi düzenleyelim. H1 den düzenlenen hücreyi H5'e getir."</item>
         <item>"Şimdi altta gördüğün her ayar sadece H5'in özelliklerini tanımlıyor. Merak ediyorsundur belki, şu anda öngösterim ekranında gözükenler hangisi? Onlar da mı H5 oldu?
         
-        Hayır, onlar H1. Çünkü H1 şu anda varsayılan olarak öncü modunda. Öngösterim ekranındaki similasyonlar hep öncü olan hücreyle başlar.
+        Hayır, onlar H1. Çünkü H1 şu anda varsayılan olarak ilkin modunda. Öngösterim ekranındaki similasyonlar hep ilkin olan hücreyle başlar.
         
-        Şimdi H5'i \"Öncü\" butonuna tıklayarak öncü yap."</item>
+        Şimdi H5'i \"İlkin\" butonuna tıklayarak ilkin yap."</item>
         <item>"Aferin!
         
         Her hücrede bir çok farklı özellik var, sadece bu öğretici bölümde ne yazık ki hepsini işleyemeyiz. Bu yüzden bir kısmını kendin deneyerek öğrenmen lazım. Eğer genom düzenleyicisindeki özellikler hakkında daha fazla şey öğrenmek istiyorsan sadece altıçizili özellik isimlerine tıklaman yeterli.
@@ -605,7 +605,7 @@
         İpucu: Sürekli \"Düzenlenen Hücre:\"ye tıklayarak değiştirmek yerine kısaca öngösterim ekranındaki hücrelere tıklayabilirsin. Bu sayede kolayca ve hızlıca düzenlediğin hücreyi değiştirebilirisin."</item>
         <item>"Süpersin!
         
-        Şimdi öncü hücren olan H5 önce H6 ve H7'ye bölünüyor ardından onlar da tekrardan H5'e bölünüyor. Böylece yaşam döngüleri devam ediyor.
+        Şimdi ilkin hücren olan H5 önce H6 ve H7'ye bölünüyor ardından onlar da tekrardan H5'e bölünüyor. Böylece yaşam döngüleri devam ediyor.
         
         Şimdi bu yaptığın organizmayı mikroskopta petri kabına yerleştir. Böylece üç farklı tipteki ama aynı genomu paylaşan hücrelerinin gelişimini izle."</item>
         <item>"Bir şekeri hak ettin yine!
@@ -622,7 +622,7 @@
         
         Unutma, eğer daha iyi anlamak istiyorsan adhesin yap özelliğine tıklarak çıkan metni okuyabilirsin.
         
-        Şu an iki tane tıpatıp aynı hücrenin birbirine bağlanmış halde durduğunu görüyor olman lazım. Her ikisi de H1 modunda çünkü öncü hücre olan H1 şu an aynı modda olan iki hücreye bölünüyor.
+        Şu an iki tane tıpatıp aynı hücrenin birbirine bağlanmış halde durduğunu görüyor olman lazım. Her ikisi de H1 modunda çünkü ilkin hücre olan H1 şu an aynı modda olan iki hücreye bölünüyor.
         
         Bunu değiştirmemiz lazım. Soldaki hücre H2 modunda, sağdaki ise H3 modunda olmalı.
         Bunu yapmak için H1'i düzenlememiz yeter:
@@ -639,7 +639,7 @@
         Organizmamızın sorunsuz yüzebilmesi için yüzeryuvarın asla bölünmediğinden emin olmalıyız. Kendisi arkadan daima itki kuvveti sağlamalı. Bunun için H2'nin bölünme kütlesini maksimuma getir."</item>
         <item>Harikulade!
         
-        Şimdi önizleme ekranının saatini 2.0 sa'e getirebilirsin. Burada H3'den bir sporun bölünüp çıktığını göreceksin. Bu sporun öncü H1 olmasını istiyoruz. Bu şekilde yaşam döngüsü tamamlanmış olucak.
+        Şimdi önizleme ekranının saatini 2.0 sa'e getirebilirsin. Burada H3'den bir sporun bölünüp çıktığını göreceksin. Bu sporun ilkin H1 olmasını istiyoruz. Bu şekilde yaşam döngüsü tamamlanmış olucak.
         
         H3'ün 2. çocuğunun H1 olucağı şekilde genomunu düzenle."</item>
         <item>"İşte bu, tekrar sana şeker verirdim ama bu sefer şekerim bitti!
@@ -672,8 +672,8 @@
         Şimdi bu değerleri bu şekilde ayarladığın için ne zaman S1 miktarı fazla olursa o zaman yüzme kuvveti fazla, ne zaman S1 az olursa o zaman da yüzme kuvveti az olucak."</item>
         <item>"Fevkalade!
         
-        Şimdi yüzücümüzü mikroskopta deniyelim. Sıcaklığı gözlemleye getir ve öncümüz, H1 olan nöroyuvarımızı petri kabına koy."</item>
-        <item>"Şu anda öncü nöroyuvarının iki hücreye bölündüğünü ama yüzeryuvarının hiç kıpırdamadığını görmüş olmalısın. Bunun sebebi şu anda S1 molekülü miktarın 0.
+        Şimdi yüzücümüzü mikroskopta deniyelim. Sıcaklığı gözlemleye getir ve ilkinimiz, H1 olan nöroyuvarımızı petri kabına koy."</item>
+        <item>"Şu anda ilkin nöroyuvarının iki hücreye bölündüğünü ama yüzeryuvarının hiç kıpırdamadığını görmüş olmalısın. Bunun sebebi şu anda S1 molekülü miktarın 0.
         
         H1 nöroyuvarının biraz S1 üretmesi lazım. Nöroyuvarların sinyal molekülü üretmek için dört farklı girdisi, kompartımanı, kanalı vardır. Daha matematiksel olucaksak nöroyuvar maksimum dört farklı değişkene tanımlandırılabilir. Her bir kanal dört farklı sinyal molekülünden herhangi birini üretebilecek şekilde ayarlanabilir.
         
@@ -682,7 +682,7 @@
         Şimdi tekrardan, petri kabına H1'ini yerleştir."</item>
         <item>"Şahane!
         
-        Şimdi yüzücün giderek yavaşlayıp duracağı şekilde bir süre yüzmüş olmalı. Bunun sebebi öncü nöroyuvarın ürettiği sinyal molekülünün zamanla bozunması ve en nihayetinde geriye hiç kalmaması. Yani eğer sürekli bir sinyal molekülü üretimi olmazsa hızla miktarı 0'a düşer.
+        Şimdi yüzücün giderek yavaşlayıp duracağı şekilde bir süre yüzmüş olmalı. Bunun sebebi ilkin nöroyuvarın ürettiği sinyal molekülünün zamanla bozunması ve en nihayetinde geriye hiç kalmaması. Yani eğer sürekli bir sinyal molekülü üretimi olmazsa hızla miktarı 0'a düşer.
         
         Hadi gidip yüzücünün kafasındaki fagoyuvarı bir nöroyuvara çevirelim. H3'ü nöroyuvar yaptıktan sonra gidip ayarlarından alttaki titreşim ayarlama butonuna tıkla."</item>
         <item>"Burası belli aralıklarla dört kanaldaki üretimi sıfırlar, bunu öyle akıllıca yapar ki adeta iki farklı uyartı molekülünün periyodik olarak salınmasına izin verir.
@@ -709,7 +709,7 @@
         <item>Hoşgeldin!</item>
         <item>Genel Bakış</item>
         <item>Hücre Modları</item>
-        <item>Öncü Hücre</item>
+        <item>İlkin Hücre</item>
         <item>Özellik Tanımları</item>
         <item>Özellikleri Bulma</item>
         <item>Çocuk Hücreler</item>
