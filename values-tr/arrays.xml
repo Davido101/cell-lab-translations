@@ -665,9 +665,9 @@
         
         Buradan yüzüş kuvvetini sabit bir değer yerine zamanla hücrenin ve organizmanın durumuna göre değişebilecek bir değere ayarlayabilirsin. Şimdilik burası için, uyartı sinyalini "&lt;b> S1&lt;/b>" molekülüne ayarla.
         
-        Girdinin burada bağlı olduğu iki farklı değeri var. a, yani doğrusal fonksiyonun kat sayısı ve b, sabit sayı.
+        Verilecek değerin burada girdiden başka bağlı olduğu iki farklı değeri daha var. a, yani doğrusal fonksiyonun kat sayısı ve b, sabit sayı.
         
-        İlk seçenekteki doğrusal denklemi girdi olarak seç. Bu sayede doğrusal girdi değerleri elde edebilirsin. Çünkü denklemin sonucu sadece a ve b değerlerine bağlı. a=4 ve b=0 yap. Bu sayede elde edilen her uyartı 4 ile çarpılıp değer olarak verilecek. Mesela 3 birim uyarı alınca 12, 5 birim alınca 20 olarak girdi vericek. Tabii ki bu sayılar tamamen farazi.Kısaca bunları basit fonksiyon mantığında düşün.
+        İlk seçenekteki doğrusal denklemi girdiyi değere dönüşterecek olan yolak olarak seç. Bu sayede doğrusal değer elde edebilirsin. Çünkü denklemin sonucu sadece a ve b değerlerine bağlı. a=4 ve b=0 yap. Bu sayede elde edilen her uyartı 4 ile çarpılıp değer olarak verilecek. Mesela 3 birim girdi alınca 12, 5 birim alınca 20 olarak değer vericek. Tabii ki bu sayılar tamamen farazi. Kısaca bunları basit fonksiyon mantığında düşün.
         
         Şimdi bu değerleri bu şekilde ayarladığın için ne zaman S1 miktarı fazla olursa o zaman yüzme kuvveti fazla, ne zaman S1 az olursa o zaman da yüzme kuvveti az olucak."</item>
         <item>"Fevkalade!
@@ -675,7 +675,7 @@
         Şimdi yüzücümüzü mikroskopta deniyelim. Sıcaklığı gözlemleye getir ve ilkinimiz, H1 olan nöroyuvarımızı petri kabına koy."</item>
         <item>"Şu anda ilkin nöroyuvarının iki hücreye bölündüğünü ama yüzeryuvarının hiç kıpırdamadığını görmüş olmalısın. Bunun sebebi şu anda S1 molekülü miktarın 0.
         
-        H1 nöroyuvarının biraz S1 üretmesi lazım. Nöroyuvarların sinyal molekülü üretmek için dört farklı girdisi, kompartımanı, kanalı vardır. Daha matematiksel olucaksak nöroyuvar maksimum dört farklı değişkene tanımlandırılabilir. Her bir kanal dört farklı sinyal molekülünden herhangi birini üretebilecek şekilde ayarlanabilir.
+        H1 nöroyuvarının biraz S1 üretmesi lazım. Nöroyuvarların sinyal molekülü üretmek için dört farklı kompartımanı, kanalı vardır. Daha matematiksel olucaksak nöroyuvar maksimum dört farklı değişkene tanımlandırılabilir. Her bir kanal dört farklı sinyal molekülünden herhangi birini üretebilecek şekilde ayarlanabilir.
         
         H1'in ayarlarına git ve en dibe bak. Bir çıktı ayarı listesi göreceksin. Bu ayarlar, aynı yüzüş kuvveti gibi, yine programlanabilir. Şimdilik sabit bir değer kullanacağız. İlk kanalı S1'e ayarla ve çıktı, molekül üretim miktarını, maksimuma çıkar.
         
