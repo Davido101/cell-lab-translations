@@ -133,7 +133,7 @@
     <string name="drag_red">"Kırmızılık: "</string>
     <string name="drag_split_angle">"Anne hücrenin bölüneceği açı: "</string>
     <string name="drag_split_mass">"Hücrenin bölüneceği kütle: "</string>
-    <string name="drag_stiffness">"Adhesin bağı kuvveti: "</string>
+    <string name="drag_stiffness">"Adhesin sertliği: "</string>
     <string name="drag_time_1">"Şu zaman içindeki gelişim: "</string>
     <string name="drag_time_2">" sa (maks 64 hücre)"</string>
     <string name="email_download_game_AT_url">şuradan</string>
@@ -195,7 +195,7 @@
     <string name="gene_editor_telomeres">Döllenmeden sonraki telomerler</string>
     <string name="gene_editor_telomeres_tip">Hücreler her bölündüğünde bir tane telomerlerini yok ederler. Eğer hiç teleomerleri kalmazsa ölürler. Bu sayı oluşacak zigotun telomer sayısını belirliyor.</string>
     <string name="gene_mode_prefix">H</string>
-    <string name="genome_editor_adhesin_stiffnes">Adhesin Kuvveti</string>
+    <string name="genome_editor_adhesin_stiffnes">Adhesin sertliği:</string>
     <string name="genome_editor_blue">Mavi:</string>
     <string name="genome_editor_button_load">Yükle</string>
     <string name="genome_editor_button_save">Kaydet</string>
@@ -211,7 +211,7 @@
     <string name="genome_editor_keep_adhesin">Adhesini koru:</string>
     <string name="genome_editor_make_adhesin">Adhesin yap:</string>
     <string name="genome_editor_mirror">Aynala:</string>
-    <string name="genome_editor_mode">Hücre:</string>
+    <string name="genome_editor_mode">Mod:</string>
     <string name="genome_editor_nutrient_priority">Besin önceliği:</string>
     <string name="genome_editor_red">Kırmızı:</string>
     <string name="genome_editor_secretion">Salgı türü:</string>
@@ -404,47 +404,63 @@ Unutma ki \"Yok\"tan başka herhangi bir ayar, pek çok cihazda renderlama hız�
     <string name="tip_split_angle"></string>
     <string name="tip_split_mass"></string>
     <string name="tip_split_ratio"></string>
-    <string name="tip_stay_alive"></string>
-    <string name="tip_stem_mode1"></string>
-    <string name="tip_stem_mode2"></string>
-    <string name="tip_stem_signal1"></string>
-    <string name="tip_stem_signal2"></string>
-    <string name="tip_stiffness"></string>
-    <string name="tip_swim_force"></string>
-    <string name="tip_title_adhesin"></string>
-    <string name="tip_title_blue"></string>
-    <string name="tip_title_cell_type"></string>
-    <string name="tip_title_child_1_angle"></string>
-    <string name="tip_title_child_1_mode"></string>
-    <string name="tip_title_child_2_angle"></string>
-    <string name="tip_title_child_2_mode"></string>
-    <string name="tip_title_edit_mode"></string>
-    <string name="tip_title_green"></string>
-    <string name="tip_title_intial_mode"></string>
-    <string name="tip_title_keep_adhesin_c1"></string>
-    <string name="tip_title_keep_adhesin_c2"></string>
-    <string name="tip_title_mirror_c1"></string>
-    <string name="tip_title_mirror_c2"></string>
-    <string name="tip_title_priority"></string>
-    <string name="tip_title_red"></string>
-    <string name="tip_title_slider"></string>
-    <string name="tip_title_snap"></string>
-    <string name="tip_title_split_angle"></string>
-    <string name="tip_title_split_mass"></string>
-    <string name="tip_title_split_ratio"></string>
-    <string name="tip_title_stay_alive"></string>
-    <string name="tip_title_stiffness"></string>
-    <string name="tip_type_selector"></string>
-    <string name="tip_virsus_from"></string>
-    <string name="toast_bad_name"></string>
-    <string name="toast_cell_type_limit_violation"></string>
-    <string name="toast_challenge_completed"></string>
-    <string name="toast_file_is_newer_version"></string>
-    <string name="toast_label_already_in_freeer"></string>
-    <string name="toast_loaded_new_genome"></string>
-    <string name="toast_name_exists"></string>
-    <string name="toast_no_cell_under_microscope"></string>
-    <string name="toast_no_email_clients"></string>
+    <string name="tip_stay_alive">Bu kutucuğa basıldığında, hücrenin sahip olduğu besin miktarı ne kadar azalmışsa o kadar artacak şekilde besin önceiliği verilir.
+    
+    Bu ayar, organizma içindeki düşük besin önceliğine sahip hücrelerin son besinlerini de verip ölmelerini engellemek için kullanılabilir.
+    
+    Ters olarak, eğer bir hücrenin organizma için artık işlevi kalmadıysa veya yok edilmesi gerekiyorsa bu ayarı devre dışı bırakmak onları aç bırakacak ve en nihayetinde öldürecektir. Ayar bunun için de kullanılabilir.</string>
+    <string name="tip_stem_mode1">Yolağa gönderilen sinyal 0.5'in üstüne çıktığı zaman kökyuvar yolak 1'deki hücre moduna dönüşecek.</string>
+    <string name="tip_stem_mode2">Yolağa gönderilen sinyal 0.5'in üstüne çıktığı zaman kökyuvar yolak 2'deki hücre moduna dönüşecek.</string>
+    <string name="tip_stem_signal1">Bu sinyal 0.5'in üstüne çıktığı zaman kökyuvar yolak 1'deki hücre moduna dönüşecek.</string>
+    <string name="tip_stem_signal2">Bu sinyal 0.5'in üstüne çıktığı zaman kökyuvar yolak 2'deki hücre moduna dönüşecek.</string>
+    <string name="tip_stiffness">Bu ayar ana hücre bölündüğünde oluşacak yavru hücreler arasındaki adhesin bağınının ne kadar kuvvetli ve sert olucağını belirler. Yüksek bir değer yavru hücreleri sıkı sıkı birbirine bağlarken düşük bir değer hücrelerin esnek bir şekilde serbestçe dolaşabilmesine izin verir.</string>
+    <string name="tip_swim_force">Bu ayar yüzeryuvarlara mahsusdur. Yüzeryuvarın ne kadar şiddetli yüzeceğini belirler. Daha hızlı hareket etmek daha fazla enerji harcamak demektir.</string>
+    <string name="tip_title_adhesin">İşaret kutusu: adhesin yap</string>
+    <string name="tip_title_blue">Bar: Mavi</string>
+    <string name="tip_title_cell_type">Seçim bölmesi: Hücre tipi</string>
+    <string name="tip_title_child_1_angle">Bar: Çocuk 1, açısı</string>
+    <string name="tip_title_child_1_mode">Seçim bölmesi: Çocuk 1, Mod</string>
+    <string name="tip_title_child_2_angle">Bar: Çocuk 2, açısı</string>
+    <string name="tip_title_child_2_mode">Seçim bölmesi: Çocuk 2, Mod</string>
+    <string name="tip_title_edit_mode">Seçim bölmesi: Düzenlenen hücre</string>
+    <string name="tip_title_green">Bar: Yeşil</string>
+    <string name="tip_title_intial_mode">Buton: İlkin</string>
+    <string name="tip_title_keep_adhesin_c1">İşaret kutusu: Çocuk 1, Adhesini koru</string>
+    <string name="tip_title_keep_adhesin_c2">İşaret kutusu: Çocuk 2, Adhesini koru</string>
+    <string name="tip_title_mirror_c1">İşaret kutusu: Çocuk 1, Aynala</string>
+    <string name="tip_title_mirror_c2">İşaret kutusu: Çocuk 2, Aynala</string>
+    <string name="tip_title_priority">Bar: Besin önceliği</string>
+    <string name="tip_title_red">Bar: Kırmızı</string>
+    <string name="tip_title_slider">Bar</string>
+    <string name="tip_title_snap">İşaret kutusu: Değerleri yuvarla</string>
+    <string name="tip_title_split_angle">Bar: Bölünme açısı</string>
+    <string name="tip_title_split_mass">Bar: Bölünme kütlesi</string>
+    <string name="tip_title_split_ratio">Bar: Bölünme oranı</string>
+    <string name="tip_title_stay_alive">İşaret kutusu: Öncele</string>
+    <string name="tip_title_stiffness">Bar: Adhesin sertliği</string>
+    <string name="tip_type_selector">Seçim bölmesi</string>
+    <string name="tip_virsus_from">"Bu ayar sadece virüs yuvarlara mahsus. Bu ayarı kullanarak virüsyuvarın hangi hücre modunu kurban hücreye kopyalayacağını seçebilirsin.
+    
+    Bir virüsyuvar kendi genomunu başka bir hücreye dokunaraktan ona kopyalayabilir. Burada seçilen hücre modunun ve onun iki neslinin genomunu kurban hücrenin genomundaki aynı hücre modlarının yerine kopyalar.
+    
+    Örnek: Virüsyuvar H5'i kopyalıyor. Virüsyuvarın genomundaki H5; H4 ve H3'e bölünsün. Bunlar da sırasıyla H2 ve H2; H1 ve H1'e bölünsün. Bu durumda:
+    Kurban hücrenin genomundaki H5 ve onun bölündüğü H4, H3 ve onların bölündüğü H2, H1; virüsyuvarın genomundakilerle değişecek.
+    Virüsyuvar → Kurban
+    M5 → M5
+    M4 → M4
+    M3 → M3
+    M2 → M2
+    M1 → M1
+    </string>
+    <string name="toast_bad_name">İlginç isim! Ama lütfen alfanümerik bir isim koy.</string>
+    <string name="toast_cell_type_limit_violation">Genom hücre tipi limit sınırlamalarını aşıyor. Lütfen \"Hedef\" menüsünü kontrol et.</string>
+    <string name="toast_challenge_completed">Mücadele tamamlandı!</string>
+    <string name="toast_file_is_newer_version">Dosya Cell Lab(Hücre Labı)'nın daha yeni bir sürümünde yapılmış. Lütfen uygulamanı güncelleştir.</string>
+    <string name="toast_label_already_in_freeer">Bu isimdeki bir örnek halihazırda dondurucuda. Farklı bir isim ver.</string>
+    <string name="toast_loaded_new_genome">Yeni genom yüklendi</string>
+    <string name="toast_name_exists">Bu isimde zaten bir genom var. Lütfen yeniden isimlendirin.</string>
+    <string name="toast_no_cell_under_microscope">Mikroskop alrında hiç hücre seçilmedi…</string>
+    <string name="toast_no_email_clients">Hiç e-posta programı yüklenmemiş.</string>
     <string name="toast_out_of_memory">Yeterli hafızan yok</string>
     <string name="toast_saved">Kaydedildi</string>
     <string name="toast_unknown_types_replaced"></string>
@@ -454,21 +470,21 @@ Unutma ki \"Yok\"tan başka herhangi bir ayar, pek çok cihazda renderlama hız�
     <string name="tool_info">Hücremetre</string>
     <string name="tool_move">Optik cımbız</string>
     <string name="tool_remove">Hücre yok edicisi</string>
-    <string name="tutorial_info"></string>
-    <string name="unlock_feature_more_genome_params"></string>
-    <string name="unlock_feature_more_params"></string>
-    <string name="unlock_feature_more_programmable_params"></string>
-    <string name="unlocks_before_feature"></string>
-    <string name="unlocks_further_challenges"></string>
+    <string name="tutorial_info">Pop-up'da çıkan açıklamaları takip et.</string>
+    <string name="unlock_feature_more_genome_params">daha fazla genom parametreleri.</string>
+    <string name="unlock_feature_more_params">daha fazla örnek parametreleri.</string>
+    <string name="unlock_feature_more_programmable_params">programlanabilir genom parametreleri.</string>
+    <string name="unlocks_before_feature">Kilidini açar:</string>
+    <string name="unlocks_further_challenges">" ve gelecek mücadeleler için"</string>
     <string name="val_dep_age">Hücre yaşı</string>
-    <string name="val_dep_connected"></string>
-    <string name="val_dep_mass">Hücrenin kütlesi</string>
-    <string name="val_dep_nitro_reserve"></string>
-    <string name="val_dialog_signal_substance_dependence"></string>
-    <string name="value_false"></string>
-    <string name="value_true"></string> 
-    <string name="video_link"></string>
-    <string name="videos_link"></string>
-    <string name="wallet_buy_button_place_holder"></string>
-    <string name="wiki_link"></string>
+    <string name="val_dep_connected">Adhesin bağlantısı #</string>
+    <string name="val_dep_mass">Hücre kütlesi</string>
+    <string name="val_dep_nitro_reserve">NH&lt;sub>&lt;small>3&lt;/small>&lt;/sub> rezervi [0–1]</string>
+    <string name="val_dialog_signal_substance_dependence">Hücre durumu bağlı</string>
+    <string name="value_false">Hayır</string>
+    <string name="value_true">Evet</string> 
+    <string name="video_link">&lt;a href=https://www.youtube.com/channel/UCKw7QHCr7XV2_NbrX3a1C4Q>YouTube&lt;/a></string>
+    <string name="videos_link">"&lt;a href=https://www.youtube.com/playlist?list=PLvFmZuOkX-KE4zYLhdNDBGZgXBexRjUvO>Bart Wisialowski'nin walkthrough videoları&lt;/a>"</string>
+    <string name="wallet_buy_button_place_holder">Google ile satın al</string>
+    <string name="wiki_link">&lt;a href=http://wiki.cell-lab.net>Wiki&lt;/a></string>
 </resources>
