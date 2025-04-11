@@ -378,32 +378,92 @@ Unutma ki \"Yok\"tan başka herhangi bir ayar, pek çok cihazda renderlama hız�
 \u0009- Birbirlerine besin aktarabilecekler.
     
     Bu bağın özelliklerini adhesin bağı kuvveti, besin önceliği ve aşağıdaki öncele kutusuyla ayarlanabilir.</string>
-    <string name="tip_blue">"Bu hücre modundaki hücrenin sahip olduğu rengin içindeki mavilik miktarını ayarlar. 
+    <string name="tip_blue">"Bu hücre modundaki hücrenin, sahip olduğu rengin içindeki mavilik miktarını ayarlar. 
     
     Bu ayarın değiştirilmesi hücrenin davranışlarını etkilemez."</string>
     <string name="tip_cell_type">Muhtemelen her hücre modundaki en önemli özellik bu, onların hangi hücre tipinde oldukları. Her hücre tipinin özelleşmiş olduğu sadece bir tane işlevi vardır. Bu şekilde bir organizma birçok işlevi yerine getirebilmek için birçok hücreye ihtiyaç duyar.&lt;br>&lt;br>Hücre tipleri ve bunları işlevleri şu şekildedir:&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Fagoyuvar&lt;/b>: Bu hücreler etraflarındaki besin öbekleriyle beslenerek kimyasal enerji elde edebilir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Yüzeryuvar&lt;/b>: Bu hücreler kamçıya sahiptir ve bu kamçıyı kullanarak kendilerini ileriye doğru itip hareket edebilir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Fotoyuvar&lt;/b>: Bu hücreler güneş ışığını kimyasal enerjiye çevirir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Dikenyuvar&lt;/b>: Bu hücreler başka hücrelere temas ettikleri taktirde onların besinlerini emer.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Yağyuvar&lt;/b>: Bu hücreler kimyasal enerjiyi yağ olarak depolayabilir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Duvaryuvar&lt;/b>: Bu hücreler kendilerini ve doğrudan temas ettikleri hücreleri kalın hücre duvarları sayesinde koruyabilir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Balonyuvar&lt;/b>: Bu hücrelerin içinde, içindeki sıvının yoğunlunluğu ayarlanabilen devasa bir koful vardır.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Yapışkanyuvar&lt;/b>: Bu hücreler çevreleriyle veya dokundukları diğer hücrelerle adhesin bağı yapabilir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Virüsyuvar&lt;/b>: Bu hücreler genomlarının kopyasını dokundukları hücrelere aktarabilir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Nitroyuvar&lt;/b>: Bu hücreler atmosferden azot yani N&lt;sub>&lt;small>2&lt;/small>&lt;/sub> alıp onu amonyak yani NH&lt;sub>&lt;small>3&lt;/small>&lt;/sub> gibi nitratlara dönüştürebilir. Buna azot bağlama denir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Kasyuvar&lt;/b>: Bunlar verilen sinyallerle kasılıp bükülebilen, diğer hücreleri kaldırıp indirebilen, onlara kaldırma kuvveti uygulayabilen kas hücreleridir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Nöroyuvar&lt;/b>: Bu hücreler sinyal moleküllerinin üretim miktarlarını manipüle edebilir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Alıcıyuvare&lt;/b>: Bu hücreler ortamda bulunan maddelerin miktarlarını algılayabilir ve buna göre sinyal üretebilir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Duyucuyuvar&lt;/b>: Bu hücreler sağlarındaki ve sollarındaki ortam maddelerin miktarlar farkını algılayabilir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Salgıyuvar&lt;/b>: Bu hücreler çevrelerine çeşitli salgıları salgılayabilirler.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Kökenyuvar&lt;/b>: Bu hücreler belirli bir sinyal molekülün eşiği aşıldığında, genomdaki diğer hücre modlarına dönüşebilir.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Gametyuvar&lt;/b>: Bu hücreler diğer uygun gametlerle birleşip yeni hücreler oluşturabilir. Oluşan yeni hücrelerin genomları onları oluşturan iki gametin genomlarının rasgele kombinasyonundan oluşacaktır.&lt;br>&lt;br>&lt;b>&lt;font color=#BFF79D>Terliksiyuvar&lt;/b>: Bu hücreler sillerle kaplıdır. Bu nedenle tutundukları şeyler kolay kolay kayıp gitmez. Sağlarındaki ve sollarındaki sillerini bağımsız olarak hareket ettirebilirler.</string>
-    <string name="tip_child_1_angle"></string>
-    <string name="tip_child_1_mdoe"></string>
-    <string name="tip_child_2_angle"></string>
-    <string name="tip_child_2_mode"></string>
-    <string name="tip_density"></string>
-    <string name="tip_edit_mode"></string>
-    <string name="tip_green"></string>
-    <string name="tip_initial_mode"></string>
-    <string name="tip_keep_adhesin_c1"></string>
-    <string name="tip_keep_adhesin_c2"></string>
-    <string name="tip_mirror_c1"></string>
-    <string name="tip_mirror_c2"></string>
-    <string name="tip_muscle_bending"></string>
-    <string name="tip_muscle_contraction"></string>
-    <string name="tip_muscle_lift"></string>
-    <string name="tip_priority"></string>
-    <string name="tip_red"></string>
-    <string name="tip_secrocyte"></string>
-    <string name="tip_snap"></string>
-    <string name="tip_split_angle"></string>
-    <string name="tip_split_mass"></string>
-    <string name="tip_split_ratio"></string>
+    <string name="tip_child_1_angle">"Bu bar sayesinde bölünmeden sonra oluşacak yavru 1'in hangi yöne bakacağını ayarlayabilirsin. Her hücrenin üzerindeki ok, onların nereye doğru dönük olduğunu gösteriyor.
+    
+    0° bir açı yavru 1'in yavru 2'ye doğru baktığı anlamına geliyor. Bu bardaki değeri arttırmak, yavru 1'in saat yönünün tersinde dönmesine sebep olucaktır ama eğer aynalanmışsa tam tersi yönde, saat yönünde dönecektir."</string>
+    <string name="tip_child_1_mdoe">"Buradan hücre bölündüğünde yavru 1'in hangi hücre modunda olucağı belirlenebilir.
+    
+    Her hücre 40 hücre modundan biri olabilir. Her hücre modunu ayrı olarak düzenleyebilirsin. Buradaki iki ayarlanabilir değer yavru hücrelerin hangi hücre modlarında olacağını belirliyor.
+    
+    Eğer ilk hücren H1 hücre modunda ise ve bölündüğünde oluşacak olan yavru hücreler de H1 ise o zaman hücrelerin bölündüğünde sadece H1 elde edeceksin. Diğer taraftan eğer ilk hücren H2'lere bölünüyorsa ve bu H2'lerde geri H1'e bölünüyorsa bu sefer sadece H1 ve H2 hücre modlarını elde edeceksin. Bunun için sadece elde edeceğin hücrelerin özelliklerini ayarlaman yeterli. Çünkü sadece bunları elde edeceksin.
+    
+    Hücre modlarının özelliklerini ayarladığın zaman bu özellikler hücrelerin genomlarında jenerasyonlar boyunca aktarılacaktır. Kullanmadığın bir hücre modunun özellikleri bile buna dahil. Bu yüzden hafif radyasyona sahip bir ortamda hücrelerin gelişirse bir süre sonra, bu kullanılmayan hücre modları en nihayetinde genomdaki kodlar olmaktan çıkıp, görünür şekilde gün yüzüne çıkacaktır. Bu doğada da oluyor, örneğin: İnsanların üretmediği ama insan genomunda bulunan proteğin kodları bazen gün yüzüne bu şekillerde çıkabiliyor."</string>
+    <string name="tip_child_2_angle">"Bu bar sayesinde, ana hücrenin bölünmesinden sonra oluşacak yavru 2'nin hangi yöne bakacağını ayarlayabilirsin.
+    
+    0° bir açı yavru 2'nin yavru 1'den uzağa doğru baktığı anlamına geliyor. Bu bardaki değeri arttırmak, yavru 1'in saat yönünün tersinde dönmesine sebep olucaktır ama eğer aynalanmışsa tam tersi yönde, saat yönünde dönecektir."</string>
+    <string name="tip_child_2_mode">"Buradan hücre bölündüğünde yavru 2'nin hangi hücre modunda olucağı belirlenebilir.
+    
+    Her hücre 40 hücre modundan biri olabilir. Her hücre modunu ayrı olarak düzenleyebilirsin. Buradaki iki ayarlanabilir değer yavru hücrelerin hangi hücre modlarında olacağını belirliyor.
+    
+    Eğer ilk hücren H1 hücre modunda ise ve bölündüğünde oluşacak olan yavru hücreler de H1 ise o zaman hücrelerin bölündüğünde sadece H1 elde edeceksin. Diğer taraftan eğer ilk hücren H2'lere bölünüyorsa ve bu H2'lerde geri H1'e bölünüyorsa bu sefer sadece H1 ve H2 hücre modlarını elde edeceksin. Bunun için sadece elde edeceğin hücrelerin özelliklerini ayarlaman yeterli. Çünkü sadece bunları elde edeceksin.
+    
+    Hücre modlarının özelliklerini ayarladığın zaman bu özellikler hücrelerin genomlarında jenerasyonlar boyunca aktarılacaktır. Kullanmadığın bir hücre modunun özellikleri bile buna dahil. Bu yüzden hafif radyasyona sahip bir ortamda hücrelerin gelişirse bir süre sonra, bu kullanılmayan hücre modları en nihayetinde genomdaki kodlar olmaktan çıkıp, görünür şekilde gün yüzüne çıkacaktır. Bu doğada da oluyor, örneğin: İnsanların üretmediği ama insan genomunda bulunan proteğin kodları bazen gün yüzüne bu şekillerde çıkabiliyor."</string>
+    <string name="tip_density">"Bu ayar sadece balonyuvarlar içindir. Bu ayar sayesinde hücrenin yoğunluğu ayarlanabilir. Bu ayar sayesinde hücrenin batacağını mı yoksa yüzeceğini mi, ortamın yoğunluğuna bağlı olucak şekilde ayarlanabilir(Eğer ortamda yer çekimi varsa).
+    
+    Unutma, hücrenin veya oranizmanın toplam kütlesi buna etki etmez."</string>
+    <string name="tip_edit_mode">"İnsan vücudundaki her hücre aynı DNA'yı yani aynı genomu taşırken kas hücreleri, kan hücreleri ve beyindeki nöronların hepsi farklı davranıyor. Bunun sebebi, bu uygulamadaki \"Hücre modları\" dediğimiz bir özellikten kaynaklanıyor. Genom düzenleyicisindeki her hücre, kendi genomunda 40 farklı hücre modunu bulunduruyor. Bu seçim bölmesini kullanarak hangi hücre modunu düzenleyeceğini seçebilirsin. Aşağıdaki özelliklerin ve ayarların hepsi burada seçilen hücre moduna ait.
+    
+    \"İlkin\" isimli buton sayesinde hangi hücrenin başlangıç kabul edileceği ayarlanabilir."</string>
+    <string name="tip_green">"Bu hücre modundaki hücrenin, sahip olduğu rengin içindeki yeşillik miktarını ayarlar. 
+    
+    Bu ayarın değiştirilmesi hücrenin davranışlarını etkilemez."</string>
+    <string name="tip_initial_mode">"Bu butona basmak hücreni \"İlkin\" haline getirir.
+    
+    Vahşi doğada organizmalar için hangi hücrenin ilkin olduğunun bir önemi yok. İlkin hücre demek sadece mikroskopta hangi hücre modunun ilk önce koyulacağını veya öngörü ekranında hangi hücrenin baş olarak takip edilceği demektir. Sadece bir hücreyi ilkin yapabilirsin zira sadece bir \"İlk\" olabilir.
+    
+    Ne zaman mikroskoptan bir genom kopyalınırsa (üstteki \"Yükle\"-buutonu), genom düzenleyicisi genomun kopyalandığı hücre modunu ikin olarak alacaktır."</string>
+    <string name="tip_keep_adhesin_c1">"Bu kutucuk işaretlendiğinde, eğer bu hücre bölünmeden önce başka bir hücreye adhesin bağı ile bağlıysa yavru hücrelere bölündüğünde yavru 1, bu adhesin bağını koruyacaktır.
+    
+    Dikkat et, bunun işe yaraması için yavru 1'in adhesin bağının olduğu tarafta olması lazım."</string>
+    <string name="tip_keep_adhesin_c2">"Bu kutucuk işaretlendiğinde, eğer bu hücre bölünmeden önce başka bir hücreye adhesin bağı ile bağlıysa yavru hücrelere bölündüğünde yavru 2, bu adhesin bağını koruyacaktır.
+    
+    Dikkat et, bunun işe yaraması için yavru 2'nin adhesin bağının olduğu tarafta olması lazım."</string>
+    <string name="tip_mirror_c1">"Bu kutu işaretlendiğinde yavru 1, ana hücresinin, aynı bir aynada olduğu gibi, simetrik tersi olucaktır.
+    
+    Vasayılan olarak her rotasyonsal değer saat yönünün tersindedir ancak bir hücre aynalandığında her değer (bölünme açısı, çocuk 1'in açısı, çocuk 2'nin açısı) saat yönünde belirlenir.
+        
+    Bu özellik fazla zorluk çıkarmadan simetrik organizmalar yapmak için kullanılabilir."</string>
+    <string name="tip_mirror_c2">"Bu kutu işaretlendiğinde yavru 2, ana hücresinin, aynı bir aynada olduğu gibi, simetrik tersi olucaktır.
+    
+    Vasayılan olarak her rotasyonsal değer saat yönünün tersindedir ancak bir hücre aynalandığında her değer (bölünme açısı, çocuk 1'in açısı, çocuk 2'nin açısı) saat yönünde belirlenir.
+        
+    Bu özellik fazla zorluk çıkarmadan simetrik organizmalar yapmak için kullanılabilir."</string>
+    <string name="tip_muscle_bending">"Kas bükülmesi, kas bükülerekten önündeki ve arkasındaki adhesin bağlarını sağ veya sola doğru kıvırmasını sağlar."</string>
+    <string name="tip_muscle_contraction">"Kas kasılması, kas kasılaraktan kasın önündeki ve arkasındaki adhesin bağlarını merkezine doğru ekmesini veya ondan uzağa itmesini sağlar."</string>
+    <string name="tip_muscle_lift">"Kas kaldırması, kas adhesin bağlarını kullanarak önündeki ya da arkasındaki hücreyi havaya doğru kaldırır. Bu şekilde petri kabının yüzeyindeki sürtünmeden bu hücrelerin etkilenmesini önler."</string>
+    <string name="tip_priority">"Adhesin bağı ile bağlanmış hücreler kendi aralarında besin alışverişi yapabilirler. Bu besin akışı bu iki hücrenin kütle farklarıyla doğru orantılıdır. Bu yüzden ağır olan hücrelerden hafif, dolayısıyla da zayıf hücrelere tersi yönden daha fazla besin akar.
+    
+    Bu şekilde besin ve kütle eşitliği sağlanmaya çalışılır. Besin önceliği sayesinde bu akış kontrol ayarlanabilir. Besin önceliği daha fazla olan hücreler daha çok öncelenecek ve daha fazla besin aktarılacaktır."</string>
+    <string name="tip_red">"Bu hücre modundaki hücrenin, sahip olduğu rengin içindeki kırmızılık miktarını ayarlar. 
+    
+    Bu ayarın değiştirilmesi hücrenin davranışlarını etkilemez."</string>
+    <string name="tip_secrocyte">"Bu ayar sadece salgıyuvara özgüdür. 
+    
+    Besin/korunmalı besin kokosu, ışık/duvar algılayıcı aktivatör yakındaki duyucuyuvar ve alıcıyuvar tarafından algılanacaktır. Salgıyuvarlar özel olarak bu salgıları salgılayacak ve bu salgılar duyucuyuvar ve alıcı yuvarın reseptörlerine tutunacaktır bu şekilde bu hücreler doğadan topladıkları sinyallere göre daha sert uyarılacaklardır.
+    
+    HCN yani siyanür, korunmayan hücrelere dokunulması halinde onları öldürecektir.
+    
+    Lipaz, besin öbeklerindeki yağ kaplamasını eritebilir, bu sayede onları fagoyuvarlar tarafından tüketilmeye açık hale getirebilir. Bu enzim aynı zamanda duvaryuvar hariç diğer bütün hücrelere de zarar verebilir çünkü onların yağdan yapılma hücre zarlarını da eritebir.
+    
+    Proteaz, eş zamanlı olarak dokunduğu iki hücre arasındaki adhesin bağlarını kırar.
+    
+    Sinyal molekülleri dokunulma halinde difüzyonla hücrenin içine giricektir."</string>
+    <string name="tip_snap">Bütün değerleri 25'in katı, açıları ise 15°nin katı olucak şekilde sabitler. Süreğen şekilde ara değerlere de ulaşılmak isteniyorsa bu kutucuk işaretlenmemelidir.</string>
+    <string name="tip_split_angle">"Bu ayar sayesinde hücrenin hangi açıda bölüneceği ayarlanabilir. Öngösterim ekranında, hücrenin ortasından geçen noktalı çizgi aracılığıyla hangi açıyla bölüneceği görülebilir.
+    
+    Okla gösterilen, her hücrenin baktığı spesifik bir yön vardır. İlkin hücre her zaman varsayılan olarak sağa bakar. Bu hem öngösterim ekranında hem de mikroskopa koyarken böyledir. 0°lik bir bölünme açısı bu hücrenin dik şekilde yavru 1 arkada, yavru 2 ise önde olacak şekilde bölünmesi demektir.
+    
+    Bölünme açısını arttırmak bölünme çizgisi saaat yönünün tersi yönde, tabii eğer aynalanmamışsa o zaman saat yönünde, döndürecektir."</string>
+    <string name="tip_split_mass">"Her hücrenin kütlesi ne kadar kimyasal enerjiye sahip olduklarına bağlıdır. Hücreler daha fazla enerji elde ettiklerinde büyür, aksi taktirde sahip oldukları enerjiyi tüketir bu yüzdende zamanla küçülür ve büzülürler.
+    
+    Ne zaman bir hücrenin kütlesi, bölünme kütlesini aşarsa işte o vakit o hücre iki yavru hücreye bölünür.
+    
+    Bir hücre doğduktan sonra en az 30 dk olamdan bölünemez. Bu yüzden hücreler, eğer bölünme kütlesine henüz daha bu kadar zaman geçmemişken erişirlerse önce bu vakit dolmadan bölünemezler."</string>
+    <string name="tip_split_ratio">Bölünme oranı, hücre bölündüğünde kütlesi hangi oranda yavru hücreler arasında dağıtılacağını belirler.</string>
     <string name="tip_stay_alive">Bu kutucuğa basıldığında, hücrenin sahip olduğu besin miktarı ne kadar azalmışsa o kadar artacak şekilde besin önceiliği verilir.
     
     Bu ayar, organizma içindeki düşük besin önceliğine sahip hücrelerin son besinlerini de verip ölmelerini engellemek için kullanılabilir.
