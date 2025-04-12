@@ -19,7 +19,10 @@
     <string name="about_acknowledgements">Teşekkürler</string>
     <string name="about_rate_button">Bize puan ver!</string>
     <string name="about_text">"Oyunun yapımcısı Petter Säterskog.
-        Bölümler Alast, bwisialo, Nayus ve Petter tarafından tasarlandı. Çeviren Oğuz Kaan Uçar.
+        Türkçeye çeviren:
+        Oğuz Kaan Uçar
+        İletişim adresi: og16kaan@hotmail.com
+        Bölümler Alast, bwisialo, Nayus ve Petter tarafından tasarlandı. 
         Bir yerde takılman halinde:"</string>
     <string name="about_version_text">Versiyon</string>
     <string name="accept">Kabul</string>
