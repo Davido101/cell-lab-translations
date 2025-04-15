@@ -64,9 +64,9 @@
     <string name="cell_info_telomeres">"Telomerler: "</string>
     <string name="cell_info_toxins">Toksinler: %.2f</string>
     <string name="cell_info_type">"Tip: "</string>
-    <string name="chalenges_finish_first_1">Mücadeleyi bitir</string>
+    <string name="chalenges_finish_first_1">Önce mücadele</string>
     <string name="challenges_challenge_not_completed">Mücadele tamamlanmadı.</string>
-    <string name="challenges_finish_first_2">Birinci.</string>
+    <string name="challenges_finish_first_2">'i tamamla.</string>
     <string name="challenges_unlocks">" Yeni gen açıldı</string>
     <string name="common_android_wear_notification_needs_update_text">Bir uygulama, Android Wear uygulamasında güncelleme yapılmasını gerektiriyor.</string>
     <string name="common_android_wear_update_text">Android Wear uygulaması güncelleninceye kadar bu uygulama çalışmayacak.</string>
