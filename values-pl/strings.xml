@@ -534,5 +534,5 @@ T2 → T2
     <string name="value_true">Tak</string>
     <string name="video_link">&lt;a href=https://www.youtube.com/channel/UCKw7QHCr7XV2_NbrX3a1C4Q>YouTube&lt;/a></string>
     <string name="videos_link">&lt;a href=https://www.youtube.com/playlist?list=PLvFmZuOkX-KE4zYLhdNDBGZgXBexRjUvO>Rozwiązania (YouTube): Bart Wisialowski&lt;/a></string>
-    <string name="wiki_link">&lt;a href=http://wiki.cell-lab.net>Wiki&lt;/a></string>
+    <string name="wiki_link">&lt;a href=https://cell-lab.fandom.com>Wiki&lt;/a></string>
 </resources>
