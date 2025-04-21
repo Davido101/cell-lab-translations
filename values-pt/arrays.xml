@@ -78,6 +78,22 @@
         <item>Microscópio</item>
         <item>Genoma</item>
     </string-array>
+<string-array name="language_ids">
+        <item>en</item>
+        <item>es</item>
+        <item>ko</item>
+        <item>pl</item>
+        <item>ru</item>
+        <item>pt/br</item>
+    </string-array>
+    <string-array name="language_names">
+        <item>English</item>
+        <item>Español</item>
+        <item>한반도 공용어</item>
+        <item>Polski</item>
+        <item>Русский</item>
+        <item>Português Brasil</item>
+    </string-array>
     <string-array name="level_strings">
         <item>Tutorial 1</item>
         <item>Introdução ao microscópio</item>
