@@ -7,12 +7,6 @@
         <item>3 x 3 Super amostragem</item>
         <item>4 x 4 Super amostragem</item>
     </string-array>
-    <string-array name="aa_modes">
-        <item>Sem alterações</item>
-        <item>1.5</item>
-        <item>2.0</item>
-        <item>3.0</item>
-        <item>4.0</item>
     <string-array name="cell_type_abbreviations">
         <item>Fg</item>
         <item>Fl</item>
@@ -77,22 +71,6 @@
         <item>Objetivo</item>
         <item>Microscópio</item>
         <item>Genoma</item>
-    </string-array>
-<string-array name="language_ids">
-        <item>en</item>
-        <item>es</item>
-        <item>ko</item>
-        <item>pl</item>
-        <item>ru</item>
-        <item>pt/br</item>
-    </string-array>
-    <string-array name="language_names">
-        <item>English</item>
-        <item>Español</item>
-        <item>한반도 공용어</item>
-        <item>Polski</item>
-        <item>Русский</item>
-        <item>Português Brasil</item>
     </string-array>
     <string-array name="level_strings">
         <item>Tutorial 1</item>
@@ -416,19 +394,19 @@ Agora inicie a simulação e você deverá ter algumas células se multiplicando
         <item></item>
     </string-array>
     <string-array name="log_interval_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Sem histórico</item>
+        <item>A cada 12 min</item>
+        <item>A cada 1 h</item>
+        <item>A cada 5 h</item>
+        <item>A cada 25 h</item>
+        <item>A cada 125 h</item>
+        <item>A cada 625 h</item>
     </string-array>
     <string-array name="modes">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Congelar</item>
+        <item>Observar</item>
+        <item>Incubar</item>
+        <item>Observar Lentamente</item>
     </string-array>
     <string-array name="play_tabs">
         <item></item>
