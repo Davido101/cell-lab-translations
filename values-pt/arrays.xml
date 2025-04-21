@@ -409,13 +409,21 @@ Agora inicie a simulação e você deverá ter algumas células se multiplicando
         <item>Observar Lentamente</item>
     </string-array>
     <string-array name="play_tabs">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Objetivo</item>
+        <item>Microscópio</item>
+        <item>Genoma</item>
     </string-array>
     <string-array name="tut_text_1">
-        <item></item>
-        <item></item>
+        <item>"Dois tutoriais são dados para te familiarizar com o nosso equipamento de laboratório. Procedimentos de segurança ficarão para outro dia.
+
+Esse primeiro tutorial vai te ensinar à como usar o nosso microscópio.
+
+Começe indo para o microscópio."</item>
+        <item>"Bom trabalho!
+
+O que você está vendo é uma Placa de Petri que preparamos para você.
+
+</item>
         <item></item>
         <item></item>
         <item></item>
