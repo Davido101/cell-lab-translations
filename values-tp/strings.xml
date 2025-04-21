@@ -25,13 +25,13 @@
     <string name="advanced_settings_radius">suli pi tomo sike [mm]:</string>
     <string name="advances_settings_food_count">nanpa moku ken:</string>
     <string name="button_refresh"></string>
-    <string name="cell_info_S_production">" "</string>
+    <string name="cell_info_S_production"></string>
     <string name="cell_info_active_mode"></string>
-    <string name="cell_info_age"></string>
+    <string name="cell_info_age">tenpo: %.2f h</string>
     <string name="cell_info_density"></string>
-    <string name="cell_info_diameter"></string>
-    <string name="cell_info_injury"></string>
-    <string name="cell_info_lift"></string>
+    <string name="cell_info_diameter">suli: %.1f μm</string>
+    <string name="cell_info_injury">pakala: %.0f%%</string>
+    <string name="cell_info_lift">wawa sewi: %.2f</string>
     <string name="cell_info_lipids"></string>
     <string name="cell_info_mass"></string>
     <string name="cell_info_mirrored"></string>
@@ -39,7 +39,7 @@
     <string name="cell_info_nitro"></string>
     <string name="cell_info_select"></string>
     <string name="cell_info_speed"></string>
-    <string name="cell_info_swim_force"></string>
+    <string name="cell_info_swim_force">wawa tawa: %.2f&amp;times;10&lt;sup>&lt;small>-21&lt;/small>&lt;/sup> N</string>
     <string name="cell_info_tag"></string>
     <string name="cell_info_tag_challenge"></string>
     <string name="cell_info_tag_contaminate"></string>
