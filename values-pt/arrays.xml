@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aa_mode_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Sem alterações</item>
+        <item>1.5 x 1.5 Super amostragem</item>
+        <item>2 x 2 Super amostragem</item>
+        <item>3 x 3 Super amostragem</item>
+        <item>4 x 4 Super amostragem</item>
     </string-array>
     <string-array name="cell_type_abbreviations">
         <item>Fg</item>
@@ -394,33 +394,63 @@ Agora inicie a simulação e você deverá ter algumas células se multiplicando
         <item></item>
     </string-array>
     <string-array name="log_interval_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Sem histórico</item>
+        <item>A cada 12 min</item>
+        <item>A cada 1 h</item>
+        <item>A cada 5 h</item>
+        <item>A cada 25 h</item>
+        <item>A cada 125 h</item>
+        <item>A cada 625 h</item>
     </string-array>
     <string-array name="modes">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Congelar</item>
+        <item>Observar</item>
+        <item>Incubar</item>
+        <item>Observar Lentamente</item>
     </string-array>
     <string-array name="play_tabs">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Objetivo</item>
+        <item>Microscópio</item>
+        <item>Genoma</item>
     </string-array>
     <string-array name="tut_text_1">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>"Dois tutoriais são dados para te familiarizar com o nosso equipamento de laboratório. Procedimentos de segurança ficarão para outro dia.
+
+Esse primeiro tutorial vai te ensinar à como usar o nosso microscópio.
+
+Começe indo para o microscópio."</item>
+        <item>"Bom trabalho!
+
+O que você está vendo é uma Placa de Petri que preparamos para você.
+
+Para ampliar com o microscópio faça o movimento inverso de pinçada com os dois dedos.
+
+Por favor amplie mais para 300×."</item>
+        <item>"Ótimo!
+
+Agora mova o substrato para que possamos olhar para a área mais clara na parte superior da Placa de Petri onde a luz solar é visível. Amplie até que essa área cubra a tela.
+
+Deslize com um dedo para mover o substrato."</item>
+        <item>"Vejo que já usou um microscópio antes!
+
+Esse microscópio é equipado com um micromanipulador. Um de seus usos é inserir células do nosso laboratório de genética no substrato.
+
+Você consegue inserir uma de nossas células recente desenvolvidas na área com sol?
+
+Toque onde você que inserir a célula."</item>
+        <item>"Não tão forte!
+
+Nosso microscópio também possui um sistema para o controle da temperatura do substrato. Aumente a temperatura para a configuração \"Observar\" onde as células vivem mas se movem lentamente.
+
+A configuração de temperatura pode ser escolhida no seletor no canto direito."</item>
+        <item>"Agora você deve estar vendo células se multiplicarem, se não insira mais algumas na área mais clara.
+
+Nós queremos Incubar o substrato por um tempinho para que nossas células atinjam um equilíbrio.
+
+Aumente a temperatura para a configuração \"Incubar\"."</item>
+        <item>"Agora você deve ter um monte de células!
+
+Isso faz com que fique complicado para prestar atenção nelas, mas por sorte o microscópio tem um </item>
         <item></item>
         <item></item>
         <item></item>
