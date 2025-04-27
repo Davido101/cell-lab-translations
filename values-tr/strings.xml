@@ -38,7 +38,7 @@
     <string name="app_name">Hücre Labı</string>
     <string name="button_more">…</string>
     <string name="button_refresh">Yenile</string>
-    <string name="cell_info_S_production">" üretim: %.1f "</string>
+    <string name="cell_info_S_production">"%1$s üretim: %2$.1f "</string>
     <string name="cell_info_active_mode">"Aktif Hücre: "</string>
     <string name="cell_info_age">Yaş: %.2f sa</string>
     <string name="cell_info_density">"Yoğunluk: "</string>
