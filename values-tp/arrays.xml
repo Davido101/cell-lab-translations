@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aa_mode_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>ala</item>
+        <item>1.5 × 1.5</item>
+        <item>2 × 2</item>
+        <item>3 × 3</item>
+        <item>4 × 4</item>
     </string-array>
     <string-array name="cell_type_abbreviations">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Mk</item>
+        <item>Tw</item>
+        <item>Su</item>
+        <item>Ut</item>
+        <item>Sl</item>
+        <item>Kw</item>
+        <item>Sw</item>
+        <item>Ko</item>
+        <item>An</item>
+        <item>Kn</item>
+        <item>Pk</item>
+        <item>Pl</item>
+        <item>Lk</item>
+        <item>So</item>
+        <item>Pa</item>
+        <item>Pi</item>
+        <item>Mm</item>
+        <item>Sp</item>
     </string-array>
     <string-array name="cell_type_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>sike moku</item>
+        <item>sike tawa</item>
+        <item>sike suno</item>
+        <item>sike utala</item>
+        <item>sike suli</item>
+        <item>sike kiwen</item>
+        <item>sike sewi</item>
+        <item>sike ko</item>
+        <item>sike ante</item>
+        <item>sike kon</item>
+        <item>sike poka</item>
+        <item>sike pilin</item>
+        <item>sike luka</item>
+        <item>sike sona</item>
+        <item>sike pana</item>
+        <item>sike pini</item>
+        <item>sike mama</item>
+        <item>sike sinpin</item>
     </string-array>
     <string-array name="cell_type_names_plural">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>nanpa pi sike moku</item>
+        <item>nanpa pi sike tawa</item>
+        <item>nanpa pi sike suno</item>
+        <item>nanpa pi sike utala</item>
+        <item>nanpa pi sike suli</item>
+        <item>nanpa pi sike kiwen</item>
+        <item>nanpa pi sike sewi</item>
+        <item>nanpa pi sike ko</item>
+        <item>nanpa pi sike ante</item>
+        <item>nanpa pi sike kon</item>
+        <item>nanpa pi sike poka</item>
+        <item>nanpa pi sike pilin</item>
+        <item>nanpa pi sike luka</item>
+        <item>nanpa pi sike sona</item>
+        <item>nanpa pi sike pana</item>
+        <item>nanpa pi sike pini</item>
+        <item>nanpa pi sike mama</item>
+        <item>nanpa pi sike sinpin</item>
     </string-array>
     <string-array name="challenge_tabs">
-        <item></item>
-        <item></item>
+        <item>nasin</item>
+        <item>ilo pi lukin lili</item>
         <item></item>
     </string-array>
     <string-array name="level_strings">
@@ -419,20 +419,20 @@
         <item></item>
     </string-array>
     <string-array name="tut_title_1">
+        <item>o kama pona lon musi Cell Lab</item>
+        <item>lili anu suli e lukin</item>
+        <item>tawa e lukin</item>
+        <item>pali lili</item>
+        <item>seli anu lete</item>
+        <item>seli mute</item>
+        <item>lukin e sike</item>
         <item></item>
         <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>moli e ale</item>
+        <item>pona a!</item>
     </string-array>
     <string-array name="tut_title_2">
-        <item></item>
+        <item>o kama pona!</item>
         <item></item>
         <item></item>
         <item></item>
