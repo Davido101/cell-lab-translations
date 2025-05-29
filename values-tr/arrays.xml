@@ -75,243 +75,247 @@
     <string-array name="level_strings">
         <item>Öğretici I</item>
         <item>Mikroskopu Tanıyalım</item>
+        <item>Mikroskoba Giriş</item>
         <item></item>
         <item></item>
         <item>Öğretici II</item>
-        <item>Genom Düzenleyicisini Tanıyalım</item>
+        <item>Genom Düzenleyicisine Giriş</item>
         <item></item>
         <item></item>
-        <item>Alg</item>
-        <item>"Genom düzenleyicisini kullanarak bu mücadele ortamında hayatta kalabilen bir tür yarat.
+        <item>Algler</item>
+        <item>"Genom düzenleyicisini kullanarak bu ortamda hayatta kalabilen bir tür yaratın.
         
-        Hazır olduğunda mikroskopta görünen petri kabının içine hücreni koy. Ardından dondurmayı kaldır ki hücrelerini hareket ederken görebilesin.
-        Bu mücadeleyi tamamlamak için 100 canlı hücreye ihtiyacın var."</item>
-        <item>"Varsayılan hücren bu mücadeleyi tamamlamak için yeterli olucaktır. Bütün hücreler hayatta kalabilmek için enerjiye ihtiyaç duyarlar. Fotoyuvarlar ihtiyaçları duydukları bu enerjiyi güneş ışığından alırlar.
+Hazır olduğunuzda, petri kabının içine hücrenizi koyun ve canlı olup olmadığını görmeniz için petri kabını çözün.
+Bu mücadeleyi tamamlamak için 100 canlı hücre gerekir."</item>
+        <item>"Varsayılan hücre bu mücadeleyi tamamlamak için yeterli olacaktır. Bütün hücreler hayatta kalabilmek için enerjiye ihtiyaç duyarlar ve bu mücadeledeki Fotoyuvarlar enerjilerini güneş ışığından alırlar.
         
-        Güneş ışığını petri kabının üstündeki o parlak alandan görebilirsin."</item>
-        <item>Petri kabının üst kısmındaki güneş ışığı alan alana bir tane varsayılan hücrenden koy. Ardından sıcaklığı gözlemleye getir.</item>
-        <item>Alg II</item>
-        <item>"Bu seferki hedefiniz en az 150 hücreye kadar üreyebilen bir canlı türü yapmak. Bunu geçen seferkiyle aynı özelliklere sahip bu petri kabında yapıcaksınız.
+Güneş ışığı petri kabının üst kısmındaki parlak alana düşer."</item>
+        <item>Petri kabının üst kısmındaki parlak alana bir varsayılan hücre koy ve sıcaklığı gözlemlemeye getir.</item>
+        <item>Algler II</item>
+        <item>"Şimdiki hedefiniz, önceki mücadeledekiyle aynı olan bu petri kabında en az 150 hücreye kadar üreyebilen bir tür yaratmak.
         
-        Oyunda ilermek istiyorsanız her mücadeleyi yapmak zorunda değilsiniz. Bazı mücadeleler oyunda ilermek için gerekli değil. Bu mücadele de onlardan biri. Eğer size zor gelirse bu mücadeleyi sonra da yapabilirsiniz.</item>
-        <item>Daha küçük hücreler daha yüksek sayılara ulaşmaya meğillidir. Bölünme kütlesi özelliği ile oynamak mücadeleyi tamamlamaya yardımcı olabilir."</item>
+Oyunda ilermek için her mücadeleyi tamamlamak zorunda değilsiniz. Eğer şu an size zor geldiyse bu mücadeleyi daha sonra da yapabilirsiniz.</item>
+        <item>Daha küçük hücreler, genelde daha yüksek sayılara ulaşırlar. Bölünme kütlesi özelliğini değiştirmek mücadeleyi tamamlamanıza yardımcı olabilir."</item>
         <item></item>
-        <item>Alg III</item>
-        <item>Bu petri kabınının viskozitesi öncekilere göre daha az. Böyle bir ortamda hayatta kalabilecek bir tür tasarlayabilir misin? </item>
-        <item>Genom düzenleyicisin adhesin yapabiliyor olması onun çok işe yarar bir özelliğidir!</item>
+        <item>Algler III</item>
+        <item>Bu petri kabınının viskozitesi öncekilere göre daha az. Böyle bir ortamda hayatta kalabilecek bir tür yaratabilir misiniz? </item>
+        <item>Genom düzenleyicindeki Adezin yapabilir özelliği çok işe yarar bir özelliktir!</item>
         <item></item>
         <item>Makrofajlar</item>
-        <item>"Artık yeni bir hücre tipini kullanabilirsin: Fagoyuvar. Fagoyuvarlar, petri kabının üzerinde gördüğün küçük kahverengi noktaları fagositoz ile yiyebilirler, bunlardan elde ettikleri enerji ile de büyüyebilirler. Bu noktaları bir hücre öldüğünde de ortaya çıkarken görmüş olabilirsin. Bunun sebebi bu kahverengi noktaların aslında besin parçaları olmasıdır..
+        <item>"Artık başka bir hücre çeşidi kullanabilirsiniz: Fagoyuvar. Bu hücreler, küçük kahverengi noktacıkları yiyerek beslenir ve büyür. Bu noktaları ölen hücrelerin de oluşturduğunu fark etmiş olabilirsiniz.
         
-        Bu mücadelede herhangi bir ışık kaynağı yok ancak besin parçaları petri kabının her tarafına dağılmış halde. 300 hücreye kadar çoğalabilecek bir canlı türü yapabilir misin?"</item>
-        <item>Kaba sadece varsayılan ayarlarda birkaç tane fagoyuvar yerleştir. Ardından bekle ve gör. Kısa bir sürenin ardından 300 hücreye ulaşıcaksın.</item>
+Bu mücadelede herhangi bir ışık kaynağı yok, ancak besin parçaları petri kabınına dağılmış halde. 300 hücreye kadar çoğalabilecek bir canlı türü yapabilir misiniz?"</item>
+        <item>Sadece petri kabına varsayılan ayarlarda birkaç tane Fagoyuvar yerleştir, ardından bekle ve gör. Kısa bir süre sonra 300 hücreye ulaşacaksın.</item>
         <item></item>
         <item>Makrofajlar II</item>
-        <item>"Geçenkinin tıpkısının aynısı olan bu kapta bu sefer 650 hücreye ulaşabilir misin?
-        Şu an deneyler bölümündeki kendi labında yüzeryuvarlara erişimin var ama bu mücadelede senden ,aynı geçenki mücadeledeki gibi, sadece fagoyuvar kullanarak oluşturacağın organizmayı ne kadar optimize edebiliceğini görmek istiyoruz.
-        Tabii ki eğer dilediğince yüzeryuvar kullanmak istiyorsan her zaman 9. mücadeleye atlayabilirsin.</item>
-        <item>Genom ayarlarından "Bölünme açısı" ve "Bölünme kütlesi" sana bu mücadeleyi çözmende yardımcı olabilir. Hücreler çizgi şeklinde yavrulamadıkları zaman etrafa daha verimli dağılıp yayılabilirler.</item>
+        <item>"Öncekinin aynısı olan bu kapta bu 650 hücreye ulaşabilir misiniz?
+
+Artık deneysel laboratuvarında Yüzeryuvarlara erişimin var, ama bu mücadelede senden aynı önceki mücadeledeki gibi sadece Fagoyuvar kullanarak oluşturacağın organizmayı ne kadar optimize edebileceğini görmek istiyoruz.
+
+Tabii eğer dilediğinizce Yüzeryuvar kullanmak istiyorsanız her zaman 9. mücadeleye atlayabilirsiniz.</item>
+        <item>"Genom ayarlarından \"Bölünme açısı\" ve \"Bölünme kütlesi\" sana bu mücadeleyi çözmende yardımcı olabilir. Hücreler çizgi şeklinde çoğalmadıkları zaman etrafa daha verimli dağılıp yayılabilirler."</item>
         <item></item>
         <item>Renkler</item>
-        <item>"Bu mücadelede, 100 sa içerisinde 5 kırmızı ve 5 sarı hücre elde etmeniz lazım. Ama bunu hehangi bir hücre koymadan yapıcaksınız. Merak etmeyin ama, onun yerine aletlerden hücre besleyicisini kullanbilirsiniz. Bu alet sayesinde hücreleri besleyebilir, bu sayede üremelerini sağlıyabilirsiniz.
+        <item>"Bu mücadelede, 100 sa içerisinde 5 kırmızı ve 5 sarı hücre elde etmeniz lazım. Ama bunu hiçbir hücre koymadan yapacaksınız. Ama merak etmeyin, çünkü onun yerine hücre besleyici aletini kullanabilirsiniz. Bu alet hücreleri büyütmenizi ve çoğaltmanızı sağlar.
         
-        İstenen renklerden doğru miktarda hücreye, hangilerini besliyerek ulaşabileceğini çözebilir misin?"</item>
+İstenilen renklerden doğru miktarda olması için hangi hücreleri besleyerek ulaşabileceğini çözebilir misin?"</item>
         <item></item>
         <item></item>
-        <item>Üretme</item>
-        <item>"Dışarıdan oldukça güzel görünen ve lezziz bir kırmızı hücre bulduk. Bölüm kantinimizin menüsüne eklemek istiyoruz ama bunun için tabii daha fazla bu hücreden lazım. Genom düzenleyici kullanıp bu hücreyi çoğaltmamıza izin vermiyorlar. Anlaşılan GDO'lu yiyecekler karşısında çok katı bir tutumları var. Bu yüzden bu hücreden daha fazla yetiştirmek için daha geleneksel metotlara başvurmalıyız.
-        Bizim için bu hücreyi çoğaltıp daha fazla yapabilir misin?"</item>
-        <item>Hareket ettirme aletini(optik cımbızı) kullanarak bu hücrenin üremesine yardımcı ol.</item>
+        <item>Çiftleşme</item>
+        <item>"Dışarıdan oldukça güzel görünen ve leziz, kırmızı bir hücre bulduk. Enstitü kantinimizin menüsüne eklemek istiyoruz ama bunun için bu hücreden daha fazla lazım. Fakat GDO'lu yiyecekler konusunda katı kurallar olduğundan genom düzenleyicisini kullanıp bu hücreyi çoğaltmamıza izin vermiyorlar. Bu yüzden bu hücreden daha fazla yetiştirmek için daha geleneksel metotlara başvurmalıyız.
+Bu hücreden daha çok üretebilir misin?"</item>
+        <item>Optik cımbız aletini kullanarak bu hücrenin çoğalmasına yardımcı olun.</item>
         <item></item>
-        <item>Barış içinde yaşama</item>
-        <item>Sadece 1 ilkin hücre ekleyerek 50 sa içerinde 400 hücreye ulaşabilir misin?</item>
-        <item>İlkin hücrenin bölünüp iki farklı tipte, iki farklı işe yarayan iki hücreye ayrılmasına ihtiyacın var.</item>
+        <item>Bir arada yaşama</item>
+        <item>Sadece 1 hücre ekleyerek 50 sa içerinde 400 hücreye ulaşabilir misiniz?</item>
+        <item>İlk hücrenin bölünüp farklı işlevlere sahip iki hücreye dönüşmesi gerekecek.</item>
         <item></item>
         <item>Öğretici III</item>
-        <item>Genleri Tasarlamayı Öğrenelim</item>
+        <item>Genetik Tasarıma Giriş</item>
         <item></item>
         <item></item>
         <item>Makrofajlar III</item>
-        <item>"Bu mücadelede yeni bir hücre tipini, yüzeryuvarı, kullanmaya çalışacaksın. Bu hücre kendi başına enerji üretemiyor, beslenemiyor. Yapabildiği tek şey yüzmek! Eğer bu hücrenin kuruğu yanında tutunduğu hücreye sıkışırsa anında hayatını kaybediyor, bunu genom düzenliyicide görebilirsin. Aman ha, sakın kuruğunu bir yere kıstırmasına izin verme!
+        <item>"Bu mücadelede yeni hücre türünü, Yüzeryuvarı kullanacaksınız. Bu hücre çevresinden besin toplayamaz, ama yüzebilir! Dikkat edin: Eğer hücrenin kamçısı tutunduğu hücreye sıkışırsa anında hayatını kaybeder, bunu genom düzenleyicisinde görebilirsiniz.
         
-        Bu mücadele ortamının viskozitesi önceki "\Makrofajlar\" mücadelesinden daha fazla. Buna rağmen 420 hücreye kadar üreyebilecek bir canlı türü yapabilir misin?"</item>
-        <item>"Bu mücadeleyi tamamlamak için yapacağın organizmanın yaşam döngüsü 3 aşamadan oluşmalı.
+Bu ortamının viskozitesi önceki "\Makrofajlar\" mücadelesinden daha fazla. Buna rağmen 420 hücreye kadar üreyebilecek bir canlı türü yapabilir misiniz?"</item>
+        <item>"Bu mücadeleyi tamamlamak için yapacağınız organizmanın yaşam döngüsü 3 aşamadan oluşmalı.
         
-        Deneyler bölümündeki laboratuvarında \"Rasgele hücreler içer\" seçeneğine tıklayıp aktive edersen, ardından da petri kabını bir süre çalışır durumda gözlemlersen belki aklına bu mücadeleyi çözmek için bir fikir gelir."</item>
-        <item>"Hücre 1'in hücre 2 ve 3'e bölünmesini sağla
-        Hücre 3'ün hücre 3 ve 1'e bölünmesini sağla
-        Hücre 1 ve 3'ü fagoyuvar, 2'yi ise yüzeryuvar yap.
-        Hücre 1'i düzenlerken oradaki \"Adhesin yap\" seçeneğine tıkla.
+Deneysel modda \"Rasgele hücreler oluştur\" seçeneğini işaretleyip sıcaklığı gözlemleme moduna getirirseniz, belki aklınıza bu mücadeleyi çözmek için bir fikir gelir."</item>
+        <item>"Hücre 1'in hücre 2 ve 3'e bölünmesini sağla.
+Hücre 3'ün hücre 3 ve 1'e bölünmesini sağla.
+Hücre 1 ve 3'ü Fagoyuvar, 2'yi ise Yüzeryuvar yap.
+Hücre 1'de \"Adezin yap\" seçeneğine tıkla.
         
-        Unutma ki bu yöntem bu mücadeleyi çözmenin yollarından sadece biri."</item>
+Unutmayın ki bu yöntem bu mücadeleyi çözmenin yollarından sadece birisi."</item>
         <item>Makrofajlar IV</item>
-        <item>"Bu mücadele ortamı bir öncekine göre daha zorlu. Buna rağmen 300 hücreye ulaşabilir misin?
+        <item>"Bu ortam bir öncekine göre daha zorlu. Bu koşullarda 300 hücreye ulaşabilir misin?
         
-        Bu mücadele hücrelerin üzerinde ciddi oynamalar yapmanı gerektiriyor. Unutma ki bütün mücadeler oyunda ilerlemek için yapılmak zorunda değil!"</item>
-        <item>Bazı mücadeleleri çözmekte zorluk mu yaşıyorsun? Birazcık ilah mı gerek? O halde evrimin senin yerine çalışmasını sağla! Hemen geri \"Mücadeleler"\ ekranınına dön.  Ardından bu mücadelenin üzerine uzunca basılı tut. Bu şekilde bu mücadeledenin petri kabını aynen deneyler bölümünde kendi labına aktarıp ve açabilirsin. Makrofajlar III mücadelesini tamamlamanı sağlıyan canlı türünü petri kabına koy.(genom düzenleyiciden genomları kaydedip başka yerde tekrar yükleyebilirsin.)
+Bu mücadele, hücrelerin üzerinde ciddi oynamalar yapmanızı gerektirir. Unutmayın ki bütün mücadelelerin oyunda ilerlemek için yapılması zorunlu değildir!"</item>
+        <item>Bazı mücadeleleri çözmekte zorluk mu çekiyorsunuz, ya da ilhama mı ihtiyacınız var? O halde işinizi evrime bırakın! Hemen \"Mücadeleler"\ ekranınına geri dönün, ve ardından bu mücadelenin üzerine uzunca basın. Bu şekilde bu mücadeledeki petri kabını kendi deneysel laboratuvarınıza aktarıp açabilirsiniz. Sonra Makrofajlar III mücadelesini tamamlamanızı sağlıyan canlı türünü petri kabına koyun. (genom düzenleyicisinde genomları kaydedip başka bir yerde tekrar yükleyebilirsiniz.)
         
-        Şimdi, Simülasyonu başlat! Hücrelerin petri kabının içinde üremeye başlayacaklardır, peşi sıra radyasyon seviyesini 0'dan azıcık yüksek bir değere çek. Bu her hücre bölündüğünde genomlarında rasgele mutasyonlara sebep olacaktır. Bu mutasyonlar sayesinde yavaşça senin ürettiğin canlı türü evrimleşip o ortama kendi kendine daha iyi adapte olmaya başlayacaktır. Ortama yeterince adapte olup artık mücadeleyi tamamlayabilecekleri seviyeye geldikleri zaman genomlarını kaydet ve mücadeleye koy. Bırak işini evrim yapsın!"</item>
+Şimdi, simülasyonu başlatın! Hücreleriniz petri kabının içinde üremeye başlayacaklardır. O sırada radyasyon seviyesini 0'dan daha yüksek bir değere çekin. Böylece hücreler bölündüklerinde genomlarında rasgele mutasyonlar olacaktır. Bu mutasyonlar sayesinde farklı canlı türleri evrimleşip o ortama adapte olurlar. Ortama yeterince uyum sağladıklarında artık mücadeleyi tamamlayabilecekleri bir durumda olacaklardır. Genomlarını kaydedin ve organizmanızı mücadeleye yerleştirin."</item>
         <item></item>
         <item>Güneş ışığı</item>
-        <item>Işık kaynağı, güneşe benzer biçimde döngüsel olarak, şimdi petri kabında dönüyor. Hedefin bu dönen ışıklı ortamda 130 hücreye kadar çoğalabilen bir organizma tasarlamak.</item>
-        <item>Petri kabının duvarı boyunca yüzüp ışığı takip edebilen bir organizma tasarlaman lazım. Bir tane daha ipucu vereyim, tasarlacağın organizma birazcık \"Macrophages III\" gibi olsa belki işe yarayabilir.</item>
+        <item>Şimdi ışık kaynağı güneş gibi petri kabının etrafında dönüyor. Hedefiniz bu döngüsel ışık kaynağını kullanarak 130 hücreye kadar çoğalabilen bir organizma tasarlamak.</item>
+        <item>Petri kabının duvarı boyunca yüzüp ışığı takip edebilen bir organizma tasarlamanız lazım. Bir ipucu daha; Tasarlayacağın organizma birazcık \"Macrophages III\" gibi olsa belki işe yarayabilir.</item>
         <item></item>
         <item>Leşçil</item>
-        <item>Bu ekosistemdeki tek enerji kaynağı güneş. Sen yine de hiç fotoyuvar kullanmadan hayatta kalabilen bir organizma tasarlayabilir misin?</item>
-        <item>Ölen fotoyuvarlar arkalarında leşler bırakıyor. Bu leşlerle beslenebilen bie organizma tasarlayabilir misin?</item>
+        <item>Bu ekosistemdeki tek enerji kaynağı güneş. Yine de hiç Fotoyuvar kullanmadan hayatta kalabilen bir organizma tasarlayabilir misiniz?</item>
+        <item>Ölen Fotoyuvarlar arkalarında leşler bırakır. Bu leşlerle beslenebilen bir organizma tasarlayabilir misiniz?</item>
         <item></item>
         <item>Tohum</item>
-        <item>"Yeni bir hücre tipine artık erişebilirsin: Yağyuvarlar. Bu hücreler ,adları üzerine, yağ hücreleri yani yağ depolayabiliyorlar. Bu şekilde diğer hücre tiplerine göre içlerinde çok daha fazla enerji depolayabiliyorlar. Ayrıca yağyuvarlar yaşamak için oldukça az enerji tüketirler.
+        <item>"Yeni bir hücre türüne artık erişebilirsiniz: Yağyuvarlar. Bu hücreler, yağ depolayabilen hücrelerdir. Bu şekilde diğer hücre tiplerine göre çok daha fazla enerji depolayabilirler. Ayrıca Yağyuvarlar yaşadıkları sürede oldukça az enerji tüketirler.
         
-        Bu petri kabında hücrelerinin enerji elde edebilecekleri hiçbir şey yok. Buna rağmen sen yine de 16 hücreyi 50 sa hayatta tutabilir misin?"</item>
-        <item>Yapman gereken tek şey çok küçük bir bölünme kütlesine sahip bir yağyuvarı petri kabına koymak ve beklemek.</item>
+Bu petri kabında hücrelerinin enerji elde edebilecekleri hiçbir şey yok. Buna rağmen 16 hücreyi 50 sa hayatta tutabilir misin?"</item>
+        <item>Yapman gereken tek şey, çok küçük bir bölünme kütlesine sahip bir Yağyuvarı petri kabına koymak ve beklemek.</item>
         <item></item>
         <item>Güneş Işığı II</item>
-        <item>Işık şimdi daha da hızlı dönüyor! Bakalım bu ortamda hayatta kalıp 500 hücreye kadar çoğalabilecek bir organizma yapabilecek misin?</item>
-        <item>Maalesef hücrelerin bu ışık kaynağına asla yetişecek kadar hızlı hareket edemez. Onun yerine gerçek bitkilerin stratejisini uygulaman lazım: Aydınlık zamanlarda besin depolayıp karanlık vakitlerde kullanmak!</item>
-        <item>"Fotoyuvar ve yağyuvar içeren uzun bir soluncan yapman lazım. Mesela:
+        <item>Işık şimdi daha da hızlı dönüyor! Bu ortamda hayatta kalıp 500 hücreye kadar çoğalabilecek bir organizma yapabilecek misiniz?</item>
+        <item>Maalesef hücreleriniz asla bu ışık kaynağına yetişecek kadar hızlı hareket edemez. Onun yerine bitkilerin gerçek hayatta uyguladığı stratejiyi kullanmanız lazım: Aydınlık zamanlarda besin depolayıp karanlıkken kullanmak!</item>
+        <item>"Fotoyuvar ve Yağyuvar hücreleri içeren uzun bir solucan yapman lazım. Şunun gibi olabilir:
         
-        Hücre 1: Hücre 2 ve 3'e bölünen bir fotoyuvar olsun.
-        Hücre 2: Bölünmeyen bir yağyuvar olsun.
-        Hücre 3: Hücre 1 ve 1'e bölünen bir fotoyuvar olsun.
+Hücre 1, hücre 2 ve 3'e bölünen bir Fotoyuvar olsun.
+Hücre 2 bölünmeyen bir Yağyuvar olsun.
+Hücre 3, hücre 1'e bölünen bir Fotoyuvar olsun.
+
+Hücrelerin hepsi adezin bağı yapsın."</item>
+        <item>Makrofajlar V</item>
+        <item>Artık petri kabının duvarlarına değen her hücre ölecek. Böyle bir ortamda 100 sa boyunca toplam hücre sayısını 150'nin üstünde tutabilen bir organizma tasarlayabilir misin?</item>
+        <item>"Bazı mücadeleleri çözmekte zorlanıyor musunuz? Biraz ilham mı lazım? Yapmanız gereken tek şey evrimin bütün ağır işleri sizin yerinize yapmasını sağlamak! Hemen \"Mücadeleler"\ ekranınına geri dönün ve bu mücadelenin üzerine uzunca basılı tutun. Bu şekilde bu mücadeledenin petri kabını olduğu gibi deneyler bölümündeki laboratuvara aktarıp açabilirsiniz. Makrofajlar III mücadelesini çözmenizi sağlayan organizmayı buraya koyun! (genom düzenleyicisindeki genomları kaydedip sonra başka bir yerde yükleyebilirsiniz.)
         
-        Ayrıca hepsi de adhesin bağı yapsın".</item>
-        <item>Makrofaj V</item>
-        <item>Artık petri kabının duvarlarına değen her hücre ölücek. Böyle bir ortamda 100 sa boyunca toplam hücre sayısını 150'nin üstünde tutabilen bir organizma tasarlayabilir misin?</item>
-        <item>"Selamlar! Bazı mücadeleleri çözmekte zorlanıyor musunuz? Size birazcık ilham mı lazım? Doğru yerdesiniz! Yapmanız gereken tek şey evrimin bütün o ağır işleri sizin yerinize yapmasını sağlamak! Hemen geri \"Mücadeleler"\ ekranınına dönün. Ardından bu mücadelenin üzerine uzunca basılı tutun. Bu şekilde bu mücadeledenin petri kabını aynen deneyler bölümünde kendi labına aktarıp ve açabilirsin. Makrofajlar III mücadelesini çözmenize yardımcı olan organizmayı hemen buraya koyun! (Genom düzenleyicisindeki genomları kaydetip sonra başka yere yükleyebilirsin)
-        
-        Şimdi sadece radyasyonu çok azcık arttırıp, similasyonunu hızlandırıp bekle. Radyasyon yüzüne hücrelerin yavaşça rasgele mutasyonlar geçirecektir, işe yaramaz mutasyonlar hücreleri öldürecek bu sayede işe yararlar otomatik olarak seçilecektir. Bu yavaşça hücrelerin ortama daha iyi adapte olmasını sağlayacaktır. İstenen limitleri karşıladıklarında sadece genomlarını kopyala ve bu mücadelede kullan."</item>
+Şimdi sadece radyasyonu azıcık artırıp bekleyin. Böylece hücreleriniz yavaşça rasgele mutasyonlar geçirecektir. İşe yaramaz mutasyonlar hücreleri öldürecektir ve bu sayede kapta sadece işlevli canlılar kalacaktır. Bu, hücrelerin yavaşça ortama adapte olmasını sağlayacaktır. İstenilen limitleri karşıladıklarında genomlarını kaydet ve bu mücadelede kullan."</item>
         <item></item>
         <item>Katliam</item>
-        <item>Labımızda yeni bir hücre tipi geliştirdik: Dikenyuvar. Bu hücrelerin dikenleri diğer hücrelerin hücre zarında delikler açıyor. Ardından dikenlerini pipet gibi kullanarak onları tabiri caizse emerek yiyor. Bu petri kabındaki hücre sayısını 300'e kadar düşürebilir misin?</item>
+        <item>Laboratuvarımızda yeni bir hücre tipi geliştirdik: Dikenyuvar. Bu hücrenin dikenleri, diğer hücrelerin hücre zarlarında delikler açabilir. Ardından dikenlerini pipet gibi kullanarak kurban hücreyi tüketir. Bu petri kabındaki hücre sayısını 300'e kadar düşürebilir misiniz?</item>
         <item></item>
         <item></item>
-        <item>Üretme II</item>
-        <item>Hücre üreticimiz şu anda arızalı. Bu yüzden şimdilik yeni hücreleri petri kabına bırakamıyoruz. Buna rağmen bu petri kabında 100 kırmızı hücre üretebilir misin?</item>
-        <item>Bu petri kabında mutant bir hücre var. Bu hücreyi advantajına kullan.</item>
+        <item>Çiftleşme II</item>
+        <item>Hücre üreticimiz şu anda arızalı. Bu yüzden şimdilik petri kabına yeni hücre yerleştiremiyoruz. Buna rağmen petri kabında 100 kırmızı hücre üretebilir misin?</item>
+        <item>Bu petri kabında mutant bir hücre var. Bu hücreyi kendi avantajına kullan.</item>
         <item></item>
         <item>İstila</item>
-        <item>Örneklerinden birini kuluçka makinende bir hafta unutmuşsun. Yeni bir tür bu yüzden petri kabında gelişmiş. Sporlarını her tarafa çok verimli şekilde yayıyorlar. Bu gidişle tüm örneklerine bulaşacaklar. Onları yok etmek için bir yol bulabilir misin?</item>
-        <item>Genom üretmekten çok mikroskop üzerinde vakit geçirmen gerek.</item>
+        <item>Canlı örneklerinizden birini kuluçka makinesinde bir hafta unutmuşsunuz. Bu yüzden petri kabında farklı bir tür canlı gelişmiş. Çok verimli şekilde sporlarını her tarafa yayıyorlar. Bu gidişle tüm örneklerinize bulaşacaklar. Onları yok etmek için bir yol bulabilir misiniz?</item>
+        <item>Genom üretmekten çok mikroskop üzerinde vakit geçirmen gerekecek.</item>
         <item></item>
         <item>Karşı Önlem</item>
-        <item>Meslektaşların senin dikenyuvarına dayanabilen yeni bir organizma geliştirmişler. Bu organizmalarda bulunan duvaryuvarlar kendilerini ve onlara doğrudan bağlanmış olan hücre kardeşlerini dikenyuvarların zulmünden koruyabiliyor.
+        <item>"Meslektaşların, senin Dikenyuvarına dayanabilen yeni bir organizma geliştirmişler. Duvaryuvarlar, kendilerini ve onlara doğrudan bağlanmış olan hücreleri Dikenyuvar hücrelerinin saldırılarından koruyabilir.
         
-        Bu huzurlu ekosistemin sonunu getirebilecek bir organizma üretebilir misin? En az 420 hücreye kadar çoğalması gerek.</item>
-        <item>Şu 3 hücre tipini içeren yüzen bir organizma yap: merkezde bir zduvaryuvar, arkada bir yüzeryuvar ve en önde bir fagoyuvar</item>
-        <item>"Hücre 1,3 ve 5'i fagoyuvar yap. Hücre 2'yi yüzeryuvar ve hücre 4'ü duvaryuvar yap. Hücre 1 ve 3'de \"Adhesin yap\" bölmesine tıkla
+Bu huzurlu ekosistemin sonunu getirebilecek bir organizma üretebilir misin? En az 420 hücreye kadar çoğalması gerekecek."</item>
+        <item>3 çeşit hücre içeren ve yüzücü bir organizma yap. Merkezde bir Duvaryuvar, kıç kısmında bir Yüzeryuvar ve en önde bir Fagoyuvar olmalı.</item>
+        <item>"Hücre 1,3 ve 5'i Fagoyuvar yap. Hücre 2'yi Yüzeryuvar ve hücre 4'ü Duvaryuvar yap.
+Hücre 1 ve 3'te \"Adezin yap\" seçeneğini işaretle.
         
-        Hücre 1'in hücre 2 ve 3'e bölünmesini sağla(bu sıralamada). Artık normal bir yüzücü organizmamız var.
-        Hücre 3'ün hücre 4 ve 5'e bölünmesini sağla. Artık yüzcü organizmamız dikenyuvarlara karşı bağışıklıklı.
-        Hücre 5'in hücre 5 ve 1'e bölünmesini sağla. Artık organizmamız üreyebilecek ve etrafa yumurtalarını saçabilecek.
+Hücre 1'in hücre 2 ve 3'e bölünmesini sağla. Artık bir yüzücü organizmamız var.
+Hücre 3'ün hücre 4 ve 5'e bölünmesini sağla. Artık yüzücü organizmamız Dikenyuvarlara karşı dayanıklı.
+Hücre 5'in hücre 5 ve 1'e bölünmesini sağla. Artık organizmamız üreyebilecek ve etrafa yumurtalarını yayabilecek.
         
-        Unutma ki bu birçok çözüm yolundan sadece biri."</item>
+Unutmayın ki bu çözüm birçok diğer yoldan sadece biri."</item>
         <item>Fetih</item>
-        <item>Bütün kırmızı hücreleri yok et! Bütün kırmızı hücreler öldükten sonra ama hücrelerin en az 30 sa yaşayabilmeli! Bu yüzden kendi başlarına da yaşayabilmelerini sağlamayı unutma.
+        <item>Bütün kırmızı hücreleri yok et! Ama tüm kırmızı hücreler öldükten sonra hücrelerin en az 30 sa yaşayabilmeli! Bu yüzden kendi başlarına da yaşayabilmeleri gerektiğini unutma.
         
-        Bu mücadeleyi 220 sa içinde tamamlamak zorundasın, eğer bu süreyi geçersen başarısız olursun.</item>
+Bu mücadeleyi 220 sa altında tamamlayamazsanız, başarısız olacaksınız.</item>
         <item></item>
         <item></item>
         <item>Yüzücüler</item>
-        <item>Yeni bir hücre tipine artık erişebilirsin: Balonyuvar. Balonyuvarlar içi hava ve farklı derişimlerde sıvılarla dolu dev kofullarını kullanarak suda batacaklarını mı yoksa yüzeceklerini mi ayarlayabilirler. Bu petri kabı özel olarak masada yatay olarak durmak yerine dikey olarak konulmuş halde. Yani içindeki hücreler yavaşça aşağı düşüyor/batıyor. Böyle bir ortamda en az 350 hücreye kadar çoğalabilen bir organizma yapabilir misin?</item>
-        <item>Balonyuvarlarının yoğunluk değerlerini düşürmen lazım.</item>
+        <item>Yeni bir hücre türüne artık erişebilirsiniz: Balonyuvar. Balonyuvarlar içi hava ve farklı derişimlerde sıvılarla dolu kofullarını kullanarak batma ve yüzme durumlarını ayarlayabilirler. Bu petri kabı yatay olarak durmak yerine özellikle dikey olarak konulmuş halde. Yani normal hücreler bu kapta yavaşça aşağı kayacaktır. Böyle bir ortamda en az 350 hücreye kadar çoğalabilen bir organizma yapabilir misin?</item>
+        <item>Balonyuvarların yoğunluk değerlerini düşürmeniz lazım.</item>
         <item></item>
         <item>Yüzücüler II</item>
-        <item>Petri kabı hala dikine duruyor olsa da içindeki sıvının yoğunduluğu hücrelerin içindeki sıvıyla neredeyse aynı. Bu yüzden bu petri kabında hücreler batmıyor. Böyle bir ortamda yüzeryuvar kullanmadan 400 hücreye kadar çoğalabilecek bir organizma yapabilir misin?</item>
+        <item>Petri kabı hâlâ dik şekilde duruyor olsa da substratın yoğunluğu, hücrelerin iç yoğunluğu ile neredeyse aynı. Bu yüzden bu petri kabında hücreler batmıyor. Böyle bir ortamda Yüzeryuvar kullanmadan 400 hücreye kadar çoğalabilecek bir organizma yapabilir misin?</item>
         <item></item>
         <item></item>
         <item>Parazit</item>
-        <item>Bu kap biraz ilginç. Altta kalan sıvı çok yoğun, üstte kalan ise çok az. Bu yüzden hücreler kabın merkezinde toplanıyor.
+        <item>"Bu kaptaki sıvı yoğunluğu yükseklikle birlikte değiştiğinden burada yaşayan canlılar kabın merkezinde toplanıyor.
         
-        Birkaç tür canlı buna rağmen burada yaşıyor. Bu canlıların arasına bir de kendininkini ekleyebilir misin? Ama bunu fagoyuvar kullanmadan yapman lazım. Başarı şartın en az bu canlıların 500 sa yaşayabilmeleri.</item>
+Kendi organizmanızı, Fagoyuvar hücrelerini kullanmadan bu canlıların arasına ekleyip 500 sa boyunca yaşatabilir misiniz?"</item>
         <item></item>
         <item></item>
-        <item>Sterilizasyon/item>
-        <item>Bu petri kabını temizlemen lazım ama fısfısını kaybettin. Başka ilginç alternatif yöntemler demen gerek...</item>
+        <item>Sterilizasyon</item>
+        <item>Bu petri kabını temizlemeniz lazım ama sterilizatörünüzü kaybettiniz. Başka bir yöntem demeniz gerek...</item>
         <item></item>
         <item></item>
         <item>Konser Önü</item>
-        <item>Böylesine kalabalık bir petri kabını ele geçirebilecek bir organizma tasarlayabilir misin?</item>
+        <item>Kalabalık bir petri kabını ele geçirebilecek bir organizma tasarlayabilir misin?</item>
         <item></item>
         <item></item>
         <item>Kaygan Zemin</item>
-        <item>Bu petri kabında ne sürtünme ne de viskozite(akmaya direnç) mevcut. Böylesine absürt ve sert bir ortamda yine de başarıyla yaşayabilen bir organizma üretebilir misin?</item>
-        <item>Aydınlık alana yapışabilen bir organizma üret. Yapışkanyuvarı bunun için kullanabilirsin.</item>
+        <item>Bu örnekte viskozite çok düşük. Böylesine sert bir ortamda yaşayabilen bir organizma üretebilir misiniz?</item>
+        <item>Yapışkanyuvar hücrelerini kullanarak aydınlık alana yapışabilen bir organizma üretin.</item>
         <item></item>
         <item>Sterilizasyon II</item>
-        <item>Soluncan benzeri bir canlı petri kabımızın tepesine tutundu. Bu iğrenç şeyden derhal kurtulmamız lazım.</item>
+        <item>Solucan benzeri bir canlı petri kabımızın tepesine tutundu. Sonraki deneyimize devam edebilmek için bu canlıyı ortadan kaldırmalıyız.</item>
         <item></item>
         <item></item>
         <item>Yosun IVF</item>
-        <item>Elimizde bir yosun spermi ve yosun yumurtası var. Yosun çoğaltma programımız için döllenmeyi sağlamamız gerek.
+        <item>"Elimizde bir yosun spermi ve yosun yumurtası var. Yosun çoğaltma programımız için döllenmeyi sağlamamız gerek.
         
-        Sperm siyah hücrelerden kaçınırken kırmızılarda kaçınmıyor. Bu zavallının yumurtaya ulaşmasına yardım edebilir misin?</item>
+Sperm siyah hücrelerden kaçınırken kırmızılardan kaçınmıyor. Bu spermin yumurtaya ulaşmasına yardım edebilir misin?"</item>
         <item></item>
         <item></item>
         <item>Yüzücüler III</item>
         <item>Bu petri kabındaki ortamı anlayıp burada 450 hücreye kadar çoğalabilecek bir organizma tasarlayabilir misin?</item>
         <item></item>
         <item></item>
-        <item>Zorlu İklim</item>
-        <item>"Petri kabında maalesef hiç nitratımız yok ancak nitrat üretebilen bir hücreye artık erişebilirsin: Nitroyuvar. Nitroyuvar çevresinde ona bağlanmış olan hücrelere nitrat sağlayabilir. Merak etme ama, hücreler bu nitroyuvardan aldıkları nitratları büyük miktarlarda depolayabilir. Bu sayede bu hücreyle bağlantıları kesildiklerinde uzun süre yaşıyabilirler. Her hücre bölünmek için bir eşik değerde nitrata ihtiyacı vardır. Yani eğer yeterli nitrat yoksa bölünmez, varsa bölünebilir. Her bölünüşte sahip oldukları nitratları yavru hücrelere eşit miktarda paylaştırırlar ve bu sırada nitrat harcamazlar.
+        <item>Zorlu Koşullar</item>
+        <item>"Bu petri kabında maalesef hiç nitratımız yok. Ancak nitrat üretebilen bir hücreye artık erişebilirsin: Nitroyuvar. Bu hücre, çevresinde ona bağlanmış olan hücrelere nitrat sağlar. Ama merak etme, hücreler Nitroyuvarlarden aldıkları nitratları fazla miktarda depolayabilir. Böylece nitrositlerle bağlantıları kesildiklerinde uzun süre yaşıyabilirler. Her hücrenin bölünebilmesi için eşik değerin üstünde nitrata ihtiyacı vardır. Eğer hücrenin yeterli miktarda nitratı yoksa bölünemez. Her bölünüşte sahip oldukları nitratları yavru hücrelere eşit miktarda paylaştırırlar. Bölünme sırasında nitrat harcanmaz.
         
-        Böyle nitratsız bir ortamda 200 hücreye kadar bölünebilen bir organizma tasarlayabilir misin?"</item>
+Nitratsız bir ortamda 200 hücreye kadar bölünebilen bir organizma yapabilir misin?"</item>
         <item></item>
         <item></item>
-        <item>Zorlu İklim II</item>
-        <item>Bu sefer Güneş de yok. 400'e çıkabilir misin?</item>
+        <item>Zorlu Koşullar II</item>
+        <item>Bu sefer kapta ışık kaynağı da yok. Organizmanızın 400 hücreye kadar çoğalmasını sağlayabilir misiniz?</item>
         <item></item>
         <item></item>
-        <item>Simbiyotik</item>
-        <item>"Baklagillerin çoğu azot(nitrojen) bağlayıcı bakteriler ile simbiyotik ,yani karşılıklı fayda sağlayan, bir yaşam içindedir. Rhizobia dediğimiz bu bakteriler baklagillerin köklerindeki nodüllerde yaşar ve besin alır, bunun karşılığında da baklagile nitrat sağlar. 
+        <item>Ortakyaşam</item>
+        <item>"Baklagillerin çoğu azot bağlayıcı Rhizobia bakterileriyle karşılıklı fayda içinde yaşarlar. Bu bakteriler bitkiden beslenmenin karşılığında bitkiye nitrat sağlar. 
         
-        Bu petri kabında birkaç tane baklagillerden minnacık bitki var. Ne yazık ki bu bitkilerin rhizobiaları virüsler tarafından öldürülmüş ve bu yüzden büyümeleri nitart azlığından durmuş.
+Bu petri kabında birkaç küçük baklagil bitkisi var. Ne yazık ki bu bitkilerin rhizobiaları virüsler tarafından öldürülmüş ve bitkilerin büyümeleri nitrat eksikliği nedeniyle durmuş.
         
-        Rhizobianın yerine geçebilecek ve bu zavallılara yardım edebilecek bir organizma tasarlayabilir misin?"</item>
-        <item>Yapışkanyuvarlar türler arası besin aktarmak için kullanılabilirler.</item>
+Rhizobianın yerine gelebilecek bir organizma yaratabilir misiniz?"</item>
+        <item>Yapışkanyuvar hücreleri türler arası besin aktarımı için kullanılabilir.</item>
         <item></item>
         <item>Kaygan Zemin II</item>
-        <item>Bu kaygan petri kabında 700 hücreye ulaşabilir misin?</item>
+        <item>Bu kaygan petri kabında 700 hücreye ulaşabilir misiniz?</item>
         <item></item>
         <item></item>
         <item>Enfeksiyon</item>
-        <item>"Virüsyuvarlar adlarından da anlaşılabileceği gibi virüsler tarafından enfekte olmuş hücrelerdir. Eğer virüsyuvar herhangi bir duvaryuvar tarafından korunmayan bir hücreye temas ederse temas ettiği o hücreyi de enfekte edebilir. Enfekte olan hücreye virüsyuvar kendi genomundan bazı parçaları kopyalattırır. Doğada da zaten virüsler böyle davranıyor.
+        <item>"Virüsyuvar, bir virüs tarafından enfekte edilmiş hücre türüdür. Virüsyuvarlar, bir Duvaryuvar tarafından korunmayan bir hücreye temas ederse temas ettiği hücreyi enfekte edebilir. Virüsyuvar kendi geninden bazı kısımları bulaştığı hücreye kopyalar. Virüslerin doğadaki çalışma şekli de aşağı yukarı böyledir.
         
-        Genomun hangi parçasının kopyalanacağı genom düzenleyicisindeki \"Virüsün kopyaladığı:"\ özelliğiyle belirleniyor. Unutmaki tüm genomu da kopyalayamıyor. Sadece 2 nesil kopyalanabiliyor. Yani 1+2+4 çocuklar ve torunları. Şunu da unutma: türler arasında aynı numaralı hücrelerin genlerini değiştiriyor. Mesela 2 numarayı kopyala dersen diğer türlerdeki 2 numaralıları enfekte edip senin kendi 2 numarana çeviriyor.
+Genomun hangi parçasının kopyalanacağı genom düzenleyicisindeki \"Virüsün kopyaladığı"\ özelliğiyle belirlenir. Unutma, Virüsyuvarlar bütün genomlarını kopyalayamazlar ve sadece 2 nesile kadar kopyalayabilirler. Yani enfekte hücreye ilk genomun en fazla 1+2+4 modu kopyalanabilir.
         
-        Bu mücadeledeki amacın her şeyi virüsyuvarlarla yok edip petri kabını temizlemek. Bol şans."</item>
-        <item>Mikroskoptaki hücrelerden birine dokun, ardından genom düzenleyicisindeki \"Yükle"\ seçeneğinden \"Mikroskoptan yükle"\ye tıkla. Organizmanı tasarlamadan önce kurbanını incele.</item>
+Bu mücadeledeki amacın, bütün hücrelere virüs bulaştırıp yok ederek petri kabını temizlemek."</item>
+        <item>Mikroskoptaki hücrelerden birini seç ve dokun, ardından genom düzenleyicisindeki \"Yükle"\ seçeneğinden \"Mikroskoptan yükle"\ye tıkla. Organizmanı tasarlamadan önce kurbanını incele.</item>
         <item></item>
         <item>Labirent</item>
-        <item>"Labımızın halka açık etkinlikler programı için dünyanın en küçük labirentini tasarladık.
+        <item>"Laboratuvarımızın halka açık etkinlik programının bir parçası olarak, en küçük labirent için dünya rekorunu kırmaya çalışıyoruz.
         
-        Bizim için test etme şerefinde bulunur musun?"</item>
+Çalıştığından emin olmak için test edebilir misiniz?"</item>
         <item></item>
         <item></item>
         <item>Enfeksiyon II</item>
-        <item>Virüsler çoğunlukla çok spesifik bir canlıyı enfekte etmek için çok spesifik şekillerde evrimleşmişlerdir. Sen de bu tatlış yüzücü organizmaların kökünü kazıyıp petri kabını steril edebilecek bir virüs geliştirebilir misin?</item>
-        <item>Mikroskoptaki hücrelerden birine dokun, ardından genom düzenleyicisindeki \"Yükle"\ seçeneğinden \"Mikroskoptan yükle"\ye tıkla. Organizmanı tasarlamadan önce kurbanını incele.</item>
+        <item>Virüsler genellikle belirli bir canlıyı enfekte etmek üzere çok spesifik şekilde evrimleşir. Bu yüzücü organizmaları yok edip petri kabını temizleyecek bir virüs geliştirebilir misiniz?</item>
+        <item>Mikroskoptaki hücrelerden birini seç ve dokun, ardından genom düzenleyicisindeki \"Yükle"\ seçeneğinden \"Mikroskoptan yükle"\ye tıkla. Organizmanı tasarlamadan önce kurbanını incele.</item>
         <item></item>
-        <item>İletişimsiz Virüsler</item>
-        <item>"Virüs tarafında enfekte edilmesi sırası burada önemli çünkü her virüs bir öncekinin üzerine gen yazıyor.
+        <item>Değişmesiz Virüsler</item>
+        <item>"Enfeksiyon sırası, farklı virüsler bir hücre genomunun aynı kısmı üzerine kopyaladığında önemlidir.
         
-        Bu virüsyuvarlar basit bir yağyuvarı belli bir sırada enfekte ederek ilginç bir organizma üretmek için özel olarak tasarlandı. Ancak düzenleri şu anda bozulmuş halde, hangi sırayla yağyuvarı enfekte etmeleri gerektiğini bulabilir misin?"</item>
-        <item>Ayarlar kısmında hücre tiplerini hücre numaralarının yanında gösterilmesine izin veren bir seçenek var. Bu seçeneği açmak virüslerin genlerini incelerken sana yardımcı olabilir.</item>
+Bu virüsler, basit bir Yağyuvarı enfekte ederek ilginç bir organizma yaratmak için tasarlanmıştır, ancak bulaşma sırası bozulmuş durumda. Doğru enfeksiyon sırasını bulabilir misiniz?"</item>
+        <item>Ana ayarlar kısmında hücre türünü hücre numaralarının yanında gösterilmesi için bir seçenek var. Bu seçeneği açmak size virüs genlerini incelerken yardımcı olabilir.</item>
         <item></item>
         <item>Enfeksiyon III</item>
-        <item>Hedefin yine petri kabındaki yaşayan her şeyin soyunu kurutmak, tek fark bu sefer kapta nitratlar da yok.</item>
+        <item>Hedefiniz yine petri kabında yaşayan her şeyi ortadan kaldırmak, ancak tek fark kapta nitrat bulunmaması.</item>
         <item></item>
         <item></item>
         <item>Gen Terapisi</item>
-        <item>"Gen terapisi sağlık sektöründe bozulmuş genleri yenileriyle değiştirmek için kullanılan bir yöntem. Bu yeni genler genelde hücrelere vektör olarak virüsler kullanılarak aktarılır. Bu virüsler hücreye zarar vermeden sadece istenen geni teslim etmek amacıyla tasarlanır.
+        <item>"Gen terapisi sağlık sektöründe bozulmuş genlerin yerine yenilerini yerleştirmek için kullanılan bir yöntemdir. Yeni genler genellikle bir virüsün vektör olarak kullanılmasıyla yerleştirilir. Zararsız hale getirilmiş ve eksik geni taşıyan özel bir virüs hazırlanır.
         
-        Petri kabına bir bak, fagoyuvarlar ile yüzeryuvarların renk kombini berbat! Şu anda yüzeryuvarların genlerine erişimimiz yok ama yine de bir şekilde bu iğrneçliği bitirip göze hoş gelecek bir organizma üretmeliyiz. Şu hilkat garibelerine gen terapisi yapıp renklerini göze güzel gelicek şekilde düzeltebilir misin? 200 sa'den fazla yaşamaları lazım"</item>
+Bir de petri kabına bakın, Fagoyuvarlar ile Yüzeryuvarların renk kombini çok çirkin! Şu anda yüzeryuvarların genlerine erişimimiz yok ama yine de bir şekilde hoş görünecek bir organizma üretmeliyiz. Bu hücrelere gen terapisi yapıp kendi seçeceğiniz renklerde, aynı sayıda organizma elde edebilir misiniz? En az 200 sa yaşamaları gerekecek."</item>
         <item></item>
         <item></item>
         <item>Sindirim</item>
-        <item>"Normalde labındaki hücreleri beslemekte kullandığın besinlerin hepsi bitmiş. Çaresizlikten öğle yemeğinde yediğin dönerden arta kalanlarla hücrelerini beslemen lazım. Ama ne yazık ki fagoyuvarların ham haldeki yağı yiyemiyorlar.
+        <item>"Maalesef, sıradan hücre besinleriniz tükenmiş. Çaresizlikten öğle yemeğinde yediğiniz pastırmadan arta kalanlarla hücrelerinizi beslemeniz lazım. Ama şimdi Fagoyuvarlarinizin yağla beslenemediklerini fark ettin.
         
-        Şanslısın ki molküler biyoloji labındaki arkadaşların salgıyuvar diye yeni bir hücre tipi üretmiş. Üretilen salgıyuvar lipaz adında bir enzim salgılayabiliyor, bu sayede fagoyuvarların beslenemediği yağı birimlerine yani fagoyuvarların yiyebildiği yağ asitlerine parçalayabiliyor."</item>
+Şansınıza, moleküler biyoloji laboratuvarındaki araştırmacılar Sekrosit adında yeni bir hücre üretmiş. Bu tip hücreler lipaz adında bir enzim salgılayabilir, bu sayede fagoyuvarların beslenemediği yağı birimlerine yani fagoyuvarların yiyebildiği yağ asitlerine parçalayabiliyor."</item>
         <item></item>
         <item></item>
         <item>Sindirim II</item>
@@ -355,12 +359,12 @@
         <item></item>
         <item></item>
         <item>Balonlar</item>
-        <item>>"Politikacılar bilimsel gelişimi hızlandırmak için kanundan yeni bir patent yasası geçirdi.
+        <item>"Politikacılar bilimsel gelişimi hızlandırmak için kanundan yeni bir patent yasası geçirdi.
         
         Yüzücüler II'de kullandığımız çözümü burada ne yazık ki kullanamayız. Şu an o lisans parasını karşılayacak bir bütçemiz yok. Şu anki bütçemiz genom başına sadece bir tane balonyuvar kullanmamıza izin veriyor. Bu nedenle daha verimli türler yapma kabiliyetimizi kaybettik.
         
         Bu seferlik hedefimizi 200 hücre gibi düşük bir rakamda tutuyoruz. Bu ekonimik darboğazı nöroyuvarları kullanarak aşabilir misin?"</item>
-        <item>Titrşim ayarlamadan nöroyuvarın periyodunu maksimuma çıkar. Nöroyuvarını organizmaya adhesin ile bağladığından emin ol.</item>
+        <item>Titreşim ayarlamadan nöroyuvarın periyodunu maksimuma çıkar. Nöroyuvarını organizmaya adezin ile bağladığından emin ol.</item>
         <item></item>
         <item>Sürtünme</item>
         <item>Bu petri kabı biraz kuru halde bu yüzden yüzmek pek de verimli değil. Daha yeni geliştirdiğimiz kasyuvarı kullanarak alternetif bir hareket yöntemi bulabilir misin?</item>
@@ -617,10 +621,10 @@
     <string-array name="tut_text_3">
         <item>"Bu öğretici bölüm sana nasıl basit yüzücü bir organizma tasarlayıp yapacağını öğretecek.
         
-        Öncelikle genom düzenleyicisine git ve H1'in bir fagoyuvar olduğundan emin ol. Ayrıca bölündüğünde adhesin bağı yaptığından da emin ol. Ardından önizleme sayacını 0.8 sa'e getir."</item>
+        Öncelikle genom düzenleyicisine git ve H1'in bir fagoyuvar olduğundan emin ol. Ayrıca bölündüğünde adezin bağı yaptığından da emin ol. Ardından önizleme sayacını 0.8 sa'e getir."</item>
         <item>"Şahane iş!
         
-        Unutma, eğer daha iyi anlamak istiyorsan adhesin yap özelliğine tıklarak çıkan metni okuyabilirsin.
+        Unutma, eğer daha iyi anlamak istiyorsan adezin yap özelliğine tıklarak çıkan metni okuyabilirsin.
         
         Şu an iki tane tıpatıp aynı hücrenin birbirine bağlanmış halde durduğunu görüyor olman lazım. Her ikisi de H1 modunda çünkü ilkin hücre olan H1 şu an aynı modda olan iki hücreye bölünüyor.
         
@@ -654,7 +658,7 @@
         Bu moleküllerin hücre içindeki miktarları bazı hücrelerin nasıl davranabileceğini etkileyebiliyor. Biz Hücre Labı'nda bu tür durumları kısaca "&lt;i> programlanabilir&lt;/i>" diye izah ediyoruz. Bazı hücre tipleri, mesela nöroyuvar, bu sinyal moleküllerinden üretebiliyor.
         
         H1'i bir nöroyuvar yap. Ardından onu basit 2 hücreli yüzer bir organizmaya bölünecek şekilde ayarla:
-        H1 = Nöroyuvar, adhesin yapsın
+        H1 = Nöroyuvar, adezin yapsın
         \u0009\u0009\u0009\u0009\u0009çocuk 1 = H2, çocuk 2 = H3 
         H2 = yüzeryuvar
         H3 = Fagoyuvar"</item>
@@ -687,8 +691,8 @@
         Hadi gidip yüzücünün kafasındaki fagoyuvarı bir nöroyuvara çevirelim. H3'ü nöroyuvar yaptıktan sonra gidip ayarlarından alttaki titreşim ayarlama butonuna tıkla."</item>
         <item>"Burası belli aralıklarla dört kanaldaki üretimi sıfırlar, bunu öyle akıllıca yapar ki adeta iki farklı uyartı molekülünün periyodik olarak salınmasına izin verir.
         
-        1 adhesin bağlantısı seçeneğini seç çünkü nöroyuvarın sadece bir adhesin bağı yapıyor. Kanalları S1 ve S2'ye periyodu ise 1 saate ayarla. Ardından H1'i tekrardan petri kabına koy ve bu sefer nasıl davrandığını incele."</item>
-        <item>"Gördüğün gibi organizman bir yüzüyor bir duruyor, bir yüzüyor bir duruyor. Nöroyuvarın ürettiği sinyal moleküller adhesin bağı üzerinden yüzeryuvara gidiyor. Yağyuvarlar dışında bu her hücre tipinde gerçekleşir. Bu yüzden yağyuvarlar aynı gerçek hayvanlardaki glia hücreleri gibi nöronları izole etmek ve korumak için kullanılabilir.
+        1 adezin bağlantısı seçeneğini seç çünkü nöroyuvarın sadece bir adezin bağı yapıyor. Kanalları S1 ve S2'ye periyodu ise 1 saate ayarla. Ardından H1'i tekrardan petri kabına koy ve bu sefer nasıl davrandığını incele."</item>
+        <item>"Gördüğün gibi organizman bir yüzüyor bir duruyor, bir yüzüyor bir duruyor. Nöroyuvarın ürettiği sinyal moleküller adezin bağı üzerinden yüzeryuvara gidiyor. Yağyuvarlar dışında bu her hücre tipinde gerçekleşir. Bu yüzden yağyuvarlar aynı gerçek hayvanlardaki glia hücreleri gibi nöronları izole etmek ve korumak için kullanılabilir.
         
         Bu Öğretici bölümü bitirdin ve artık biraz nörobilim yapmaya da hazırsın! Kolay gelsin!</item>
     </string-array>
