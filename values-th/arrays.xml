@@ -1,84 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aa_mode_names">
-        <item></item>
+        <item>ไม่มี</item>
         <item></item>
         <item></item>
         <item></item>
         <item></item>
     </string-array>
     <string-array name="cell_type_abbreviations">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>ฟก</item>
+        <item>ฟล</item>
+        <item>ฟต</item>
+        <item>ดว</item>
+        <item>ลป</item>
+        <item>คต</item>
+        <item>โบ</item>
+        <item>กล</item>
+        <item>วร</item>
+        <item>ไน</item>
+        <item>สต</item>
+        <item>ซน</item>
+        <item>มย</item>
+        <item>นร</item>
+        <item>ซค</item>
+        <item>ซม</item>
+        <item>กม</item>
+        <item>ซล</item>
     </string-array>
     <string-array name="cell_type_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>ฟาโกไซท์</item>
+        <item>ฟลาเจลโอไซท์</item>
+        <item>โฟโตไซท์</item>
+        <item>เดโวโลไซท์</item>
+        <item>ไลโปไซท์</item>
+        <item>เคราติโนไซท์</item>
+        <item>โบโยไซท์</item>
+        <item>กลูโอไซท์</item>
+        <item>ไวโรไซท์</item>
+        <item>ไนโตรไซท์</item>
+        <item>สตีรีโอไซท์</item>
+        <item>เซนซีโอไซท์</item>
+        <item>มายโอไซท์</item>
+        <item>นิวโรไซท์</item>
+        <item>ซีโครไซท์</item>
+        <item>ซเต็มโอไซท์</item>
+        <item>แกมอีท</item>
+        <item>ซิลิโอไซท์</item>
     </string-array>
     <string-array name="cell_type_names_plural">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>ฟาโกไซท์</item>
+        <item>ฟลาเจลโอไซท์</item>
+        <item>โฟโตไซท์</item>
+        <item>เดโวโลไซท์</item>
+        <item>ไลโปไซท์</item>
+        <item>เคราติโนไซท์</item>
+        <item>โบโยไซท์</item>
+        <item>กลูโอไซท์</item>
+        <item>ไวโรไซท์</item>
+        <item>ไนโตรไซท์</item>
+        <item>สตีรีโอไซท์</item>
+        <item>เซนซีโอไซท์</item>
+        <item>มายโอไซท์</item>
+        <item>นิวโรไซท์</item>
+        <item>ซีโครไซท์</item>
+        <item>ซเต็มโอไซท์</item>
+        <item>แกมอีท</item>
+        <item>ซิลิโอไซท์</item>
     </string-array>
     <string-array name="challenge_tabs">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>คำชี้แจง</item>
+        <item>กล้องจุลทรรศน์</item>
+        <item>จีโนม</item>
     </string-array>
     <string-array name="level_strings">
+        <item>บทที่ ๑</item>
+        <item>การใช้กล้องจุลทรรศน์</item>
         <item></item>
         <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>บทที่ ๒</item>
+        <item>การใช้เครื่องมือทำจีโนม</item>
         <item></item>
         <item></item>
         <item></item>
