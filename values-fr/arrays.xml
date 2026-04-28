@@ -93,91 +93,91 @@ La lumière du Soleil impacte la partie éclairée en haut du substrat."</item>
         <item>Microalgue II</item>
         <item>"Cette fois-ci l'objectif est de créer une espèce qui peut se multiplier jusqu'à au moins 150 cellules sur le même substrat que le défi précédent.
  
-Ce défi et beaucoup d'autres ne sont pas requis pour continuer dans le jeu. Vous pouvez le résoudre plus tard si vous le trouvez difficile pour l'instant."</item>
-        <item>Les cellules petites ont tendance à être en plus grand nombres. La propriété Masse de séparation pourrait être utile.</item>
+Ce défi et beaucoup d'autres ne sont pas requis pour continuer dans le jeu. Tu peux le résoudre plus tard si tu le trouves difficile pour l'instant."</item>
+        <item>Les petites cellules ont tendance à être en plus grand nombres. La propriété Masse de division pourrait être utile.</item>
         <item></item>
         <item>Microalgue III</item>
-        <item>Ce substrat a une viscosité bien plus basse que les précédents. Pouvez-vous concevoir un espèce qui survie dans cet environnement?</item>
+        <item>Ce substrat a une viscosité bien plus basse que les précédents. Peux-tu concevoir un espèce qui survie dans cet environnement?</item>
         <item>Une propriété utile dans l'éditeur de génome est Faire de l'adhésine.</item>
         <item></item>
         <item>Macrophages</item>
-        <item>"Un autre type de cellule est désormais disponible, le Phagocyte. Il peut manger les petits points marrons que vous avez peut-être vu apparaitre quand les cellules meurent. Manger ces petits nutriments les fait grandir.
+        <item>"Un autre type de cellule est désormais disponible, le Phagocyte. Il peut manger les petits points marrons que tu as peut-être vu apparaitre quand les cellules meurent. Manger ces petits nutriments les fait grandir.
  
-Aucune source de lumière n'est présente dans ce défi, mais des bouts de nutriments sont constamment saupoudrés sur le substrat. Pouvez-vous créer une espèce qui se multiplie jusqu'à 300 cellules?"</item>
+Aucune source de lumière n'est présente dans ce défi, mais des bouts de nutriments sont constamment saupoudrés sur le substrat. Peux-tu créer une espèce qui se multiplie jusqu'à 300 cellules?"</item>
         <item>Placez simplement quelques Phagocytes avec des paramètres par défaut sur le substrat et observez patiemment. Dans un peu de temps vous devriez avoir 300 cellules.</item>
         <item></item>
         <item>Macrophages II</item>
-        <item>"Pouvez-vous obtenir 650 cellules sur le même substrat qu'avant?
+        <item>"Peux-tu obtenir 650 cellules sur le même substrat qu'avant?
  
-Vous avez désormais accès au Flagellocytes dans le labo expérimental, mais dans ce défi nous travaillons encore avec les mêmes contraintes que le défi précédent pour voir si nous pouvons optimiser notre organisme sans les Flagellocytes.
+Tu as désormais accès axu Flagellocytes dans le labo expérimental, mais dans ce défi nous travaillons encore avec les mêmes contraintes que le défi précédent pour voir si nous pouvons optimiser notre organisme sans les Flagellocytes.
  
-You can always skip this challenge and go directly to challenge 9 where you can use Flagellocytes if you like."</item>
-        <item>"The properties \"Split angle\" and \"Split mass\" might be useful to solve this challenge. The cells spread more efficiently if they don't end up on a line."</item>
+Si tu le souhaites, tu peux sauter ce niveau et aller directement au défi 9 où tu peux utiliser des Flagellocytes."</item>
+        <item>"Les propriétés \"Angle de division\" et \"Masse de division\" pourraient être utiles pour résoudre ce défi. Les cellules se répandent plus efficacement si elles ne terminent pas tous sur la même ligne."</item>
         <item></item>
-        <item>Colors</item>
-        <item>"In this challenge you have 100 h to get 5 red and 5 yellow cells. Only problem, you can not place any cells. You do, however, have access to the cell boost tool. This tool lets you make cells grow and split.
+        <item>Couleurs</item>
+        <item>"Dans ce défi, tu as 100 heures pour obtenir 5 cellules rouges et 5 cellules jaunes. Seulement, tu ne peux placer aucune cellule. Tu as, cependant, accès à l'outil de boost de cellule. Cet outil te laisse faire grandir et diviser les cellules.
  
-Can you figure out which cells to boost to get the correct number of cells of each color?"</item>
+Peux-tu trouver quelles cellules booster pour obtenir le nombre correcte de cellules de chaque couleur?"</item>
         <item></item>
         <item></item>
-        <item>Breeding</item>
-        <item>"We have found a beautiful, and tasty, red cell in nature. We would like to have more of it to improve the institute canteen but since it has a strict no-GMO policy, we cannot recreate this by copying it to the genome editor. 
-Can you make more of this cell using some traditional breeding strategy?"</item>
-        <item>Use the move tool to help this cell</item>
+        <item>Reproduction</item>
+        <item>"Nous avons trouvé une magnfique, et juteuse, cellule rouge dans la nature. Nous souhaiterions en avoir plus pour améliorer la cantine de l'institut mais puisqu'elle a une politique non-GMO stricte, nous ne pouvons pas la produire en la copiant à l'éditeur de génome. 
+Peux-tu produire plus de cette cellule en utilisant des stratégies de reproduction traditionelles?"</item>
+        <item>Utilise l'outil de déplacement pour aider cette cellule</item>
         <item></item>
         <item>Coexistence</item>
-        <item>Can you get over 400 cells during 50 h on this substrate by just adding one initial cell?</item>
-        <item>You will need your initial cell to divide into two cells with different functions.</item>
+        <item>Peux-tu obtenir plus de 400 cellules pendant 50 heures sur ce substrat en n'ajoutant qu'une cellule initiale?</item>
+        <item>Votre cellule initiale devra se diviser en deux cellules avec des fonctions différentes.</item>
         <item></item>
-        <item>Tutorial III</item>
-        <item>Introduction to Genetic Design</item>
+        <item>Tutoriel III</item>
+        <item>Introduction à la Conception Génétique</item>
         <item></item>
         <item></item>
         <item>Macrophages III</item>
-        <item>"We are going to try to use your new cell, the Flagellocyte, for this challenge. This cell can not gain energy from the environment, but it can swim! Note that this cell immediately dies if attached to another cell such that the flagellum is obstructed.
+        <item>"Nous allons essayer d'utiliser ta nouvelle cellule, le Flagellocyte, pour ce défi. Cette cellule ne peut pas gagner de l'énergie de son environnement, mais elle peut nager! Notez que cette cellule meurt immédiatement si elle est attachée à une autre cellule tel que son flagelle est couvert.
  
-The viscosity of this substrate is higher than in the previous \"Macrophages\" challenge. Can you nevertheless make a species multiply to 420 cells?"</item>
-        <item>"To solve this challenge you will need your organism's life cycle to include three different modes.
+La viscosité de ce substrat est plus haute que dans le défi \"Macrophages\" précédent. Peux-tu quand même créer une espèce qui se multiple jusqu'à 420 cellules?"</item>
+        <item>"Pour résoudre ce défi, le cycle de vie de votre organisme devra inclure 3 modes différents.
  
-Ticking \"Contaminate with random cells\" in experimental mode and running for a little while might give you some ideas on how to solve this challenge."</item>
-        <item>"Have mode 1 split to mode 2 and 3. 
-Have mode 3 split to 3 and 1. 
-Let mode 1 and 3 be Phagocytes and mode 2 Flagellocyte. 
-Tick \"Make Adhesin\" for mode 1.
+Cocher \"Contaminer avec des cellules au hasard\" en mode expérimental et laisser tourner pour quelques temps pourrait te donner quelques idées pour résoudre le défi."</item>
+        <item>"Fais en sorte que le mode 1 se divise en les modes 2 et 3. 
+Le mode 3 doit se diviser en 3 et 1. 
+Les modes 1 et 3 doivent être des Phagocytes le mode 2 un Flagellocyte. 
+Coche \"Créer de l'Adhésine\" pour le mode 1.
  
-Note that this is one among many different ways to solve this challenge."</item>
+Note que ceci n'est qu'une manière parmi tant d'autres de résoudre ce défi."</item>
         <item>Macrophages IV</item>
-        <item>"The environment of this challenge is less friendly than the previous one. Can you nevertheless get 300 cells?
+        <item>"L'environnement de ce défi est moins amicable que le précédent. Peux-tu quand même obtenir 300 cellules?
  
-This requires some serious optimization of your cells. Note that all challenges do not have to be solved to progress in the game."</item>
-        <item>"Having trouble solving some of the challenges and need some inspiration? Let evolution do the job for you! Go to the \"Challenges\" tab of the main menu and make a long press on this challenge to open it in experimental mode. Put the solution you found for the Macrophages III challenge on the substrate (you can save and load genomes in the genome editor).
+Ceci demande de grandes optimisations de tes cellules. Note que les défis n'ont pas tous besoins d'être achevés pour progresser dans le jeu."</item>
+        <item>"Résoudre certains défis te pose problème et tu as besoin d'inspiration? Laisse l'évolution faire le travail à ta place! Va à l'onglet \"Défis\" du menu principal et appuie longuement sur ce défi pour l'ouvrir en mode expérimental. Mets la solution que tu as trouvée pour le niveau Macrophages III sur le substrat (tu peux sauvegarder et charger un génome dans l'éditeur de génome).
  
-Now start the simulation and you should have some cells multiplying in the environment. If you now increase the radiation level from 0 to slightly above 0 the cells will start mutating and soon you will have more cells than you started with since they have adapted to their environment. Once they reach the required limit you can copy a cell to the genome editor, save it, and use it in this challenge."</item>
+Maintenant, lance la simulation et tu devrais voir des cellules se diviser dans l'environnement. Si tu augmentes maintenant le niveau de radiation de 0 à légèrement plus que 0, les cellules vont commencer à subir des mutations et bientôt tu auras plus de cellules que ce avec quoi tu as commencé car elles se seront adaptées à leur environnement. Quand elles auront atteint la limite requise, tu peux copier une cellule dans l'éditeur de génome, la sauvegarder, et l'utiliser dans ce défi."</item>
         <item></item>
-        <item>Sunlight</item>
-        <item>The light source is now moving around the substrate, much like the sun. Your goal is to design cells that can multiply up to 130 cells with this rotating light source.</item>
-        <item>You will need to make a cell that can swim around the edge of the substrate, following the light. Maybe you can modify your solution of challenge \"Macrophages III\" slightly?</item>
+        <item>Lumière du Soleil</item>
+        <item>La source de lumière tourne désormais autour du substrat, tout comme le Soleil. Ton but est de concevoir des cellules qui peuvent se multiplier jusqu'à 130 cellules avec cette source de lumière rotative.</item>
+        <item>Tu auras besoin de créer une cellule qui peut nager autour du bord du substrat, suivant la lumière. Peut-être peux-tu modifier un peu ta solution au défi \"Macrophages III\"?</item>
         <item></item>
-        <item>Scavenger</item>
-        <item>The only source of energy on this substrate is the sun. Can you nevertheless create a viable species without using photocytes?</item>
-        <item>The present photocytes leave small pieces of nutrients behind when they die. Can you make a species that lives off of them?</item>
+        <item>Charognard</item> <!-- Je n'avais jamais entendu ce terme auparavant et je ne suis donc vraiment pas sûr de sa valeur en tant que traduction de "Scavenger" -->
+        <item>La seule source d'énergie dans ce substrat est le Soleil. Peux-tu quand même concevoir une espèce viable sans user des photocytes?</item>
+        <item>Les photocytes présents laissent des petits bouts de nutriments derrière eux quand ils meurent. Peux-tu créer une espèce qui vie grâce à eux?</item>
         <item></item>
-        <item>Seed</item>
-        <item>"A new type of cell is now available, the Lipocyte. This cell contains fat and can thus store more energy than other cells. These cells also consume very little energy.
+        <item>Graine</item>
+        <item>"Un nouveau type de cellule est désormais disponible, le Lipocyte. Cette cellule contient de la graisse et peut donc contenir plus d'énergie que d'autres cellules. Ces cellules consomment aussi peu d'énergie.
  
-This substrate contains no energy source, can you nevertheless keep 16 live cells on it for 50 h?"</item>
-        <item>Use a Lipocyte with very low split mass and just wait.</item>
+Ce substrat ne contient aucune source d'énergie, peux-tu quand même garder y 16 cellules en vie pendant 50 heures?"</item>
+        <item>Utilise un Lipocyte avec une masse de division très basse et attends.</item>
         <item></item>
-        <item>Sunlight II</item>
-        <item>The light source is now moving faster. Your goal is to design cells that can multiply up to 500 cells with this itinerant light source.</item>
-        <item>Your cells can never swim fast enough to keep up with the sun. Instead, accumulate energy when it is abundant for use during dark times.</item>
-        <item>"Make a long worm consisting of both Photocytes and Lipocytes. One way is to have:
+        <item>Lumière du Soleil II</item>
+        <item>La source de lumière bouge désormais plus vite. Ton but est de concevoir de cellules qui peuvent se multiplier jusqu'à 500 cellules avec cette source de lumière mobile.</item>
+        <item>Tes cellules ne pourront jamais nager assez vite pour rattraper le Soleil. À la place, accumule de l'énergie quand elle est abondante pour l'utiliser quand il fait sombre.</item>
+        <item>"Crée un long ver constitué à la fois de Photocytes et de Lipocytes. Une manière serait d'avoir:
  
-Mode 1: Photocyte, split to 2,3 
-Mode 2: Lipocyte, will not split 
-Mode 3: Photocyte, split to 1,1
+Mode 1: Photocyte, se divise en 2,3 
+Mode 2: Lipocyte, ne se divise pas 
+Mode 3: Photocyte, se divise en 1,1
  
-Make adhesin for all of them."</item>
+Coche \"Créer de l'Adhésine\" pour chacun d'entre eux."</item>
         <item>Macrophages V</item>
         <item>Cells now die when they reach the edge of the substrate. Can you make a species maintaining a cell count above 150 for 100 h?</item>
         <item>"Having trouble solving some of the challenges and need some inspiration? Let evolution do the job for you! Go to the \"Challenges\" tab of the main menu and make a long press on this challenge to open it in experimental mode. Put the solution you found for the Macrophages III challenge on the substrate (you can save and load genomes in the genome editor).
