@@ -1,465 +1,786 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aa_mode_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>无</item>
+        <item>1.5 × 1.5 超级采样</item>
+        <item>2 × 2 超级采样</item>
+        <item>3 × 3 超级采样</item>
+        <item>4 × 4 超级采样</item>
+    </string-array>
+    <string-array name="aa_modes">
+        <item>无</item>
+        <item>1.5</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
     </string-array>
     <string-array name="cell_type_abbreviations">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>吞噬</item>
+        <item>鞭毛</item>
+        <item>光合</item>
+        <item>掠能</item>
+        <item>脂肪</item>
+        <item>角质</item>
+        <item>浮力</item>
+        <item>黏附</item>
+        <item>病毒</item>
+        <item>固氮</item>
+        <item>定向</item>
+        <item>感觉</item>
+        <item>肌</item>
+        <item>神经</item>
+        <item>分泌</item>
+        <item>干</item>
+        <item>配子</item>
+        <item>纤毛</item>
     </string-array>
     <string-array name="cell_type_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>吞噬细胞</item>
+        <item>鞭毛细胞</item>
+        <item>光合细胞</item>
+        <item>掠能细胞</item>
+        <item>脂肪细胞</item>
+        <item>角质细胞</item>
+        <item>浮力细胞</item>
+        <item>黏附细胞</item>
+        <item>病毒细胞</item>
+        <item>固氮细胞</item>
+        <item>定向细胞</item>
+        <item>感觉细胞</item>
+        <item>肌细胞</item>
+        <item>神经细胞</item>
+        <item>分泌细胞</item>
+        <item>干细胞</item>
+        <item>配子</item>
+        <item>纤毛细胞</item>
     </string-array>
+    <!-- These are used for challenges with an upper limit on how many cells of a certain type can be present in a genome -->
+    <!-- Example: "Devorocytes: 50 (0 - 100)" -->
     <string-array name="cell_type_names_plural">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>吞噬细胞</item>
+        <item>鞭毛细胞</item>
+        <item>光合细胞</item>
+        <item>掠能细胞</item>
+        <item>脂肪细胞</item>
+        <item>角质细胞</item>
+        <item>浮力细胞</item>
+        <item>黏附细胞</item>
+        <item>病毒细胞</item>
+        <item>固氮细胞</item>
+        <item>定向细胞</item>
+        <item>感觉细胞</item>
+        <item>肌细胞</item>
+        <item>神经细胞</item>
+        <item>分泌细胞</item>
+        <item>干细胞</item>
+        <item>配子</item>
+        <item>纤毛细胞</item>
     </string-array>
     <string-array name="challenge_tabs">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item> 目标</item>
+        <item> 显微镜</item>
+        <item> 基因组</item>
+    </string-array>
+    <string-array name="language_ids">
+        <item>en</item>
+        <item>es</item>
+        <item>ko</item>
+        <item>pl</item>
+        <item>ru</item>
+    </string-array>
+    <string-array name="language_names">
+        <item>英语</item>
+        <item>西班牙语</item>
+        <item>韩语</item>
+        <item>波兰语</item>
+        <item>俄语</item>
     </string-array>
     <string-array name="level_strings">
+        <item>教程 I</item>
+        <item>显微镜入门</item>
+        <item></item>
+        <item></item>
+        <item>教程 II</item>
+        <item>基因组编辑器入门</item>
+        <item></item>
+        <item></item>
+        <item>藻类</item>
+        <item>"使用基因组编辑器创造一个能在当前挑战环境中茁壮成长的物种。
+
+准备就绪后，在显微镜下将一个细胞放入培养基并解除冻结，观察其是否能够存活。
+完成此挑战需要100个细胞。"</item>
+        <item>"默认细胞足以应对此挑战。所有细胞都需要能量，而此挑战中可用的光合细胞能从阳光中获取能量。
+
+阳光照射在培养基顶部的明亮区域。"</item>
+        <item>"点击培养皿顶部的明亮区域添加默认细胞，并更改温度以进行观察。"</item>
+        <item>藻类 II</item>
+        <item>"这次的目标是创造一个能够在与上一个挑战相同的培养基上繁衍至至少150个细胞的物种。
+
+此挑战以及其他许多挑战并不是推进游戏所必需的。如果你觉得现在有困难，可以稍后再来解决它。"</item>
+        <item>"较小的细胞往往数量更多。“分裂质量”属性现在可能会很有用。"</item>
+        <item></item>
+        <item>藻类 III</item>
+        <item>"这个培养基的粘度比之前的要低得多。你能设计一个在其中存活的物种吗？"</item>
+        <item>"基因组编辑器中一个有用的属性是“制造黏附素”。"</item>
+        <item></item>
+        <item>巨噬细胞</item>
+        <item>"现在可以使用另一种细胞类型了：吞噬细胞。它可以吞食细胞死亡时可能出现的小褐点。吃下这些营养物质会使它们生长。
+
+此挑战中没有光源，但有营养物质散布在培养基上。你能让一个物种繁衍至300个细胞吗？"</item>
+        <item>"只需在培养基上放置几个默认设置的吞噬细胞，然后静静等待。过一会儿你就会拥有300个细胞。"</item>
+        <item></item>
+        <item>巨噬细胞 II</item>
+        <item>"你能在和之前一样的培养基上达到650个细胞吗？
+
+现在你可以在实验室内使用鞭毛细胞了，但在这次挑战中，我们仍需遵守与之前挑战相同的限制，看看能否在不使用鞭毛细胞的情况下优化我们的生物。
+
+如果你愿意，你随时可以跳过此挑战，直接进入可以使用鞭毛细胞的挑战9。"</item>
+        <item>"“分裂角度”和“分裂质量”属性可能对解决这个挑战有用。如果细胞没有排成一条线，它们的传播效率会更高。"</item>
+        <item></item>
+        <item>颜色</item>
+        <item>"在这个挑战中，你有100小时的时间来获得5个红色细胞和5个黄色细胞。唯一的问题是，你不能放置任何细胞。不过，你可以使用细胞加速工具。这个工具可以让你使细胞生长和分裂。
+
+你能找出需要加速哪些细胞，才能获得正确数量的每种颜色的细胞吗？"</item>
+        <item></item>
+        <item></item>
+        <item>繁殖</item>
+        <item>"我们在自然界发现了一种美丽又美味的红色细胞。我们希望能有更多这种细胞来改善研究所的食堂，但由于这里有严格的“禁止转基因”政策，我们不能通过把它复制到基因组编辑器来重新创造它。
+
+你能用一些传统的繁殖策略来培育出更多这种细胞吗？"</item>
+        <item>"使用移动工具来帮助这个细胞。"</item>
+        <item></item>
+        <item>共存</item>
+        <item>"仅通过添加一个初始细胞，你能在50小时内在这个培养基上达到400个以上的细胞吗？"</item>
+        <item>"你需要让初始细胞分裂成具有不同功能的两个细胞。"</item>
+        <item></item>
+        <item>教程 III</item>
+        <item>基因设计入门</item>
+        <item></item>
+        <item></item>
+        <item>巨噬细胞 III</item>
+        <item>"我们将在这个挑战中尝试使用你的新细胞——鞭毛细胞。这种细胞无法从环境中获取能量，但它会游泳！请注意，如果它附着在另一个细胞上导致鞭毛受阻，该细胞会立即死亡。
+
+这个培养基的粘度比之前的“巨噬细胞”挑战要高。尽管如此，你能让一个物种繁衍至420个细胞吗？"</item>
+        <item>"要解决这个挑战，你的生物的生命周期需要包含三种不同的模式。
+
+在实验模式中勾选“被随机细胞污染”并运行一会儿，可能会为你提供一些解决此挑战的思路。"</item>
+        <item>"让模式1分裂为模式2和3。
+让模式3分裂为3和1。
+将模式1和3设为吞噬细胞，模式2设为鞭毛细胞。
+勾选模式1的“制造黏附素”。
+
+注意，这只是众多解决该挑战方法中的一种。"</item>
+        <item>巨噬细胞 IV</item>
+        <item>"这次挑战的环境不如前一个友好。尽管如此，你能达到300个细胞吗？
+
+这需要对你的细胞进行大量优化。请注意，不需要解决所有挑战才能在游戏中取得进展。"</item>
+        <item>"在解决某些挑战时遇到困难并需要一些灵感？让进化为你代劳吧！转到主菜单的“挑战”标签，长按此挑战即可在实验模式中将其打开。将你在巨噬细胞 III 挑战中找到的解决方案放在培养基上（你可以在基因组编辑器中保存和加载基因组）。
+
+现在启动模拟，你应该会看到一些细胞在环境中繁殖。如果你现在将辐射水平从0稍微提高到0以上，细胞将开始突变，由于它们适应了环境，很快你拥有的细胞就会比开始时多。一旦它们达到所需的限制，你就可以将细胞复制到基因组编辑器中，保存它，并在该挑战中使用它。"</item>
+        <item></item>
+        <item>阳光</item>
+        <item>"现在光源在培养基周围移动，很像太阳。你的目标是设计出能在这种旋转光源下繁衍至130个细胞的细胞群。"</item>
+        <item>"你需要制造出一种能够沿着培养基边缘游动、追随光线的细胞。也许你可以稍微修改一下“巨噬细胞 III”挑战的解决方案？"</item>
+        <item></item>
+        <item>清道夫</item>
+        <item>"这个培养基上唯一的能量来源是太阳。尽管如此，你能不使用光合细胞创造出一个能够存活的物种吗？"</item>
+        <item>"现有的光合细胞死亡时会留下微小的营养碎片。你能创造一个靠它们为生的物种吗？"</item>
+        <item></item>
+        <item>种子</item>
+        <item>"现在可以使用一种新型细胞：脂肪细胞。这种细胞含有脂肪，因此能比其他细胞储存更多的能量。这些细胞消耗的能量也非常少。
+
+这个培养基不包含任何能量来源，你能保持16个活细胞在上面存活50小时吗？"</item>
+        <item>"使用分裂质量非常低的脂肪细胞，然后静静等待。"</item>
+        <item></item>
+        <item>阳光 II</item>
+        <item>"光源现在移动得更快了。你的目标是设计出能在这种游走光源下繁衍至500个细胞的细胞群。"</item>
+        <item>"你的细胞永远游不到跟上太阳的速度。相反，在能量充足时积累能量，以便在黑暗时期使用。"</item>
+        <item>"制造一条由光合细胞和脂肪细胞组成的长虫。一种方法是：
+
+模式1：光合细胞，分裂为2、3
+模式2：脂肪细胞，不分裂
+模式3：光合细胞，分裂为1、1
+
+为它们都勾选“制造黏附素”。"</item>
+        <item>巨噬细胞 V</item>
+        <item>"细胞现在到达培养基边缘时会死亡。你能让一个物种在100小时内维持150以上的细胞数量吗？"</item>
+        <item>"在解决某些挑战时遇到困难并需要一些灵感？让进化为你代劳吧！转到主菜单的“挑战”标签，长按此挑战即可在实验模式中将其打开。将你在巨噬细胞 III 挑战中找到的解决方案放在培养基上（你可以在基因组编辑器中保存和加载基因组）。
+
+现在启动模拟，你应该会看到一些细胞在环境中繁殖。如果你现在将辐射水平从0稍微提高到0以上，细胞将开始突变，由于它们适应了环境，很快你拥有的细胞就会比开始时多。一旦它们达到所需的限制，你就可以将细胞复制到基因组编辑器中，保存它，并在该挑战中使用它。"</item>
         <item></item>
+        <item>锐减</item>
+        <item>"你的研究团队开发了一种你需要测试的新型细胞。掠能细胞在接触其他细胞时会吸取它们的营养。你能将这个培养基中的细胞数量减少到300个以下吗？"</item>
         <item></item>
         <item></item>
+        <item>繁殖 II</item>
+        <item>"我们的微量移液器正在维护中，因此我们目前无法插入新细胞。无论如何，你能在培养皿上获得100个红色细胞吗？"</item>
+        <item>"这个培养基上存在一些诱变剂，利用它来获得优势。"</item>
         <item></item>
+        <item>泛滥</item>
+        <item>"你把一个样本遗忘在培养箱里整整一周，结果生长出了新物种。它们非常高效地传播孢子并感染了你所有的样本。你能想出一个清除它们的方法吗？"</item>
+        <item>"花更多时间使用显微镜，而不是设计基因组。"</item>
         <item></item>
+        <item>对策</item>
+        <item>"你的合作者已经成功开发出一种对你的掠能细胞攻击免疫的细胞。角质细胞可以保护自身以及直接附着在它上面的细胞免受敌对细胞的攻击。
+
+你能帮他们设计一种能够破坏这个培养皿上生态系统的生物吗？他们希望至少有420个细胞。"</item>
+        <item>"制造一个由三个细胞组成的游泳生物：中心是角质细胞，后部是鞭毛细胞，前部是吞噬细胞。"</item>
+        <item>"将模式1、3和5设为吞噬细胞，模式2设为鞭毛细胞，最后模式4设为角质细胞。
+勾选模式1和3的“制造黏附素”。
+
+让模式1分裂为模式2和3（按此顺序）。现在我们有了一个普通的游泳者。
+让模式3分裂为4和5。现在我们有了一个免疫游泳者。
+让模式5分裂为5和1。现在我们为新游泳者释放卵。
+
+注意，这只是众多解决该挑战方法中的一种。"</item>
+        <item>征服</item>
+        <item>"清除所有红色细胞！在红色细胞死亡后，你需要让你的细胞至少存活30小时，以确保它们能够独立生存。
+
+此挑战必须在220小时内解决。"</item>
         <item></item>
         <item></item>
+        <item>漂浮者</item>
+        <item>"现在可以使用一种新细胞了。浮力细胞有一个可以容纳密度不同于其他细胞液体的隔间。看看你是否能用它在这个已经垂直定向、细胞慢慢沉向底部的培养基上创造生命。达到350个细胞即表示它们能够生存和繁殖。"</item>
+        <item>"你需要调低浮力细胞的密度设置。"</item>
         <item></item>
+        <item>漂浮者 II</item>
+        <item>"现在培养基仍然垂直放置，但培养基材料的密度接近细胞密度，所以它们不会下落。你能否在不使用鞭毛细胞的情况下，创造出能繁衍至400个细胞的物种？"</item>
         <item></item>
         <item></item>
+        <item>寄生虫</item>
+        <item>"这个湿滑培养基的密度随高度变化，导致细胞向中心聚集。
+
+某些物种已经在这里生活，但你能在不使用吞噬细胞的情况下，让另一个物种在这里生活至少500小时吗？"</item>
         <item></item>
         <item></item>
+        <item>灭菌</item>
+        <item>"你需要杀死培养基上所有的细胞，但你弄丢了灭菌剂，你必须想点别的办法。"</item>
         <item></item>
         <item></item>
+        <item>拥挤区</item>
+        <item>"你能让一种生物迅速占领这个拥挤的培养基吗？"</item>
         <item></item>
         <item></item>
+        <item>滑坡</item>
+        <item>"在这个样本中，粘度是不存在的。你能创造一种能够在这样严酷条件下生存并茁壮成长的生物吗？"</item>
+        <item>"尝试使用黏附细胞让你的生物附着在光照区域。"</item>
         <item></item>
+        <item>灭菌 II</item>
+        <item>"某种蠕虫状生物附着在了培养基的顶部。我们需要将其清除，以便在下一个实验中使用这个培养皿。"</item>
         <item></item>
         <item></item>
+        <item>苔藓体外受精</item>
+        <item>"我们这里有一个苔藓精子和一个苔藓卵子，希望为我们的苔藓繁殖计划进行受精。
+
+精子能够避开黑色细胞，但无法避开红色细胞。你能帮它游向卵子吗？"</item>
         <item></item>
         <item></item>
+        <item>漂浮者 III</item>
+        <item>"你能弄清楚这是什么培养基，并让450个细胞在上面存活吗？"</item>
         <item></item>
         <item></item>
+        <item>恶劣环境</item>
+        <item>"在这个样本中，培养基里没有硝酸盐。不过，现在可以使用一种能固氮的新细胞：固氮细胞。这种细胞可以向相连的细胞供应硝酸盐。任何细胞都可以储存相当数量的硝酸盐，因此它们不必必须连接到这个细胞。细胞不会消耗硝酸盐，尽管在细胞分裂时会在子细胞之间共享。如果细胞没有足够的硝酸盐分裂成两个，它就不会分裂。
+
+你能在这个环境中制造一种能繁衍到200个细胞的生物吗？"</item>
         <item></item>
         <item></item>
+        <item>恶劣环境 II</item>
+        <item>"这次没有阳光。你能达到400个细胞吗？"</item>
         <item></item>
         <item></item>
+        <item>共生</item>
+        <item>"豆科植物中大多数与生活在其根系中的固氮细菌（称为根瘤菌）共生。细菌为植物提供氮，而植物为细菌提供养分。
+
+在这个培养基上，我们有几株非常微小的豆科植物。不幸的是，它们的根瘤菌被病毒杀死了，结果由于缺乏氮，植物停止了生长。
+
+你能设计一些新生物来代替根瘤菌的角色吗？"</item>
+        <item>"黏附细胞可以帮助在不同物种之间传递养分。"</item>
         <item></item>
+        <item>滑坡 II</item>
+        <item>"你能在这种奇特的培养基上获得700个细胞吗？"</item>
         <item></item>
         <item></item>
+        <item>感染</item>
+        <item>"病毒细胞是感染了病毒的细胞。如果另一个细胞触碰它，除非有角质细胞的保护，否则也有被感染的风险。当细胞被感染时，该细胞的部分基因组会被复制到另一个细胞中。这非常类似于病毒在自然界中的运作方式。
+
+复制哪部分基因组由基因组编辑器中的“病毒复制来源”属性指定。注意，不仅复制一种模式的基因，还会复制2代后代的模式基因。因此，最多会将宿主基因组的1+2+4种模式复制到新感染的细胞中。
+
+在这个挑战中，你需要通过感染病毒杀死所有初始细胞，并清理干净培养基。"</item>
+        <item>"在设计病毒之前，点击显微镜下的一个细胞，并在基因组编辑器中按“加载”，选择“从显微镜加载”以检查生活在这个培养基上的生物。"</item>
         <item></item>
+        <item>迷宫</item>
+        <item>"作为我们实验室公众宣传计划的一部分，我们正试图创造最小迷宫的世界纪录。
+
+你能测试一下确保它有效吗？"</item>
         <item></item>
         <item></item>
+        <item>感染 II</item>
+        <item>"病毒通常经过特定进化来感染特定的宿主。你能制造出感染这些生物的病毒，从而将培养基清理干净吗？"</item>
+        <item>"在设计病毒之前，点击显微镜下的一个细胞，并在基因组编辑器中按“加载”，选择“从显微镜加载”以检查生活在这个培养基上的生物。"</item>
         <item></item>
+        <item>非交换病毒</item>
+        <item>"当不同病毒覆盖细胞基因组的同一部分时，感染顺序至关重要。
+
+这些病毒被设计为通过感染一个简单的脂肪细胞来创造一种有趣的生物。它们的顺序被打乱了，你能找出正确的感染顺序吗？"</item>
+        <item>"在Cell Lab的主设置中，有一个选项可以显示模式名称旁边的细胞类型。打开该选项有助于检查这些病毒的基因组。"</item>
         <item></item>
+        <item>感染 III</item>
+        <item>"目标再次是清除培养基上所有的细胞，只是现在不含有任何硝酸盐。"</item>
         <item></item>
         <item></item>
+        <item>基因治疗</item>
+        <item>"基因治疗是医学上常用的一种方法，通过插入新基因来纠正有缺陷的基因组。新基因通常使用病毒作为载体插入。准备了一种特殊的病毒，它不会造成太大的伤害，但会插入缺失的基因。
+
+在这个培养基上，我们有一些特别难看的细胞，具体来说，大自然在匹配吞噬细胞与鞭毛细胞的颜色方面做得很差。我们无法获取鞭毛细胞的基因，但希望能看到比这些视觉上更吸引人的游泳者。你能对这些细胞进行一些基因治疗，获得数量差不多但配色符合你喜好的游泳者吗？它们需要存活超过200小时。"</item>
         <item></item>
         <item></item>
+        <item>消化</item>
+        <item>"你的细胞用尽了普通营养物质。为了绝望地喂饱它们，你省下了一块午餐的培根，但现在发现你的吞噬细胞不能以脂肪为食。
+
+幸运的是，分子生物学实验室的研究人员已经在研究类似的情况，并成功开发出能产生脂肪酶的分泌细胞。这是一种能将脂肪分解成脂肪酸的酶，供吞噬细胞食用。"</item>
         <item></item>
         <item></item>
+        <item>消化 II</item>
+        <item>"一种用于利用阳光制造生物燃料的工程生物正生活在这个培养皿上。
+
+你能制造出一种依靠死亡脂肪细胞释放出的脂质为生，从而破坏我们生产的生物吗？"</item>
         <item></item>
         <item></item>
+        <item>种群瓶颈</item>
+        <item>"这个多样化的生态系统使用一种新细胞类型——配子进行有性繁殖。这种细胞没有一套完整的染色体，因此不能分裂。
+
+不过，它可以与另一个兼容的配子融合，形成具有完整基因组的新细胞。融合后模式发生改变，生命周期可以继续。这样有益特征就可以在种群中有效地传播。
+
+不幸的是，当挑战者教授把一杯咖啡洒在这个培养皿上时，它的生态系统经历了一个种群瓶颈。现在缺失了快速游动的基因。你能将它重新引入基因池吗？"</item>
         <item></item>
         <item></item>
+        <item>适应</item>
+        <item>"你一直在用一种游泳的光合生物进行实验。不幸的是，你的照明系统开始出现故障，现在转动得很慢。
+
+你的生物不足以适应这种速度。你必须给它引入新的食物来源以维持它的生命！"</item>
         <item></item>
         <item></item>
+        <item>古遗传学</item>
+        <item>"这种古老的绿色生物被发现生活在一个酸性湖泊中。考古学家在同一个湖中发现了某种现已灭绝的微小捕食者的化石，据信它们曾以这些绿色生物为食。为了证实这一理论，我们想看看绿色物种的基因组中是否留有它们互动的痕迹。为了验证理论，我们在此培养基上放置了一种合成的捕食者物种，看看能否从绿色游泳者基因组深处唤醒某种保护机制。但这并没有发生。
+
+检查基因组后，我们发现最近的一次突变走了一条捷径：M3细胞不再分裂为M5、M6，而是分裂成M3、M4。也许这种突变的增殖是捕食者灭绝的结果？无论如何，你能否在不插入角质细胞的情况下，恢复旧有的行为，看看该物种在这种合成环境中会有何表现？
+
+如果你在未实际引入角质细胞的情况下获得400个细胞，那我们就确认了该物种拥有保护自己免受捕食者侵害的基因，因此化石捕食者很可能曾以这种生物为食。"</item>
         <item></item>
         <item></item>
+        <item>打破平衡</item>
+        <item>"培养基上生活着三个物种。你能让它们全部死亡吗？"</item>
         <item></item>
         <item></item>
+        <item>保持平衡</item>
+        <item>"培养基上生活着两个物种。你能添加第三个吗？"</item>
         <item></item>
         <item></item>
+        <item>教程 IV</item>
+        <item>细胞信号传导入门</item>
         <item></item>
         <item></item>
+        <item>气球</item>
+        <item>"我们的政治家出台了专利法，以帮助促进技术进步。
+
+我们现在如果不为浮力细胞支付巨额许可费，就无法再使用漂浮者 II 的解决方案了。我们目前的预算只允许每个基因组含有一个浮力细胞，因此我们无法再创造出同等高效的物种了。
+
+我们不得不把在这个培养基上的目标降低到200个细胞。你能利用神经细胞绕过专利法带来的限制吗？"</item>
+        <item>"在振荡器预设上使用最长的时间。确保根据生物体的情况设置神经细胞黏附素连接。"</item>
         <item></item>
+        <item>摩擦力</item>
+        <item>"这个培养基有些干涸，游泳不再那么有效。你能利用最近开发的肌细胞来寻找另一种运动方式吗？"</item>
+        <item>"肌肉收缩和抬举属性在这里很有用。也许可以将它们分配到不同的通道。"</item>
+        <item>"制造一个由三个细胞组成的线状生物，肌细胞位于中心。以良好的方式设置分裂比例和质量至关重要。"</item>
+        <item>神经紧张</item>
+        <item>"我们的野外生物学家发现了一种微小生物，它在受到某种刺激时会表现出防御行为。
+
+你能弄清楚刺激是什么吗？"</item>
         <item></item>
         <item></item>
+        <item>摩擦力 II</item>
+        <item>"这个培养基更干燥，而且细胞限制更高。你还能成功吗？"</item>
+        <item>"制作一个此培养基稍简单的版本，并使用进化可能会帮助你解决这个问题。让它运行一个晚上吧 :)"</item>
         <item></item>
+        <item>匮乏环境</item>
+        <item>"我们现在可以使用两种新细胞：感觉细胞和趋化细胞。它们可以感知食物或特定颜色细胞的气味。感觉细胞会根据气味分子浓度输出信号物质。趋化细胞会根据气味分子的左右浓度梯度输出信号物质。
+
+现在食物非常匮乏，你能想出办法在这个培养基上生存下去吗？"</item>
+        <item>"使用趋化细胞和肌细胞向食物转向。思考细胞在生物体内的位置。"</item>
+        <item>"制作一个简单的游泳者，当它获得足够的食物时，它会分裂成一个四细胞的线形生物：鞭毛细胞-肌细胞-趋化细胞-吞噬细胞。让肌细胞根据趋化细胞检测到的气味方向弯曲。
+
+调整肌细胞的反应很关键，需要进行一些实验。
+
+让吞噬细胞分裂出简单的游泳者，它们有时会幸运地发育成这些能导航的四细胞游泳者，从而让你的生物繁殖。
+
+设置高黏附素强度并调整分裂质量是至关重要的。
+
+注意，这只是解决该挑战众多方法中的一种。"</item>
+        <item>匮乏环境 II</item>
+        <item>"你能在不使用肌细胞的情况下让一个物种在这里生存吗？"</item>
         <item></item>
         <item></item>
+        <item>平地</item>
+        <item>"这个培养皿很滑，而且没有边缘，所以细胞到达边缘时会掉落并死亡。
+
+尽管如此，你能获得300个细胞吗？"</item>
         <item></item>
         <item></item>
+        <item>匮乏环境 III</item>
+        <item>"你能优化一种生物在这个培养基上达到600个细胞吗？"</item>
         <item></item>
         <item></item>
+        <item>消化 III</item>
+        <item>"此挑战与“消化”相似，但这里的食物更加匮乏。"</item>
         <item></item>
         <item></item>
+        <item>捕食者</item>
+        <item>"你能让捕食者繁殖到50个细胞，并将猎物数量减少到300个吗？"</item>
         <item></item>
         <item></item>
+        <item>欺骗</item>
+        <item>"现在我们可以使用分泌细胞了。这种细胞可以向周围分泌不同的分子。
+
+你能让一种寄生物依靠这些收割生物存活吗？"</item>
+        <item>"黏附细胞在这里很有用。给你的生物赋予一定的机动性可能会有帮助。"</item>
         <item></item>
+        <item>送餐</item>
+        <item>"红色捕食者附近没有任何食物。你能把它送过去吗？"</item>
         <item></item>
         <item></item>
+        <item>动起来！</item>
+        <item>"这个培养基盐度高，粘度极低，并且含有巨大的营养块。这是智能游泳者的天堂。遗憾的是，我们不能使用鞭毛细胞。
+
+你还能创造出一种在这个环境中茁壮成长的生物吗？"</item>
+        <item>"我们称之为“有丝分裂推进”的技术在这里很有用。"</item>
         <item></item>
+        <item>灭绝</item>
+        <item>"某种布雷生物生活在这个培养基上。你能以其人之道还治其人之身，然后把培养基清理干净吗？"</item>
         <item></item>
         <item></item>
+        <item>区别对待</item>
+        <item>"在这个培养基上，我们有两个相似的物种。
+
+你能在保留蓝色物种存活的同时根除红色物种吗？完成后不要在培养基上留下你自己的任何细胞。"</item>
         <item></item>
         <item></item>
+        <item>回避</item>
+        <item>"你能让一个物种在100小时内将初始细胞数量保持在低水平，同时繁衍至150个细胞吗？"</item>
         <item></item>
         <item></item>
+        <item>回避 II</item>
+        <item>"你能让一个物种在200小时内将初始细胞数量保持在低水平，同时繁衍至200个细胞吗？现在初始细胞正在移动。"</item>
         <item></item>
         <item></item>
+        <item>纳米机器人</item>
+        <item>"我们有皮肤癌患者的皮肤样本。
+
+你能设计一种生物，去除癌细胞但保持其余皮肤完好无损吗？"</item>
         <item></item>
         <item></item>
+        <item>沙漠</item>
+        <item>"这个培养基完全干涸了，而且几乎没有食物。你能获得200个细胞吗？"</item>
         <item></item>
         <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>沙漠 II</item>
+        <item>"同一个培养皿，但现在是600个细胞。"</item>
         <item></item>
         <item></item>
     </string-array>
     <string-array name="log_interval_names">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>无记录</item>
+        <item>每 12 分钟</item>
+        <item>每 1 小时</item>
+        <item>每 5 小时</item>
+        <item>每 25 小时</item>
+        <item>每 125 小时</item>
+        <item>每 625 小时</item>
+    </string-array>
+    <string-array name="log_intervals">
+        <item>无</item>
+        <item>12m</item>
+        <item>1h</item>
+        <item>5h</item>
+        <item>25h</item>
+        <item>125h</item>
+        <item>625h</item>
     </string-array>
     <string-array name="modes">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>冻结</item>
+        <item>观察</item>
+        <item>培养</item>
+        <item>慢速观察</item>
     </string-array>
     <string-array name="play_tabs">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>培养基</item>
+        <item>显微镜</item>
+        <item>基因组</item>
     </string-array>
     <string-array name="tut_text_1">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>"为您提供两个教程，以便您熟悉我们的实验室设备。安全规程将在其他时间教授。
+
+这第一个教程将教您如何使用我们的显微镜。
+
+请首先移步至显微镜处。"</item>
+        <item>"做得好！
+
+您在这里看到的是我们为您准备的培养皿。
+
+要使用显微镜缩放，请用两根手指做反向捏合动作。
+
+请将放大倍数增加到 300×。"</item>
+        <item>"太棒了！
+
+现在移动培养基，让我们观察培养皿顶部可见阳光的较亮区域。缩放使得该区域覆盖屏幕。
+
+单指滑动以移动培养基。"</item>
+        <item>"我看您以前用过显微镜！
+
+这个显微镜配备了显微操作器。它的用途之一是将我们遗传学实验室的细胞植入培养基。
+
+您能在有阳光的区域植入我们最近开发的细胞之一吗？
+
+在您想植入细胞的位置点击。"</item>
+        <item>"这不太难！
+
+我们的显微镜还拥有控制培养基温度的系统。将温度调高至“观察”设置，此时细胞存活但移动缓慢。
+
+温度设置由右上角的选择器控制。"</item>
+        <item>"现在您应该能看到细胞在繁殖，如果没有，请在明亮区域再插入几个。
+
+我们要对培养基培养一段时间，以便我们的细胞达到平衡。
+
+将温度调高至“培养”设置。"</item>
+        <item>"现在您应该有大量细胞了！
+
+这使得追踪它们变得困难，但幸运的是显微镜有视觉追踪器。追踪器会在选定细胞上覆盖标记，并移动培养基使其保持在视野内。
+
+再次将温度设置为“观察”，然后点击一个细胞，让显微镜追踪它。"</item>
+        <item>"很好！
+
+有时我们从自然界或我们的鼻子里提取细胞进行研究。然后，我们可以使用微量移液器提取它们的DNA，以在基因组编辑器中研究。让我们现在就对培养基上的一个细胞进行此操作。
+
+我们在培养基中放入了诱变剂，因此一些细胞应该已经发生突变。挑选一个有趣的并让追踪器跟随它。在执行此操作前，请先冻结培养基。"</item>
+        <item>"做得好。下一步是前往基因组编辑器，点击“基因组”然后按“加载”。
+
+在那里选择“从显微镜加载”，微量移液器会自动提取追踪器中细胞的DNA，对其进行测序，并将其以数字形式发送到基因组编辑器。"</item>
+        <item>"太棒了！现在我们已将突变细胞的基因组放入了基因组编辑器。
+
+您的最后一项任务是使用内置的高压灭菌器对培养基进行灭菌，为下一次实验做准备。这可以通过顶部的重置按钮（带有橙色箭头的培养皿）来完成。
+
+祝您好运，手不要伸进高压灭菌器！"</item>
+        <item>"您现已完成显微镜培训计划。接下来是基因组编辑器培训计划。
+
+按返回箭头退出第一个教程。"</item>
     </string-array>
     <string-array name="tut_text_2">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>"本教程将指导您如何使用基因组编辑器。
+
+请首先前往基因组编辑实验室。"</item>
+        <item>"很好！
+
+您在这里看到的是基因组编辑器。它分为两部分：
+\u0009- 预览窗口。
+\u0009- 模式编辑器
+
+我们将从介绍预览窗口开始。它显示您的生物在特定年龄的状态。
+
+预览窗口正下方的滑块用于设置您想查看生物什么年龄的状态。
+
+现在将预览设置为显示您的生物在 2.0 小时时的状态。"</item>
+        <item>"做得好！
+
+目前我们需要了解的关于预览的内容就这些。现在讲点遗传学！
+
+人体内所有细胞都拥有相同的DNA，但肌肉细胞和脑细胞的行为却大不相同。这在我们的实验室中被称为细胞的不同<i>模式</i>。
+
+基因组编辑器可以处理40种不同的模式。每种模式都有其独特的属性。
+
+在基因组编辑器中，一次只能编辑一种模式。要更改当前正在编辑的模式，我们使用“编辑模式”选择器。
+
+现在让我们编辑名为 M5 的模式。"</item>
+        <item>"现在，您在刚刚使用的选择器下方看到的所有属性都描述了模式 M5 的属性。您可能想知道，预览中的细胞处于什么模式？
+
+它们处于模式 M1，因为 M1 默认是初始模式。初始模式仅告诉预览从哪种模式开始。
+
+现在通过按“初始”单选按钮将 M5 设为初始模式。"</item>
+        <item>"干得不错！
+
+每种模式有很多不同的属性，多到我们在本教程中无法一一讲完。这意味着您必须自行探索。如果您想要了解基因组编辑器中任何设置的更多信息，只需点击带有下划线的附带文本即可。
+
+现在阅读关于“红色”属性的说明。您可能需要向下滚动才能看到它。"</item>
+        <item>"做得好！
+
+现在再找两个属性，让您的模式 M5 细胞完全变成红色。"</item>
+        <item>"非常漂亮！
+
+如果您来回拖动预览时间滑块，就会看到细胞在分裂。很多设置都控制着分裂如何发生。
+
+有两个重要的设置是两个子细胞所处的模式。这些设置标记为“子代 1: 模式”和“子代 2: 模式”。
+
+请进行设置，以便当模式 M5 细胞分裂时：
+\u0009- 子代 1 处于模式 M6
+\u0009- 子代 2 处于模式 M7。"</item>
+        <item>"做得好！
+
+现在您应该能看到两个不同的细胞，一个是 M6，另一个是 M7。
+
+将预览时间增加到 4 小时，看看这些细胞分裂成了什么。"</item>
+        <item>"做得好！
+ 
+现在您应该能看到4个细胞。左边有两个处于模式 M6，右边有两个处于模式 M7。家谱看起来像这样：
+ 
+\u0009\u0009      5          时间: 0.0 h 
+\u0009\u0009    /  \\ 
+\u0009\u0009   6    7        时间: 2.0 h 
+\u0009\u0009 / \\    / \\ 
+\u0009\u00096  6  7  7    时间: 4.0 h
+ 
+现在将模式 M6 和 M7 设置为“子代 1: 模式=M5”以及“子代 2: 模式=M5”，使家谱变为：
+ 
+\u0009\u0009      5 
+\u0009\u0009    /  \\ 
+\u0009\u0009   6    7 
+\u0009\u0009 / \\    / \\ 
+\u0009\u00095  5  5  5
+ 
+提示：您不需要更改“编辑模式”选择器，只需点击预览中的细胞即可切换要编辑的模式。"</item>
+        <item>"做得好！
+
+现在您的初始 M5 细胞分裂为一个 M6 和一个 M7 细胞。它们将进一步各自裂成两个 M5 细胞，生命周期就此完成。
+
+现在将其中一个细胞放入显微镜中，看看如何获得基因组相同却包含三种类型的细胞。"</item>
+        <item>"干得漂亮！
+
+您现已完成基因组编辑器教程，具备在我们实验室工作的资格！
+
+祝您的研究顺利！"</item>
     </string-array>
     <string-array name="tut_text_3">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>"本教程将指导您如何设计一个基本的会游泳和繁殖的生物。
+
+首先转到基因组编辑器，确保模式 M1 为吞噬细胞类型，且在分裂时制造黏附素。然后将预览时间设置为 0.8 小时。"</item>
+        <item>"干得不错！
+
+记住，您可以按下“制造黏附素”文本来了解该属性的作用。
+
+现在您应该能看到两个相同的细胞附着在一起。它们都处于模式 M1，因为目前初始的 M1 细胞会分裂成两个相同模式的细胞。
+
+现在我们想修改这一点，让左边的细胞处于模式 M2，右边的处于模式 M3。
+我们通过编辑模式 M1 来实现：
+将子代 1: 模式设置为 M2
+将子代 2: 模式设置为 M3"</item>
+        <item>"太棒了！
+
+现在您应该看到两个不同颜色的细胞。
+我们想让左边的细胞推动我们的生物，右边的细胞为它提供能量。
+确保模式 M3 是吞噬细胞。
+然后编辑模式 M2，使其成为鞭毛细胞。"</item>
+        <item>"太棒了！
+
+现在您有一个游泳者了！您可以在显微镜中尝试它确实会游泳。
+
+不过它还不能繁殖。我们希望前面的吞噬细胞分裂出一个能够发育成新游泳者的孢子。
+因此，我们不希望鞭毛细胞分裂，所以转到模式 M2 并将分裂质量设置为最大。"</item>
+        <item>"太棒了！
+
+现在您可以将预览时间调至 2.0 小时。
+我们看到一个孢子从模式 M3 细胞中分裂出来。我们希望这个孢子处于初始模式 M1，这样生命周期就闭合了。
+
+编辑模式 M3，将子代 2 设置为模式 M1。"</item>
+        <item>"完美！
+
+您的游泳者现在应该完成了！您可以在显微镜中尝试一下。最好保存这个基因组以备将来在挑战中使用。"</item>
     </string-array>
     <string-array name="tut_text_4">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>"在本教程中，我们将学习细胞信号传导的基础知识。
+
+我们有4种不同的细胞信号分子可供使用。我们将它们称为 S1、S2、S3 和 S4。
+
+某些细胞的行为受细胞内这些分子浓度的影响。在 Cell Lab 中，我们将这些受影响的行为称为<i>可编程的</i>。某些类型的细胞会产生这些信号分子。其中之一是神经细胞。
+
+让 M1 成为神经细胞，并让它分裂成一个基本的双细胞游泳者：
+M1 = 神经细胞，制造黏附素
+\u0009\u0009\u0009\u0009\u0009子代 1 = M2，子代 2 = M3
+M2 = 鞭毛细胞
+M3 = 吞噬细胞"</item>
+        <item>"干得不错！
+
+鞭毛细胞的游动力是一个可编程属性。在游动力滑块旁边，现在有一个带省略号（…）的按钮。按下此按钮。"</item>
+        <item>"您找到了 :)
+
+在这里，您可以将游动力设置为取决于细胞状态，而不是一个固定值。具体来说，将输入设置为信号物质<b>S1</b>。
+
+依赖关系有两种类型：线性函数和阶跃函数。
+
+选择第一个方程，即线性依赖关系。这仅取决于参数 a 和 b。设置 a=4 且 b=0。
+
+现在，当 S1 浓度高时，游动力也会变高，而在 S1 浓度低时，游动力会变低。"</item>
+        <item>"太棒了！
+
+现在让我们将培养基设置为“观察”，然后将其中一个 M1 神经细胞放入其中，以此来测试这个游泳者。"</item>
+        <item>"您应该看到您的初始神经细胞分裂成了一个游泳者，但它根本不应该游动。这是因为 S1 浓度为 0。
+
+我们希望 M1 神经细胞产生一些 S1。神经细胞有四条不同的通路产生信号物质。每一条都可以设置为产生四种信号物质中的任何一种。
+
+转到模式 M1 的设置并看向末尾。您会看到一系列输出设置。这些设置就像游动力一样，也是可编程的。现在我们使用固定值。将第一个通道设置为 S1，并将第一个输出量增加到最大。
+
+现在再次将 M1 神经细胞放置在您的培养基上。"</item>
+        <item>"太酷了！
+
+您的游泳者现在应该游了一小会儿就停了下来。它停止的原因是由于初始神经细胞遗留下来的信号分子衰减了。这意味着如果不持续产生信号分子，浓度很快就会降为 0。
+
+让我们将游泳者的头部（M3）改为神经细胞。然后进入 M3 的输出设置，并按下振荡器预设按钮。"</item>
+        <item>"这个预设会巧妙地设置四条输出途径，使得两种信号物质的浓度开始振荡。
+
+指明有 1 个神经细胞黏附素连接，因为您的神经细胞只有 1 个连接，然后将通道设置为 S1 和 S2，周期设置为 1 小时。现在再次将 M1 神经细胞放在培养基上，观察游泳者的行为！"</item>
+        <item>"您现在应该会看到您的细胞游动、停止，然后再游动、再停止，以此类推直到死亡。非常巧妙！来自神经细胞的信号分子通过黏附素连接扩散到鞭毛细胞。除了脂肪细胞外，所有细胞都会发生这种现象。因此，脂肪细胞的使用类似于动物体内神经胶质细胞的功能。
+
+您现已完成教程，可以开始一些神经科学探索了！"</item>
     </string-array>
     <string-array name="tut_title_1">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>欢迎来到细胞实验室！</item>
+        <item>更改放大倍数</item>
+        <item>移动</item>
+        <item>微量移液器</item>
+        <item>温度</item>
+        <item>培养</item>
+        <item>细胞追踪</item>
+        <item>DNA 提取</item>
+        <item>DNA 提取</item>
+        <item>灭菌</item>
+        <item>恭喜您！</item>
     </string-array>
     <string-array name="tut_title_2">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>欢迎！</item>
+        <item>概览</item>
+        <item>细胞模式</item>
+        <item>初始模式</item>
+        <item>属性说明</item>
+        <item>查找属性</item>
+        <item>子代模式</item>
+        <item>孙代模式</item>
+        <item>形成闭环</item>
+        <item>放入显微镜</item>
+        <item>恭喜您！</item>
     </string-array>
     <string-array name="tut_title_3">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>欢迎来到基因设计教程！</item>
+        <item>设置第一代细胞</item>
+        <item>设置第一代细胞类型</item>
+        <item>停止推进细胞分裂</item>
+        <item>形成闭环</item>
+        <item>保存您的工作</item>
     </string-array>
     <string-array name="tut_title_4">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>欢迎来到细胞信号传导教程！</item>
+        <item>编程游动力</item>
+        <item>设置依赖关系</item>
+        <item>测试一下！</item>
+        <item>产生一些 S1</item>
+        <item>使用预设</item>
+        <item>振荡神经细胞</item>
+        <item>教程结束！</item>
     </string-array>
 </resources>
