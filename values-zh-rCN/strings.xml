@@ -163,7 +163,7 @@
     <string name="ge_output_amount">输出</string>
     <string name="ge_output_channel">输出通道</string>
     <string name="ge_smell_blue">蓝色值</string>
-    <string name="ge_smell_blue_tip">>感知特定颜色的细胞时，这是该颜色中蓝色的含量。</string>
+    <string name="ge_smell_blue_tip">感知特定颜色的细胞时，这是该颜色中蓝色的含量。</string>
     <string name="ge_smell_green">绿色值</string>
     <string name="ge_smell_green_tip">感知特定颜色的细胞时，这是该颜色中绿色的含量。</string>
     <string name="ge_smell_output_amount_tip">这表示当它感知到“气味”时输出的信号分子。</string>
