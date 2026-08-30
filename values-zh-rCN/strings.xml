@@ -96,7 +96,7 @@
     <string name="create_calendar_message">允许广告创建日程吗?</string>
     <string name="create_calendar_title">创建日程</string>
     <string name="decline">拒绝</string>
-    <string name="default_locale">zh-rCN</string>
+    <string name="default_locale">zh</string>
     <string name="dialog_button_cancel">取消</string>
     <string name="dialog_button_discard">丢弃</string>
     <string name="dialog_button_ok">确定</string>
@@ -194,7 +194,7 @@
     <string name="gene_editor_mode_after_fert_tip">如果此细胞是融合中较大的一个，那么合子将处于此模式。</string>
     <string name="gene_editor_telomeres">受精后端粒</string>
     <string name="gene_editor_telomeres_tip">细胞每分裂一次会消耗一个端粒。端粒为 0 的细胞会死亡。当配子融合时，合子的端粒数量会重置为此值。</string>
-    <string name="gene_mode_prefix">模式</string>
+    <string name="gene_mode_prefix">M</string>
     <string name="genome_editor_adhesin_stiffnes">黏附素硬度: </string>
     <string name="genome_editor_blue">蓝色值: </string>
     <string name="genome_editor_button_load">加载</string>

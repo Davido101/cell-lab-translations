@@ -81,20 +81,6 @@
         <item> 显微镜</item>
         <item> 基因组</item>
     </string-array>
-    <string-array name="language_ids">
-        <item>en</item>
-        <item>es</item>
-        <item>ko</item>
-        <item>pl</item>
-        <item>ru</item>
-    </string-array>
-    <string-array name="language_names">
-        <item>英语</item>
-        <item>西班牙语</item>
-        <item>韩语</item>
-        <item>波兰语</item>
-        <item>俄语</item>
-    </string-array>
     <string-array name="level_strings">
         <item>教程 I</item>
         <item>显微镜入门</item>
@@ -593,7 +579,7 @@
 
 目前我们需要了解的关于预览的内容就这些。现在讲点遗传学！
 
-人体内所有细胞都拥有相同的DNA，但肌肉细胞和脑细胞的行为却大不相同。这在我们的实验室中被称为细胞的不同<i>模式</i>。
+人体内所有细胞都拥有相同的DNA，但肌肉细胞和脑细胞的行为却大不相同。这在我们的实验室中被称为细胞的不同 模式 。
 
 基因组编辑器可以处理40种不同的模式。每种模式都有其独特的属性。
 
